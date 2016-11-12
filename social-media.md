@@ -1,6 +1,8 @@
-# Social Media Privacy Settings
+# Social Media & Devices
 
-Facebook
+![](/assets/sad cat.png)
+
+## Facebook
 
 Who Can See My Stuff?
 

@@ -5,6 +5,6 @@
 * [Risks](risks.md)
 * [Set a killer pawsword \(sorry..we couldn’t help it\)](how-to-set-a-killer-pawsword-sorrywe-couldnt-help-it.md)
 * [Pawtect\(fine.. protect\) your browser](pawtectfine-protect-your-browser.md)
-* [Social Media](social-media.md)
+* [Social Media & Devices](social-media.md)
 * [Final words by Securikitty](final-words-by-cryptokitty.md)
 
