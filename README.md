@@ -1,6 +1,7 @@
 <head>
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Sue+Ellen+Francisco"/>
-<link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Rubik"/>
 
 </head>
 
