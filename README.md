@@ -5,12 +5,8 @@
 
 </head>
 
-# Basic DIY Online Privacy {#basic-diy-online-privacy}
 
 ![](/assets/cryptocat gitbook.png)
-
-
-
 ### By CHAYN & friends
 
 -------
