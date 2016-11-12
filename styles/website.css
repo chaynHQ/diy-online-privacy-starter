@@ -1,5 +1,7 @@
-/* page background */body { background-color: #F1F1F1;}
+/* page background */body { background-color: #F1F1F1; font-size: 14px;}
 
-/* heading fonts */h1 { font-size: 36px; font-family: "Sue Ellen Francisco";}
+/* heading fonts */h1 { font-size: 42px; font-family: "Sue Ellen Francisco";}
 
 /* body font */p { font-family: Lato;}
+
+/* table of contents */.book-summary{ background-color: #FFB612;}
