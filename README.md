@@ -1,6 +1,6 @@
 <head>
 <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Sue+Ellen+Francisco"/>
-<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Rubik"/>
+<link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
 
 </head>
 
