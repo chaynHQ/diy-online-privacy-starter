@@ -1,5 +1,7 @@
 # How to pawtect\(fine.. protect\) your browser
 
+![](/assets/HypuuurLynx.gif)
+
 Chrome. Safari. Firefox. Explorer.
 
 First, test how safe your current browser is with [Panopticlick](https://www.google.com/url?q=https://panopticlick.eff.org/&sa=D&ust=1478912695267000&usg=AFQjCNHRZ5gOso_CZP0hpiN1JhborhnUyA)
