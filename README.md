@@ -56,4 +56,7 @@ This guide doesn’t include all of the ways abusers can track someone, but it i
 
 ### You’re reading the BASIC guide. We’ve got an advanced one too that you can read here: {insert link}.
 
-![](/assets/Ohm 2.jpg)
+![](/assets/Ohm 2 copy.jpg)
+
+---
+![](/assets/chayn icon.png)
