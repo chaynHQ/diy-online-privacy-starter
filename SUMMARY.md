@@ -6,6 +6,6 @@
 * [Set a killer pawsword](how-to-set-a-killer-pawsword-sorrywe-couldnt-help-it.md)
 * [Pawtect your browser](pawtectfine-protect-your-browser.md)
 * [Social media & Devices](social-media.md)
-* [Final words by Securikitty](final-words-by-cryptokitty.md)
+* [Bye from Securikitty](final-words-by-cryptokitty.md)
 * [Thanks](thanks.md)
 
