@@ -1,7 +1,7 @@
 # Summary
 
 * [Hello!](README.md)
-* [How someone can track you online](how-someone-can-track-you-online.md)
+* [How you are tracked](how-someone-can-track-you-online.md)
 * [Analyzing your risk](risks.md)
 * [Set a killer pawsword](how-to-set-a-killer-pawsword-sorrywe-couldnt-help-it.md)
 * [Pawtect your browser](pawtectfine-protect-your-browser.md)
