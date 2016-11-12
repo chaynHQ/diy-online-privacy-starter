@@ -58,4 +58,6 @@ o IMPORTANT: Take the[ ](https://www.google.com/url?q=http://smartprivacy.tumblr
 
 o Create a [Google Alert](https://www.google.com/url?q=https://www.google.com/alerts&sa=D&ust=1478912695348000&usg=AFQjCNH-T5bZUuRKQwCWL8x6g3JbYp3IkQ) for your name
 
+---
+![](/assets/chayn icon.png)
 

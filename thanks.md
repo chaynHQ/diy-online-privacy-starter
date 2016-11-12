@@ -26,4 +26,6 @@ We would like to thank our amazing partners and allies who have helped us by giv
 
 http://chayn.co | @ChaynHQ | team@chayn.co
 
+![](/assets/chayn icon.png)
+
 
