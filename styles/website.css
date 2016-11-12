@@ -1,4 +1,4 @@
-/* page background */body { background-color: #F1F1F1; font-size: 18px;}
+/* page background */ body { background-color: #F1F1F1; font-size: 16px;}
 
 /* heading fonts */h1 { font-size: 52px; font-family: "Sue Ellen Francisco";}
 h2 { font-size: 42px; font-family: "Sue Ellen Francisco";}
@@ -15,4 +15,4 @@ body { font-family: 'Rubik', sans-serif; font-weight: 200;  }
 }
 
 /* side menu */
-.book-summary { color: black; font-size: 18px; font-weight: 900;}
+.book-summary {font-family:  color: black; font-size: 18px; font-weight: 900;}
