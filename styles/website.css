@@ -5,7 +5,8 @@ h2 { font-size: 42px; font-family: "Sue Ellen Francisco";}
 h3 { font-size: 32px; font-family: "Sue Ellen Francisco";}
 
 
-/* body font */p { font-family: "Rubik";}
+/* body font */p { font-family: 'Rubik', sans-serif; }
+body { font-family: 'Rubik', sans-serif; }
 
 /* table of contents */.book-summary{ background-color: #FFB612;}
 
