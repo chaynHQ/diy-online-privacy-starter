@@ -7,4 +7,5 @@
 * [Pawtect your browser](pawtectfine-protect-your-browser.md)
 * [Social media & Devices](social-media.md)
 * [Final words by Securikitty](final-words-by-cryptokitty.md)
+* [Thanks](thanks.md)
 
