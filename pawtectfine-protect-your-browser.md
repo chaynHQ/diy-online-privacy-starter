@@ -74,9 +74,7 @@ Browser Privacy Settings - Do Not Track and Private Browsing Windows
 
 ## **Tor**
 
-The Tor Browser is designed to help keep you anonymous and is a simple yet
-
-effective way of browsing the internet without revealing your identity to anyone.
+The Tor Browser is designed to help keep you anonymous and is a simple yet effective way of browsing the internet without revealing your identity to anyone.
 
 Download it[ here](https://www.google.com/url?q=https://www.torproject.org/projects/torbrowser.html.en.&sa=D&ust=1478912695309000&usg=AFQjCNHi66hbopa6PKcH0qPppM-pcYeBiw).
 
@@ -84,13 +82,7 @@ Download it[ here](https://www.google.com/url?q=https://www.torproject.org/proje
 
  ## Browser Extensions
 
-Browser extensions \(Add-ons\/plug ins\), are programs which extend or customise
-
-a web browser. Extensions can be used to protect your privacy by blocking third
-
-parties from tracking your online activity. WARNING: Extensions can also be
-
-malicious \([examples](https://www.google.com/url?q=http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/&sa=D&ust=1478912695311000&usg=AFQjCNFb-tTnXWk7R_a3k-2yK0NOUcTuBg)\).
+Browser extensions \(Add-ons\/plug ins\), are programs which extend or customise a web browser. Extensions can be used to protect your privacy by blocking third parties from tracking your online activity. WARNING: Extensions can also be malicious \([examples](https://www.google.com/url?q=http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/&sa=D&ust=1478912695311000&usg=AFQjCNFb-tTnXWk7R_a3k-2yK0NOUcTuBg)\).
 
 ### Recommended extensions:
 
