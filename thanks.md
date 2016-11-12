@@ -1,6 +1,6 @@
 # Thank paws!
 
-![](/assets/Fox Cat Thing small.png)
+![](/assets/Fox Cat Thing v small.png)
 
 This guide is a project by CHAYN, an open-source project that uses technology to empower women against violence and oppression so they can live happier and healthier lives.
 
