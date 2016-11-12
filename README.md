@@ -1,4 +1,6 @@
-<head> <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tangerine"> <style> body { font-family: 'Tangerine', serif; font-size: 48px; } </style> </head>
+<head>
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Sue+Ellen+Francisco"/>
+</head>
 
 # Basic DIY Online Privacy {#basic-diy-online-privacy}
 
