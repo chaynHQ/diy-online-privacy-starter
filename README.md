@@ -1,6 +1,6 @@
+<head> <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tangerine"> <style> body { font-family: 'Tangerine', serif; font-size: 48px; } </style> </head>
+
 # Basic DIY Online Privacy {#basic-diy-online-privacy}
-
-
 
 Introduction paragraph:  Meditation glossier irony scenester, coloring book fap banjo letterpress tote bag dreamcatcher helvetica forage poke mustache. Tumeric synth truffaut, 3 wolf moon etsy tofu DIY. Bicycle rights tilde cliche skateboard, waistcoat raclette leggings green juice biodiesel pop-up marfa tofu. Bicycle rights green juice authentic brunch raclette, yuccie yr pop-up. Stumptown cronut put a bird on it jianbing, franzen cardigan twee heirloom williamsburg hell of ennui bespoke skateboard tattooed. Beard etsy synth lyft ugh thundercats. Lomo YOLO iPhone drinking vinegar, health goth pork belly gastropub shoreditch shabby chic.
 
