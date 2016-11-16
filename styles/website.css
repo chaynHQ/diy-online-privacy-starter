@@ -1,6 +1,8 @@
 /* page background */ body { background-color: #F1F1F1; font-size: 16px;}
 
-/* heading fonts */h1 { font-size: 52px; font-family: "Sue Ellen Francisco";}
+/* heading fonts */
+@import 'https://fonts.googleapis.com/css?family=Rubik';
+h1 { font-size: 52px; font-family: "Sue Ellen Francisco";}
 h2 { font-size: 42px; font-family: "Sue Ellen Francisco";}
 h3 { font-size: 32px; font-family: "Sue Ellen Francisco";}
 
