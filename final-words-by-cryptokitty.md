@@ -2,6 +2,9 @@
 
 Read the full guide **here**.
 
+Hope you enjoyed our guide!
+**CHAYN**
+
 ![](/assets/Cat-nap--medium.gif)
 
 ---
