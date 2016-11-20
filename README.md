@@ -8,7 +8,7 @@
 </head>
 
 
-![](/assets/cryptocat gitbook.png)
+![](/assets/cryptocat.png)
 ### By CHAYN & friends
 
 -------
