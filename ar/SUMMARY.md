@@ -1,8 +1,8 @@
 # Summary
 
-* [رزمة المُبتدئ!](ar/hello.md)
-* [المخاطر](ar/risks.md)
-* [كيف تقومين باختيار كلمة سر قويّة وآمنة](ar/passwords.md)
-* [كيف تحمي متصفّحك؟](ar/protect-browser.md)
-* [إعدادات خصوصيّة التواصل الاجتماعي.](ar/socialmedia.md)
-* [Final words](ar/final-words.md)
+* [رزمة المُبتدئ!](hello.md)
+* [المخاطر](risks.md)
+* [كيف تقومين باختيار كلمة سر قويّة وآمنة](passwords.md)
+* [كيف تحمي متصفّحك؟](protect-browser.md)
+* [إعدادات خصوصيّة التواصل الاجتماعي.](socialmedia.md)
+* [Final words](final-words.md)
