@@ -63,8 +63,6 @@
 o هام: قومي بإجراء [اختبار الخصوصيّة](http://smartprivacy.tumblr.com/privacynow)  بواسطة Smart Privacy. 
 o قومي بإنشاء[ تنبيه على جوجل](https://www.google.com/alerts) باسمك الشخصيّ.
 
-# من المهم جدًا أن تفعلي ما تشعرين بأنه ضروريّ لكي تشعري بالأمان وتكونين آمنةً. إقرأي الدليل كاملاً هنا.
-
 
 ---
 ![](/assets/chayn icon.png)
