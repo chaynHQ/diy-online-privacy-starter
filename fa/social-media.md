@@ -44,23 +44,36 @@ _**چگونه موبایل اندروید خود را امن بسازیم؟**_
 در Settings رفته، روی Privacy بروید، سپس Location Services رفته و آنرا غیر فعال سازید و یا همۀ خدمات موقعیت های تانرا غیر فعال سازید.
 
 
-## Messaging Apps
+## رمزگزاری موبایل های تان
+### اندروید
+در Settings رفته بعدا روی Security بروید و سپس Encrypt device را فشار دهید.
+احتمالا یک ساعت در بر گیرد تا موبایل تان رمزگزاری شود. به یاد داشته باشید که موبایل تان شارژ کافی داشته باشد. هر دفعه که موبایل را روشن می کنید، رمز موبایل را باید بزنید تا موبایل تان رمزگزاری شود.
+ 
+### آیفون
+ 
+ایفون قبل از قبل رمگزاری شده است. به یاد داشته باشید که برای اینکه به دشواری در دسترس قرار بگیرید از پاسکودهای طولانی استفاده نمایید.
 
-### Whatsapp
 
-[WhatsApp](https://www.google.com/url?q=https://www.whatsapp.com/&sa=D&ust=1478912695335000&usg=AFQjCNELf_NF1iUfscK9LNYX-2EqNpGOow) messages are encrypted \(meaning the content of the messages you send can only be seen by you and the recipient\) but metadata about who you chat with and for how long is collected and stored.
 
-### Signal
 
-[Signal by Open Whisper Systems](https://www.google.com/url?q=https://whispersystems.org/&sa=D&ust=1478912695337000&usg=AFQjCNGHdx1WPmphFboxn6n7XGsef33BfQ) is a[ ](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Free_and_open-source_software&sa=D&ust=1478912695337000&usg=AFQjCNGwU1Q0XuVSopwVy1qJ4btHIQA3gA)[free and open-source](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Free_and_open-source_software&sa=D&ust=1478912695338000&usg=AFQjCNGeZrTk5SpXLtIP8rdwBYKi_EW8ew) encrypted[ voice calling](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Voice_calling&sa=D&ust=1478912695338000&usg=AFQjCNFZgBi7LgOXwClT5w2T3FO0BwXSnQ) and[ instant messaging](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Instant_messaging&sa=D&ust=1478912695339000&usg=AFQjCNHoXsDoewpWnUaxuu0-5F4Aos1H6w) application for Android,[ iOS](https://www.google.com/url?q=https://en.wikipedia.org/wiki/IOS&sa=D&ust=1478912695341000&usg=AFQjCNFFvfrP8d8Z0KOTVQaTMaC7utDpQg) and[ ](https://www.google.com/url?q=https://whispersystems.org/blog/signal-desktop/&sa=D&ust=1478912695341000&usg=AFQjCNH6hD7tXUzlEaQyyQ-CEIIAeu2W2A)[Desktop](https://www.google.com/url?q=https://whispersystems.org/blog/signal-desktop/&sa=D&ust=1478912695342000&usg=AFQjCNHBfEjTHJdIxswAu0yJgUVWeXzROQ). It uses[ ](https://www.google.com/url?q=https://en.wikipedia.org/wiki/End-to-end_encryption&sa=D&ust=1478912695342000&usg=AFQjCNEi5C1kJb__nmiFkCk47K4Umd7rGg)[end-to-end encryption](https://www.google.com/url?q=https://en.wikipedia.org/wiki/End-to-end_encryption&sa=D&ust=1478912695343000&usg=AFQjCNG4Vo3pcqNhwCfVoafL0sdtzb7QHg) to secure all communications to other Signal users. Signal can be used to send and receive encrypted instant messages, group messages, attachments and media messages.
+## اپلکیشن های پیام رسانی
 
-[Security Tips Every Signal User Should Know](https://www.google.com/url?q=https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/&sa=D&ust=1478912695344000&usg=AFQjCNEg5QaQwxEpg5CJqH049_FqKIAnYA)
+### وتس آپ Whatsapp
 
-# Additional Advice
+پیام های اپلکشن [وتس آپ](http://whatsapp.com) یک به شکل رمز می باشد (یعنی محتوای پیام های که شما می فرستید صرف توسط خودتان و گیریندۀ پیام تان دیده می شود) ولی فرا داده ها برای کسی که پیام می فرستید و چه مدت زمانی ذخیره می شود.
 
-o IMPORTANT: Take the[ ](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695346000&usg=AFQjCNHk6DA9iA5VUGtBxjVsKzxOjBU7sQ)[Privacy Test by Smart Privacy](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695347000&usg=AFQjCNGjAN8OCYH3WXnd3DP_haNY--ZHog)
+### سیگنال Signal
 
-o Create a [Google Alert](https://www.google.com/url?q=https://www.google.com/alerts&sa=D&ust=1478912695348000&usg=AFQjCNH-T5bZUuRKQwCWL8x6g3JbYp3IkQ) for your name
+[Signal by Open Whisper Systems](https://whispersystems.org/) یک اپلبکشن رایگان و منبع باز رمزگزاری شده که با پشتبانی مکالمه صوتی و پیام رسانی فوری برای سیستم عامل اندروید، آی او اس و دسکتاپ می باشد. بعد از هر پیامی پیام تان رمگزاری می شود تا همۀ ماکملۀ تان را برای کاربران سیگنال محفوظ نگه دارد. سیگنال برای فرستادن و دریافت پیام های فوری، پیام های گروهی، ضمیمه و پیام های تصویری و ویدیویی رمزگزاری شده استفاده می شود.
+
+
+[مزایای امنیتی که هر کاربر سیگنال باید بفهمد.](https://www.google.com/url?q=https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/&sa=D&ust=1478912695344000&usg=AFQjCNEg5QaQwxEpg5CJqH049_FqKIAnYA)
+
+# توصیه های بیشتر
+
+o [مهم: امتحان حریم خصوصی را با Smart Privacy بدهید](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695346000&usg=AFQjCNHk6DA9iA5VUGtBxjVsKzxOjBU7sQ)[Privacy Test by Smart Privacy](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695347000&usg=AFQjCNGjAN8OCYH3WXnd3DP_haNY--ZHog)
+
+o  [برای اسم تان Google Alert بسازید.](https://www.google.com/url?q=https://www.google.com/alerts&sa=D&ust=1478912695348000&usg=AFQjCNH-T5bZUuRKQwCWL8x6g3JbYp3IkQ) for your name
 
 ---
 ![](/assets/chayn icon.png)
