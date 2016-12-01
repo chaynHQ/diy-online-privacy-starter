@@ -13,12 +13,7 @@
 **“شبکه های اجتماعی چون فیسبوک معمولن فضای آسیب پذیر برای حفظ حریم خصوصی شما باشد اطلاعات شما از طریق تماس های شما و همینطور جدول زمانی اطلاعات شما روی صفحه های تان می تواند برای ردیابی شما استفاده شود.”**
 
 
-
-To assess how secure your online presence is, please also consider how your children’s and friends’ online presences and their connections with you can affect your own security. If you or your relatives have received a direct threat online by email, direct messaging or other online means, please contact the police and supply evidence.
-
-
-
-Even though you realise that you unknowingly divulged information, you can now act.
+برای ارزیابی چگونگی امنیت خود در فضای انلاین. لطفا چگونگی مصونیت کودکان و دوستان خود را نیز در فضای انلاین و همنیطور ارتباط آنها را با خود در نظر بگرید، که این این مسله می تواند روی امنیت شما نیز تاثیر گذار باشد. اگر شما ویا بستگان شما  مستقیما تهدیدی را از طریق ایمیل، پیام های شخصی و یا از طریق ابزار های دگر انلاین دریافت کرده باشد، لطفا با پلیس به تماس شوید و شواهد خود را عرضه کنید.  حتی  در موقع که شما متوجه می شوید اطلاعات شما ناخواسته افشا شده است، شما می توانید ان موقع دست به کار شوید.
 
 
 
@@ -26,24 +21,15 @@ Even though you realise that you unknowingly divulged information, you can now a
 
 
 
-## Tips to mitigate vulnerability:
+## راهنمایی برای کاهش آسیب پذیری:
+
+-          بعد از هر بار ورود و بازدید به حساب های شبکه های اجتماعی تان log out کنید ( ردیاب ها معمولن  موقع که شما خارج از حساب تان باشید٬ نمی تواند شما و اطلاعات تماس شما را بدست آورند).
+-          برنامه های جانبی مرورگر های را نصب کند که  راه دست یافتن ردیاب ها را مسدود می کند و فضای مناسب تر برای حفظ اطلاعات خصوصی شما فراهم می کند.
+-          موقع پست کردن روی شبکه های اجتماعی دقیق تر عمل کنید.
+-          در چت کردن ترجیحا اطلاعات تان را ندهید و بعد از آن تاریخچه چت های تان را پاک کنید.
 
 
-
-- Log out of social media sites after your visit (trackers usually won’t find you when you’re logged out neither would your contacts)
-
-- Install browser extensions that block trackers and ensure better privacy
-
-- Be mindful when posting on social media
-
-- Prefer anonymous chat and erase chat history
-
-
-
-
-
-Keep in mind your stalker can potentially monitor the devices of anyone they’ve come in contact with, including your children or anyone that has stayed in the same house. At the end, your own security also depends on your friends and family
-
+به خاطر داشته باشید که استالکر ( تعقیب گر )  های شما مهارت این را دارد و می تواند به دستگاه های افراد که شما با آن ها در تماس شده اید٬ دست یابند. این افراد می تواند کودکان شما باشد  و یا کسی شما با آن ها یکجای زندگی می کنید. در نهایت امر مصونیت خود شما نیز وابسته به مصونیت دوستان و فامیل تان خواهد بود.
 
 
 
