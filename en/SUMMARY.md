@@ -1,7 +1,7 @@
 # Summary
 
 * [Hello.](en/README.md)
-* [How are you being tracked?](en/README.md)
+* [How are you being tracked?](en/track.md)
 * [Risks](en/risks.md)
 * [Set a killer pawsword](en/passwords.md)
 * [Pawtect your browser](en/protect-browser.md)
