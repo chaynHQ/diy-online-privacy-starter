@@ -33,10 +33,15 @@
 
 Disable Location موقعیت خودتان را غیرفعال نمایید
 
-How to secure your Android phone: 
-Switch off Wireless and GPS location \(under Location Services\) and mobile data \(this can be found under Settings &gt; Personal &gt; Location\)
+_**چگونه موبایل اندروید خود را امن بسازیم؟**_
+بی سیم و موقعیت GPS خود را غیرفعال سازید (در Location Services رفته) سپس روی mobile data بروید (این را می توانید از Settings ، بعدا Personal و در آخر Location را بیابید و غیر فعال سازید.
+یادداشت: فقط در صورت ضرورت Location خود را فعال سازید. این مهم است که قبل از قبل این خدمات غیرفعال باشد چون خطر تعقیب و ردیابی را کاهش می دهد، شارژ بطری تان را ذخیره می کند وفعالیت های داده های غیرضروری را در پس زمینۀ موبایل تان کاهش می دهد.
+گرفته شده از: ( https://securityinabox.org/en/guide/basic-setup/android))
+به این لینک سر بزنید: Turn Off Location Services through Settings
 
-How to secure your iPhone: Switch off Wireless and GPS location: 
+**چگونه موبایل آیفون خود را امن بسازیم؟: **
+بی سیم و موقعیت GPS خود را غیرفعال سازید:
+در Settings رفته، روی Privacy بروید، سپس Location Services رفته و آنرا غیر فعال سازید و یا همۀ خدمات موقعیت های تانرا غیر فعال سازید.
 
 
 ## Messaging Apps
