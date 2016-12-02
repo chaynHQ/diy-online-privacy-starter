@@ -3,6 +3,6 @@
 * [English](en/)
 * [Arabic](ar/)
 * [Farsi](fa/)
-* [Pashto](ps/)
-* [French](fr/)
+* [Pashto - coming soon](ps/)
+* [French - coming soon](fr/)
 * [Russian](ru/)
