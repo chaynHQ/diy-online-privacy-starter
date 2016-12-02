@@ -1,4 +1,5 @@
-![](/assets/cryptocat.png)
+![](/ar/assets/securikitty-plain.png)
+
 
 _“No matter what I did - he found me. Now I know how he did that... ”
 
