@@ -15,7 +15,6 @@ Who Can See My Stuff?
 ![](/assets/Facebook - Who can see my stuff.gif)
 
 
-
 Who Can Contact Me?
 
 ![](/assets/Facebook - Who can contact me.gif)
