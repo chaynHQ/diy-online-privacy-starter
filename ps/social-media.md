@@ -1,16 +1,16 @@
-# تنظیمات حریم خصوصی رسانه های اجتماعی
+# د ټولنیزو رسینو محرمیت تنظیمات
 
 ![](/assets/sad cat.png)
 
 ## Facebook فیسبوک
 
-چه کسانی پست های مرا می بینند؟
+څوک له ما سره اړیکه نیولی شي؟
 
 ![](/assets/Facebook - Who can see my stuff.gif)
 
 
 
-چی کسانی می توانند با من ارتباط برقرار نمایند؟
+څنګه کولای شم د هغه چا مخنیوي وکړم  چې مې ځوروي؟ 
 ![](/assets/Facebook - Who can contact me.gif)
 
 
@@ -23,8 +23,7 @@
 
 ## Twitter توییتر
 
-امنیت و حریم خصوصی
-
+امنیت او محرمیت
 ![](/assets/Twitter - Security  and privacy.gif)
 
 
