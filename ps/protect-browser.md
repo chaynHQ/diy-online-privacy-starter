@@ -97,9 +97,9 @@ uBlock Origin ټول اعلانونه بندوي او نه پریږدي ستاس
 
 ## د لټونګر(براوزر) تاریخچه پاکول
 
-Chrome > History > Clear browsing data 
-Firefox > Options > Privacy > History
-وړاندیز کړای شوې کمپیوټر پاکوونکي: 
+- Chrome > History > Clear browsing data 
+- Firefox > Options > Privacy > History
+- وړاندیز کړای شوې کمپیوټر پاکوونکي: 
 CCleaner
 BleachBit
 
