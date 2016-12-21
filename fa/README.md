@@ -1,3 +1,1 @@
-# گشت و گزار های روزانه شما روی براوسرهای  انترنتی:
-
-![](/assets/securikitty-plain.png)
+![](/assets/farsi_Cryptocat.png)
