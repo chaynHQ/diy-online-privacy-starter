@@ -1,1 +1,1 @@
-![](/assets/farsi_Cryptocat.png)
+![](/assets/farsi_Cryptocat_small.png)
