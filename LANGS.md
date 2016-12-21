@@ -3,7 +3,7 @@
 * [English](en/)
 * [Arabic](ar/)
 * [Farsi](fa/)
-* [Espanol] (es/)
+* [Espanol](es/)
 * [Pashto](ps/)
 * [French](fr/)
 * [Russian](ru/)
