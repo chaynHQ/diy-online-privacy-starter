@@ -7,3 +7,4 @@
 * [Pashto](ps/)
 * [French](fr/)
 * [Russian](ru/)
+* [Urdu](ur/)
