@@ -48,40 +48,43 @@ Primero, prueba qué tan seguro es tu actual navegador con [Panopticlick](https:
 * O mantén oprimido:  Ctrl + Mayús  + N
 
 
-**New Private Window \(Firefox\)**
+**Nueva Ventana Privada \(Firefox\)**
 
-* New Private Window opens a private browsing window in Firefox.
-* Open menu &gt; New Private Window
-* Or hold down: Ctrl + Shift + P
+* Nueva Ventana Privada abre una ventana de navegación privada en Firefox. 
+* Abrir menú  > Nueva Ventana Privada
+* O mantén oprimido:  Ctrl + Mayús + P
 
-**New Private Window \(Safari\)**
 
-* New Private Window stops Safari from keeping track of what web pages you're viewing.
-* File menu &gt; New Private Window
-* Or hold down: Command + Shift + N
+**Nueva Ventana Privada \(Safari\)**
+
+* Nueva Ventana Privada hace que Safari deje de rastrear qué páginas web estás viendo.
+* Menú archivo > Nueva Ventana Privada
+* O mantén oprimido: Comando + Mayús + N
+
 
 **InPrivate**
 
-* InPrivate helps prevent Internet Explorer from storing data about your browsing session.
-* Tools &gt; Safety &gt; InPrivate Browsing
-* Or hold down: Ctrl + Shift + P
+* InPrivate ayuda a impedir que Internet Explorer almacene datos sobre tu sesión de navegación
+* Herramientas > Seguridad >Exploración de InPrivate
+* O mantén oprimido:  Ctrl + Mayús + P
 
-### **Use a VPN**
 
-* A VPN, or a Virtual Private Network, is a way of disguising your IP and encrypting all of your internet traffic so that no one can find out what you’re viewing online.
-* Free VPN:[ ](https://www.google.com/url?q=http://www.okfreedom.com/en/&sa=D&ust=1478912695304000&usg=AFQjCNGTHAcA5RqmcjfgyakGp1Wt5XGhNA)[OkayFreedom](https://www.google.com/url?q=http://www.okfreedom.com/en/&sa=D&ust=1478912695305000&usg=AFQjCNHwAvtAkzBMGhGwtHGKXJEd_rKcIQ) \(please note: the free version of OkayFreedom is[ ](https://www.google.com/url?q=http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695305000&usg=AFQjCNG_DMB0geaqYVeqA-Ca7xOINTILDg)[ad-supported](https://www.google.com/url?q=http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695306000&usg=AFQjCNFH5V7q52lXaSCMXNUwJjmmgpMlUg)\)[ ](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695306000&usg=AFQjCNEyY-gQmWBLzqccWxARiBA9jG64bw)[TunnelBear](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695307000&usg=AFQjCNGWiE0W7csNUb1vS41tel8kix42Tg)
+### **Usa una VPN**
+
+* Una VPN, o Red Privada Virtual, es una manera de ocultar tu dirección IP y cifrar todo tu tráfico en internet para que nadie pueda averiguar lo que estás viendo en línea. 
+* [VPN gratuitas](http://www.okfreedom.com): OkayFreedom (por favor ten en cuenta: la versión gratuita de OkayFreedom es [financiada por publicidad](http://www.okfreedom.com/en/support#free)) [TunnelBear](https://www.tunnelbear.com/). Puedes encontrar extensiones de Chrome gratuitas/gratuitas premium [aquí](https://chrome.google.com/webstore/search/VPN?_category=extensions), y complementos de VPN para Firefox gratuitos/gratuitos premium en el menú Abrir > Complementos > Obtener complementos > escribe “VPN” en la barra de búsqueda.
+
 
 ## **Tor**
 
-The Tor Browser is designed to help keep you anonymous and is a simple yet effective way of browsing the internet without revealing your identity to anyone.
-
-Download it[ here](https://www.google.com/url?q=https://www.torproject.org/projects/torbrowser.html.en.&sa=D&ust=1478912695309000&usg=AFQjCNHi66hbopa6PKcH0qPppM-pcYeBiw).
+El navegador Tor está diseñado para ayudarte a mantenerte anónimo y es una simple pero efectiva manera de navegar en internet sin revelar tu identidad a nadie
+Descárgalo [ here](https://www.google.com/url?q=https://www.torproject.org/projects/torbrowser.html.en.&sa=D&ust=1478912695309000&usg=AFQjCNHi66hbopa6PKcH0qPppM-pcYeBiw).
 
 ![](/assets/Surfing the internet with TOR.gif)
 
- ## Browser Extensions
+ ## Extensiones para Navegadores
 
-Browser extensions \(Add-ons\/plug ins\), are programs which extend or customise a web browser. Extensions can be used to protect your privacy by blocking third parties from tracking your online activity. WARNING: Extensions can also be malicious \([examples](https://www.google.com/url?q=http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/&sa=D&ust=1478912695311000&usg=AFQjCNFb-tTnXWk7R_a3k-2yK0NOUcTuBg)\).
+Las extensiones de los navegadores (complementos/programas adicionales), son  programas que extienden o personalizan un navegador de internet. Las extensiones pueden ser utilizadas para proteger tu privacidad al bloquear a terceros  para que no hagan seguimiento de tu actividad en línea. ADVERTENCIA: las extensiones también pueden ser maliciosas \([ejemplos](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/&sa=D&ust=1478912695311000&usg=AFQjCNFb-tTnXWk7R_a3k-2yK0NOUcTuBg)\).
 
 ### Recommended extensions:
 
