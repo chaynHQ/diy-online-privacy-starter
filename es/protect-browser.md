@@ -86,18 +86,17 @@ Descárgalo [ here](https://www.google.com/url?q=https://www.torproject.org/proj
 
 Las extensiones de los navegadores (complementos/programas adicionales), son  programas que extienden o personalizan un navegador de internet. Las extensiones pueden ser utilizadas para proteger tu privacidad al bloquear a terceros  para que no hagan seguimiento de tu actividad en línea. ADVERTENCIA: las extensiones también pueden ser maliciosas \([ejemplos](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/&sa=D&ust=1478912695311000&usg=AFQjCNFb-tTnXWk7R_a3k-2yK0NOUcTuBg)\).
 
-### Recommended extensions:
+### Extensiones recomendadas:
 
-* [HTTPS Everywhere](https://www.google.com/url?q=https://www.eff.org/https-everywhere&sa=D&ust=1478912695312000&usg=AFQjCNEBvYCAfkFF8TJ1eRyHbiH69J2OFw) \(Hypertext Transfer Protocol with Secure Sockets Layer\)
-* secures and encrypts your internet traffic
-* [Privacy Badger](https://www.google.com/url?q=https://www.eff.org/privacybadger&sa=D&ust=1478912695313000&usg=AFQjCNHNcMDqQbrzK_GX-cQYVUy8pTlayw) blocks tracking [cookies](https://www.google.com/url?q=https://en.wikipedia.org/wiki/HTTP_cookie&sa=D&ust=1478912695313000&usg=AFQjCNH4OGzxCGUGlINzUNYhUFSYSylzLA)
-* [uBlock Origin](https://www.google.com/url?q=https://www.ublock.org/&sa=D&ust=1478912695314000&usg=AFQjCNGJa0xJXHwX03kI2KCd3aZ1nc58KA) is an adblocker
+* [HTTPS Everywhere](https://www.eff.org/) \(Protocolo de Transferencia de hipertexto con  Secure Sockets Layer) asegura y codifica tu tráfico en internet\)
+* [Privacy Badger](https://www.eff.org/privacybadger) bloquea el seguimiento de [cookies](https://en.wikipedia.org/wiki/HTTP_cookie)
+* [uBlock Origin](https://www.ublock.org/) es un bloqueador de anuncios de publicidad
 
-# Erasing your browsing history
+# Borrar tu historial de navegación
 
-* Chrome &gt; History &gt; Clear browsing data
-* Firefox &gt; Options &gt; Privacy &gt; History
-* Recommended PC Cleaners:
+* Chrome &gt; History &gt; Borrar datos de navegación
+* Firefox &gt; Options &gt; Privacidad > Historial
+* Limpiadores recomendados para tu computador:
 
 * [CCleaner](https://www.google.com/url?q=http://www.piriform.com/ccleaner&sa=D&ust=1478912695317000&usg=AFQjCNHmtswm2AwMsRtywjxd7unIPKSXSg)
 
