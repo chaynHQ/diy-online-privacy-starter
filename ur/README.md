@@ -1,7 +1,4 @@
-@import url(http://fonts.googleapis.com/earlyaccess/notonastaliqurdudraft.css);
-
-
-# Apni online hifazat khud kernay kay tareeqay
+# اپنی اونلاین حفازت خود کرنے کی تجاویز 
 
 ![](/assets/cryptocat.png)
 
