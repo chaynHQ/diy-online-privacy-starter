@@ -4,13 +4,13 @@
 @import 'https://fonts.googleapis.com/css?family=Rubik';
 @import 'https://fonts.googleapis.com/css?family=Sue+Ellen+Francisco';
 @import url(http://fonts.googleapis.com/earlyaccess/notonastaliqurdudraft.css);
-h1 { font-size: 52px; font-family: 'Noto Nastaliq Urdu Draft', serif;}
-h2 { font-size: 42px; font-family: 'Noto Nastaliq Urdu Draft', serif;}
-h3 { font-size: 32px; font-family: 'Noto Nastaliq Urdu Draft', serif;}
+h1 { font-size: 52px; font-family: "Noto Nastaliq Urdu Draft", serif;}
+h2 { font-size: 42px; font-family: "Noto Nastaliq Urdu Draft", serif;}
+h3 { font-size: 32px; font-family: "Noto Nastaliq Urdu Draft", serif;}
 
 
-/* body font */p { font-family: 'Noto Nastaliq Urdu Draft', serif font-weight: 200; }
-body { font-family: 'Noto Nastaliq Urdu Draft', serif; font-weight: 200;  }
+/* body font */p { font-family: "Noto Nastaliq Urdu Draft", serif font-weight: 200; }
+body { font-family: "Noto Nastaliq Urdu Draft", serif; font-weight: 200;  }
 
 /* table of contents */.book-summary{ background-color: #FEBB2A;}
 
@@ -19,7 +19,7 @@ body { font-family: 'Noto Nastaliq Urdu Draft', serif; font-weight: 200;  }
 }
 
 /* side menu */
-.book-summary {font-family: 'Noto Nastaliq Urdu Draft', serif; color: black; font-size: 18px; font-weight: 900;}
+.book-summary {font-family: "Noto Nastaliq Urdu Draft", serif; color: black; font-size: 18px; font-weight: 900;}
 
 .book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none;
 }
