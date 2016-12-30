@@ -76,30 +76,30 @@
 
 
 
-## **Tor**
+## ٹور  براؤزر
 
-The Tor Browser is designed to help keep you anonymous and is a simple yet effective way of browsing the internet without revealing your identity to anyone.
-
-Download it[ here](https://www.google.com/url?q=https://www.torproject.org/projects/torbrowser.html.en.&sa=D&ust=1478912695309000&usg=AFQjCNHi66hbopa6PKcH0qPppM-pcYeBiw).
+ٹار براؤزر ایسا براؤزر ہے جو آپ کو نامعلوم قائم رکھنے کے لیے بنایا گیا ہے۔ یہ ایک آسان اور موثر طریقہ ہے اپنی شناخت ظاہر کرے بغیر براؤزنگ کرنے کا۔ ادھر سے ڈاؤن لوڈ کرین: https://www.torproject.org/projects/torbrowser.html
 
 ![](/assets/Surfing the internet with TOR.gif)
 
- ## Browser Extensions
+ ## براؤزر Extensions  کے اضافات
 
-Browser extensions \(Add-ons\/plug ins\), are programs which extend or customise a web browser. Extensions can be used to protect your privacy by blocking third parties from tracking your online activity. WARNING: Extensions can also be malicious \([examples](https://www.google.com/url?q=http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/&sa=D&ust=1478912695311000&usg=AFQjCNFb-tTnXWk7R_a3k-2yK0NOUcTuBg)\).
+براؤزر کے اضافات (ایکسٹینشن یا پلگ انز) ایسے پروگرام ہیں جو آپ کے ویب براؤزر میں اضافہ کرنے کی یا اپنی مرزی کے مطابق تبدیلی لانے کے قابل کرتی ہے۔ یہ اضافات کسی تیسری پارٹی کو آپ کہ آن لائن عاملیت کی تعاقیب کرنے سے روکتا ہے، اگرچہ یہ آپ کی رازداری کو محفوز رکھتا ہے۔ خبردارـ ایکسٹینشنز بد نیّتی سے بھی استعمال کی جا سکتی ہیں:
+http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/
 
-### Recommended extensions:
+### تجویزشدہ ایکسٹینشن
 
-* [HTTPS Everywhere](https://www.google.com/url?q=https://www.eff.org/https-everywhere&sa=D&ust=1478912695312000&usg=AFQjCNEBvYCAfkFF8TJ1eRyHbiH69J2OFw) \(Hypertext Transfer Protocol with Secure Sockets Layer\)
-* secures and encrypts your internet traffic
+* ایچ ٹی پی پی ایس اوری وئیر آپ کی انٹرنیٹ کی عاملیت (ٹریفک) کو محفوز رکھتا ہے:
+[HTTPS Everywhere](https://www.google.com/url?q=https://www.eff.org/https-everywhere) 
+* پرائیویسی بیڈجر کوکیز کو روکتا ہے
 * [Privacy Badger](https://www.google.com/url?q=https://www.eff.org/privacybadger&sa=D&ust=1478912695313000&usg=AFQjCNHNcMDqQbrzK_GX-cQYVUy8pTlayw) blocks tracking [cookies](https://www.google.com/url?q=https://en.wikipedia.org/wiki/HTTP_cookie&sa=D&ust=1478912695313000&usg=AFQjCNH4OGzxCGUGlINzUNYhUFSYSylzLA)
-* [uBlock Origin](https://www.google.com/url?q=https://www.ublock.org/&sa=D&ust=1478912695314000&usg=AFQjCNGJa0xJXHwX03kI2KCd3aZ1nc58KA) is an adblocker
+* یوبلاک اوریجن اشتہار کو روکتا یے:
+[uBlock Origin](https://www.google.com/url?q=https://www.ublock.org/&sa=D&ust=1478912695314000&usg=AFQjCNGJa0xJXHwX03kI2KCd3aZ1nc58KA) is an adblocker
 
-# Erasing your browsing history
-
+# براؤزر کی سرگزشت (براؤزنگ ہسٹری) کو مٹانا
 * Chrome &gt; History &gt; Clear browsing data
 * Firefox &gt; Options &gt; Privacy &gt; History
-* Recommended PC Cleaners:
+* تجویزشدہ پی سی کلینرز:
 
 * [CCleaner](https://www.google.com/url?q=http://www.piriform.com/ccleaner&sa=D&ust=1478912695317000&usg=AFQjCNHmtswm2AwMsRtywjxd7unIPKSXSg)
 
