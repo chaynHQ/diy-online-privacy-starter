@@ -65,17 +65,17 @@ http://www.wikihow.com/Turn-Off-Location-Services-on-an-Android
 
 ### سگنل Signal
 
-ایک خوفیہ اور آزاد مصدر: بات (وائس کالنگ:) کرنے کا اور فوری پیغام رسانی: (انسٹنٹ میسجنگ) کا ایپ ہے اینڈرائڈ:، آئ او ایس:، اور ڈیکسٹاپ: کے لیے۔ یہ اس طرح خوفیہ کاری: کرتا ہے کہ استعمال کرنے والوں کے آپس کی مواصلات محفوظ رہے۔ سگنل کے استعمال سے آپ کو خوفیہ فوری میسجنگ، گروہ کے درمیان میسجنگ (گروپ میسجنگ)، ایٹاچمنٹز، اور ذرائع والے میسجز جیسے کہ تصاویر بھیجنے اور وصول کرنے کی قابلیت حاصل ہوتی ہے۔
+[سگنل](https://whispersystems.org) ایک خوفیہ اور آزاد مصدر بات (وائس کالنگ) کرنے کا اور فوری پیغام رسانی(انسٹنٹ میسجنگ) کا ایپ ہے اینڈرائڈ، آئ او ایس، اور ڈیکسٹاپ: کے لیے۔ یہ اس [طرح خوفیہ کاری](https://en.wikipedia.org/wiki/End-to-end_encryption): کرتا ہے کہ استعمال کرنے والوں کے آپس کی مواصلات محفوظ رہے۔ سگنل کے استعمال سے آپ کو خوفیہ فوری میسجنگ، گروہ کے درمیان میسجنگ (گروپ میسجنگ)، ایٹاچمنٹز، اور ذرائع والے میسجز جیسے کہ تصاویر بھیجنے اور وصول کرنے کی قابلیت حاصل ہوتی ہے۔
 
 
 [Security ے تجاویز جو ہر سگنل کے استعمال کرنے والے کے علم میں ہونے چاہیے:
 ](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/&sa=D&ust=1478912695344000&usg=AFQjCNEg5QaQwxEpg5CJqH049_FqKIAnYA)
 
-# Additional Advice
+# اضافی مشورے
 
-o IMPORTANT: Take the[ ](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695346000&usg=AFQjCNHk6DA9iA5VUGtBxjVsKzxOjBU7sQ)[Privacy Test by Smart Privacy](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695347000&usg=AFQjCNGjAN8OCYH3WXnd3DP_haNY--ZHog)
-
-o Create a [Google Alert](https://www.google.com/url?q=https://www.google.com/alerts&sa=D&ust=1478912695348000&usg=AFQjCNH-T5bZUuRKQwCWL8x6g3JbYp3IkQ) for your name
+o :اھم ـ اسمارٹ پرائیویسی کا رازداری کا امتحان یہاں لیں
+http://smartprivacy.tumblr.com/privacynow
+o : آپکا نام تلاش کرنے کا گوگل الرٹ بنائیں (https://www.google.com/alerts)
 
 ---
 ![](/assets/chayn icon.png)
