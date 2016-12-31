@@ -19,7 +19,7 @@ body { font-family: "Noto Nastaliq Urdu Draft", serif; font-weight: 200;  }
 }
 
 /* side menu */
-.book-summary {font-family: "Noto Nastaliq Urdu Draft", serif; color: black; font-size: 18px; font-weight: 900;}
+.book-summary {font-family: "Noto Nastaliq Urdu Draft", serif; color: black; font-size: 18px;}
 
 .book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none;
 }
