@@ -3,7 +3,7 @@
 /* heading fonts */
 @import 'https://fonts.googleapis.com/css?family=Rubik';
 @import 'https://fonts.googleapis.com/css?family=Sue+Ellen+Francisco';
-@import url(http://fonts.googleapis.com/earlyaccess/notonastaliqurdudraft.css);
+@import 'http://fonts.googleapis.com/earlyaccess/notonastaliqurdudraft.css';
 h1 { font-size: 52px; font-family: "Noto Nastaliq Urdu Draft", serif;}
 h2 { font-size: 42px; font-family: "Noto Nastaliq Urdu Draft", serif;}
 h3 { font-size: 32px; font-family: "Noto Nastaliq Urdu Draft", serif;}
