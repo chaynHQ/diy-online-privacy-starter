@@ -20,5 +20,4 @@ body { font-family: 'Rubik', sans-serif; font-weight: 200;  }
 /* side menu */
 .book-summary {font-family:  color: black; font-size: 18px; font-weight: 900;}
 
-.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none;
-}
+.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none; text-align: right;}
