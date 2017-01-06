@@ -1,6 +1,6 @@
 # چگونه می شود رمز کشنده ای انتخاب کرد؟
 مراحل آسان برای مبارزه با آسیب پذیری های معمول
-![](/assets/Pawsword.gif)
+![](/fa/assets/Pawsword.gif)
 
 
 
@@ -26,6 +26,9 @@ o به جای رمز عبور کوتاه  به یک عبارت طولانی ت�
  نرم افزار پاسورد منجنمنت می تواند  صورت پچیده از پاسورد شما را ذخیره کند لذا شما می توانید یک رمز عبور امن داشته برای هر سیرویس که از آن استفاده می کنید بدون اینکه آن را به یاد باشید.
 
 [پاسورد منجمنت](http://thehackernews.com/2016/07/best-password-manager.html) های متعددی به صورت رایگان وجود دارد . مثلا ( http://keepass.info :keePass) را ببیند اینجا چگونه از ان استفاده کرد و Pedlock.
+
+Password Management software stores encrypted versions of your passwords so you can use a unique, secure password for every service without having to remember every password. There are plenty of[ free Password Managers](http://thehackernews.com/2016/07/best-password-manager.html) to select from, for example,[ KeePass](http://keepass.info/) \(see[ how to setup and use it](https://youtu.be/KQuDrKSZkck),[LastPass]and[Padlock](https://padlock.io/).
+
 
 
 ### 3. چگونه باید رمز عبور خود را تغییر دهید؟
