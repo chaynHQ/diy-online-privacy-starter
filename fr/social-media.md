@@ -73,23 +73,22 @@ Tous les iPhones sont encryptés par défaut. Sois tout de même vigilante et ut
 
 
 
-## Messaging Apps
+# Applis de messagerie
 
-### Whatsapp
+## Whatsapp
+[WhatsApp](https://www.whatsapp.com/) chiffre tous les messages, ce qui veut dire que seuls toi et ton destinataire sont à même de lire les messages échangés. Cependant, des métadonnées au sujet des personnes avec lesquelles tu converses sur Whatsapp, et la durée de vos conversations, sont collectées et archivées. 
 
-[WhatsApp](https://www.google.com/url?q=https://www.whatsapp.com/&sa=D&ust=1478912695335000&usg=AFQjCNELf_NF1iUfscK9LNYX-2EqNpGOow) messages are encrypted \(meaning the content of the messages you send can only be seen by you and the recipient\) but metadata about who you chat with and for how long is collected and stored.
+## Signal
+[Signal, développé par Open Whisper Systems](https://whispersystems.org/), est une appli gratuite et ouverte, cryptée, qui permet d’envoyer des messages instantanés et de passer des appels. Elle est disponible pour Android,  iOS et PC. Elle utilise le [chiffrement de bout](https://fr.wikipedia.org/wiki/Chiffrement_de_bout_en_bout) en bout pour sécuriser les communications entre ses utilisateurs.  Signal peut également être utilisée pour envoyer et recevoir des messages en groupe, des pièces jointes et des messages multimédia. 
 
-### Signal
+[**Security Tips Every Signal User Should Know
+** ](https://whispersystems.org/blog/signal-desktop/)
 
-[Signal by Open Whisper Systems](https://www.google.com/url?q=https://whispersystems.org/&sa=D&ust=1478912695337000&usg=AFQjCNGHdx1WPmphFboxn6n7XGsef33BfQ) is a[ ](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Free_and_open-source_software&sa=D&ust=1478912695337000&usg=AFQjCNGwU1Q0XuVSopwVy1qJ4btHIQA3gA)[free and open-source](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Free_and_open-source_software&sa=D&ust=1478912695338000&usg=AFQjCNGeZrTk5SpXLtIP8rdwBYKi_EW8ew) encrypted[ voice calling](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Voice_calling&sa=D&ust=1478912695338000&usg=AFQjCNFZgBi7LgOXwClT5w2T3FO0BwXSnQ) and[ instant messaging](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Instant_messaging&sa=D&ust=1478912695339000&usg=AFQjCNHoXsDoewpWnUaxuu0-5F4Aos1H6w) application for Android,[ iOS](https://www.google.com/url?q=https://en.wikipedia.org/wiki/IOS&sa=D&ust=1478912695341000&usg=AFQjCNFFvfrP8d8Z0KOTVQaTMaC7utDpQg) and[ ](https://www.google.com/url?q=https://whispersystems.org/blog/signal-desktop/&sa=D&ust=1478912695341000&usg=AFQjCNH6hD7tXUzlEaQyyQ-CEIIAeu2W2A)[Desktop](https://www.google.com/url?q=https://whispersystems.org/blog/signal-desktop/&sa=D&ust=1478912695342000&usg=AFQjCNHBfEjTHJdIxswAu0yJgUVWeXzROQ). It uses[ ](https://www.google.com/url?q=https://en.wikipedia.org/wiki/End-to-end_encryption&sa=D&ust=1478912695342000&usg=AFQjCNEi5C1kJb__nmiFkCk47K4Umd7rGg)[end-to-end encryption](https://www.google.com/url?q=https://en.wikipedia.org/wiki/End-to-end_encryption&sa=D&ust=1478912695343000&usg=AFQjCNG4Vo3pcqNhwCfVoafL0sdtzb7QHg) to secure all communications to other Signal users. Signal can be used to send and receive encrypted instant messages, group messages, attachments and media messages.
 
-[Security Tips Every Signal User Should Know](https://www.google.com/url?q=https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/&sa=D&ust=1478912695344000&usg=AFQjCNEg5QaQwxEpg5CJqH049_FqKIAnYA)
+# Conseils supplémentaires
 
-# Additional Advice
-
-o IMPORTANT: Take the[ ](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695346000&usg=AFQjCNHk6DA9iA5VUGtBxjVsKzxOjBU7sQ)[Privacy Test by Smart Privacy](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695347000&usg=AFQjCNGjAN8OCYH3WXnd3DP_haNY--ZHog)
-
-o Create a [Google Alert](https://www.google.com/url?q=https://www.google.com/alerts&sa=D&ust=1478912695348000&usg=AFQjCNH-T5bZUuRKQwCWL8x6g3JbYp3IkQ) for your name
+o  IMPORTANT : Fais le [Test de confidentialité de Smart Privacy](http://smartprivacy.tumblr.com/privacynow)
+o  Met en place une  [Alerte Google](https://www.google.com/alerts) pour ton nom
 
 ---
 ![](/assets/chayn icon.png)
