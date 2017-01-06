@@ -80,5 +80,5 @@ Los mensajes de [WhatsApp](https://www.whatsapp.com) son cifrados (es decir, el 
 
 
 ---
-![](/assets/chayn icon.png)
 
+![](/es/assets/chayn icon.jpg)

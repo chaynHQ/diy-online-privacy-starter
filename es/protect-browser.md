@@ -102,8 +102,12 @@ Las extensiones de los navegadores (complementos/programas adicionales), son  pr
 
 * [BleachBit](https://www.google.com/url?q=http://www.bleachbit.org/&sa=D&ust=1478912695318000&usg=AFQjCNEjz3m2EuO6O2lPl4Vo_KAe6CHsjQ)
 
+
+
+
 ---
-![](/assets/chayn icon.png)
+
+![](/es/assets/chayn icon.jpg)
 
 
 

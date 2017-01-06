@@ -32,3 +32,7 @@ Mide los riesgos a los que estás expuesta y toma nuevamente el control con esta
 Hay muchas maneras en que alguien puede localizarte. La facilidad y la probabilidad de que esto suceda, dependen en gran medida de tus circunstancias personales y las de tu agresor. Esta guía no es la respuesta absoluta. La guía no incluye todas las formas en que los agresores pueden seguirle el rastro a alguien, pero es un apoyo que recopila los mejores consejos que hemos encontrado. ¡Aquí vamos!
 
  
+ 
+---
+
+![](/es/assets/chayn icon.jpg)

@@ -37,3 +37,8 @@ El correo electrónico está en el centro de todo lo que haces en línea, por ej
 ### Programa Espía
 
 Tu teléfono puede ser intervenido para grabar y transmitir cualquier sonido dentro del rango de su micrófono sin que te des cuenta. Algunos teléfonos pueden ser encendidos de manera remota y ser puestos en acción de esa manera, incluso cuando parecen estar apagados. 
+
+
+---
+
+![](/es/assets/chayn icon.jpg)
