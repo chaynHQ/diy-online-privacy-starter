@@ -94,6 +94,31 @@ Configuración  > Privacidad > Servicios de Ubicación y puedes desactivar todos
 
 Consulta  [Cómo Desactivar los Servicios de Ubicación en iOS](http://www.tomsguide.com/us/turn-off-location-services-iphone,news-21276.html)
 
+
+# Cifrando Tus Dispositivos
+### Android
+
+Configuración > Seguridad > Cifrar Dispositivo
+
+Tomará una hora cifrar tu dispositivo Android, así que asegurate que tu batería está cargada.
+Necesitarás introducir una contraseña para cifrar tu dispositivo cada vez que lo enciendas. 
+
+
+### iPhone
+Todos los iPhones están cifrados de forma predeterminada. Sin embargo, deberías asegurarte de usar una contraseña larga  para que resulte más difícil de acceder. 
+
+
+# Aplicaciones de mensajería 
+
+### Whatsapp
+Los mensajes de [WhatsApp](http://whatsapp.com) son cifrados (es decir, el contenido de los mensajes que envías, solo puede ser visto por ti y por el receptor), sin embargo metadatos sobre con quién chateas y por cuánto tiempo son recolectados y almacenados. 
+
+### Signal
+Signal de Open Whisper Systems es una aplicación cifrada  gratuita y de acceso abierto de llamadas de voz y  mensajería  instantánea para Android,  iOS y Computadores de Escritorio. Esta aplicación utiliza cifrado de extremo a extremo para garantizar todas las comunicaciones a los otros usuarios de Signal. Signal puede ser utilizado para enviar y recibir de forma cifrada mensajes instantáneos, mensajes de grupos, adjuntos y mensajes multimedia
+
+Security Tips Every Signal User Should Know
+Consejos de Seguridad que Todo Usuario de Signal Debería Conocer
+
 ---
 
 ![](/es/assets/chayn icon.jpg)
