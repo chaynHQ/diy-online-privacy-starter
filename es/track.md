@@ -1,9 +1,3 @@
-HAZLO TU MISMA 
-SEGURIDAD EN LÍNEA
-Deja que el GATO CODIFICADOR DE CHAYN te muestre cómo alguien te puede estar siguiendo el rastro y qué puedes hacer al respecto 
-
-Estás leyendo la guía BÁSICA. También tenemos una guía avanzada que puedes leer aquí: https://chayn.gitbooks.io/advanced-diy-privacy-for-every-woman/content/
-
 # ¿Cómo te pueden estar siguiendo el rastro?
 ## Seguimiento de tus hábitos en línea
 
@@ -26,3 +20,6 @@ Aunque hayas divulgado información sin saberlo, actúa tan pronto como te des c
 - Prefiere los  chat anónimos y borra el historial  de las conversaciones
 
 Ten en cuenta que tu acosador puede monitorear los dispositivos electrónicos de cualquier persona con la que haya  estado en contacto, incluyendo a tus hijos o cualquier persona que haya estado en la misma casa. Al final, tu propia seguridad también depende de tus amigos y familiares. 
+
+---
+
