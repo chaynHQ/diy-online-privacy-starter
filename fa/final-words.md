@@ -5,6 +5,7 @@ Read the full guide in English: **https://chayn.gitbooks.io/advanced-diy-privacy
 Hope you enjoyed our guide!
 **CHAYN**
 
-![](/assets/Cat-nap--medium.gif)
 
 ---
+![](/fa/assets/chayn icon.jpg)
+

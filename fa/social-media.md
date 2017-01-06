@@ -76,5 +76,5 @@ o [مهم: امتحان حریم خصوصی را با Smart Privacy بدهید](
 o  [برای اسم تان Google Alert بسازید.](https://www.google.com/url?q=https://www.google.com/alerts&sa=D&ust=1478912695348000&usg=AFQjCNH-T5bZUuRKQwCWL8x6g3JbYp3IkQ) for your name
 
 ---
-![](/assets/chayn icon.png)
+![](/fa/assets/chayn icon.jpg)
 

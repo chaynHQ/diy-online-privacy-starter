@@ -119,7 +119,8 @@ Extensions Browser و یا Add-ons/Plug ins   برنامه های است که 
 * [BleachBit](https://www.google.com/url?q=http://www.bleachbit.org/&sa=D&ust=1478912695318000&usg=AFQjCNEjz3m2EuO6O2lPl4Vo_KAe6CHsjQ)
 
 ---
-![](/assets/chayn icon.png)
+![](/fa/assets/chayn icon.jpg)
+
 
 
 
