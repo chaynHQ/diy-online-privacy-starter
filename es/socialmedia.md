@@ -118,6 +118,9 @@ Los mensajes de [WhatsApp](http://whatsapp.com) son cifrados (es decir, el conte
 
 [Consejos de Seguridad que Todo Usuario de Signal Debería Conocer](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/)
 
+Consejo Adicional
+o IMPORTANTE: Realiza esta Prueba de Privacidad de [Smart Privacy](http://smartprivacy.tumblr.com/privacynow)
+o  Crea una [Alerta de Google](https://www.google.com/alerts) para tu nombre
 ---
 
 ![](/es/assets/chayn icon.jpg)
