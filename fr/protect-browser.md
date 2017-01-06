@@ -42,60 +42,60 @@ Paramètres de confidentialité de ton navigateur - Interdire le suivi et Fenêt
 * Le moteur de navigation privée [StartPage](https://www.startpage.com/) n’enregistre jamais ton adresse IP, ni ne piste tes recherches
 
 
-**Incognito Mode**
+Mode Navigation privée (Google Chrome)
 
-* Incognito mode on the web prevents Google Chrome from saving a record of
-* what you visit and download.
-* Customise and control Google Chrome &gt; New incognito window
-* Or hold down: Ctrl + Shift + N
+Le Mode Navigation privée sur le web empêche  Google Chrome d’enregistrer l’historique des pages que tu visites ou de tes téléchargements
+Personnaliser et contrôler Google Chrome > Nouvelle fenêtre de navigation privée
+Ou appuie simultanément sur les touches : Ctrl + Maj + N
 
-**New Private Window \(Firefox\)**
 
-* New Private Window opens a private browsing window in Firefox.
-* Open menu &gt; New Private Window
-* Or hold down: Ctrl + Shift + P
+Nouvelle fenêtre privée (Firefox)
 
-**New Private Window \(Safari\)**
+Pour ouvrir une nouvelle fenêtre de navigation privée dans Firefox, ouvre le menu Firefox > Icône Fenêtre Privée
+Ou appuie simultanément sur les touches : Ctrl + Maj + P
 
-* New Private Window stops Safari from keeping track of what web pages you're viewing.
-* File menu &gt; New Private Window
-* Or hold down: Command + Shift + N
 
-**InPrivate**
+Nouvelle fenêtre de navigation privée (Safari)
 
-* InPrivate helps prevent Internet Explorer from storing data about your browsing session.
-* Tools &gt; Safety &gt; InPrivate Browsing
-* Or hold down: Ctrl + Shift + P
+New Private Window empêche Safari de conserver un historique des pages que tu visites
+Fichier > Nouvelle fenêtre privée
+Ou appuie simultanément sur les touches : Ctrl + Maj + N
 
-### **Use a VPN**
 
-* A VPN, or a Virtual Private Network, is a way of disguising your IP and encrypting all of your internet traffic so that no one can find out what you’re viewing online.
-* Free VPN:[ ](https://www.google.com/url?q=http://www.okfreedom.com/en/&sa=D&ust=1478912695304000&usg=AFQjCNGTHAcA5RqmcjfgyakGp1Wt5XGhNA)[OkayFreedom](https://www.google.com/url?q=http://www.okfreedom.com/en/&sa=D&ust=1478912695305000&usg=AFQjCNHwAvtAkzBMGhGwtHGKXJEd_rKcIQ) \(please note: the free version of OkayFreedom is[ ](https://www.google.com/url?q=http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695305000&usg=AFQjCNG_DMB0geaqYVeqA-Ca7xOINTILDg)[ad-supported](https://www.google.com/url?q=http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695306000&usg=AFQjCNFH5V7q52lXaSCMXNUwJjmmgpMlUg)\)[ ](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695306000&usg=AFQjCNEyY-gQmWBLzqccWxARiBA9jG64bw)[TunnelBear](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695307000&usg=AFQjCNGWiE0W7csNUb1vS41tel8kix42Tg)
+InPrivate (Internet Explorer)
+
+InPrivate empêche Internet Explorer de conserver des données sur ta navigation 
+Outils > Sécurité > Navigation InPrivate
+Ou appuie simultanément sur les touches : Ctrl + Maj + P
+
+
+### **Utilise un VPN**
+
+* Un VPN, de l’anglais Virtual Private Network ou réseau privé virtuel, est un moyen de masquer ton adresse IP et d’encrypter (chiffrer) ton trafic Internet de manière à ce que personne ne puisse voir ce que tu consultes en ligne 
+* Nous te suggérons les VPN gratuits [OkayFreedom](http://www.okfreedom.com/en/) (remarque : la version privée d’OkayFreedom [contient de la publicité](http://www.okfreedom.com/en/support#free)) ou [TunnelBear](https://www.tunnelbear.com/). Tu trouveras des extensions VPN pour Chrome gratuites ou freemium [ici](https://chrome.google.com/webstore/search/VPN?_category=extensions), et des modules VPN pour Firefox en ouvrant le Menu Firefox > Modules > Catalogue > Découvrir davantage de modules > tape “VPN” dans la barre de recherche. Ou directement [ici](https://addons.mozilla.org/fr/firefox/).
+
 
 ## **Tor**
 
-The Tor Browser is designed to help keep you anonymous and is a simple yet effective way of browsing the internet without revealing your identity to anyone.
-
-Download it[ here](https://www.google.com/url?q=https://www.torproject.org/projects/torbrowser.html.en.&sa=D&ust=1478912695309000&usg=AFQjCNHi66hbopa6PKcH0qPppM-pcYeBiw).
+Le navigateur Tor est conçu pour t’aider à conserver ton anonymat. C’est un moyen simple et efficace de naviguer sur le web sans avoir à divulguer ton identité à qui que ce soit. Télécharge-le [ici](https://www.torproject.org/projects/torbrowser.html.en).
 
 ![](/assets/Surfing the internet with TOR.gif)
 
- ## Browser Extensions
+ ## Extensions pour navigateurs
 
-Browser extensions \(Add-ons\/plug ins\), are programs which extend or customise a web browser. Extensions can be used to protect your privacy by blocking third parties from tracking your online activity. WARNING: Extensions can also be malicious \([examples](https://www.google.com/url?q=http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/&sa=D&ust=1478912695311000&usg=AFQjCNFb-tTnXWk7R_a3k-2yK0NOUcTuBg)\).
+Les extensions pour navigateurs (autrement appelés Add-ons, plug ins ou modules) sont des programmes qui étendent ou personnalisent les fonctionnalités de ton navigateur. Tu peux utiliser des extensions pour protéger ta vie privée et empêcher qui que ce soit de surveiller ou pister tes activités en ligne.  ATTENTION : il existe également des extensions malveillantes [des exemples ici](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/).
 
-### Recommended extensions:
+### Nous recommandons les extensions suivantes:
 
-* [HTTPS Everywhere](https://www.google.com/url?q=https://www.eff.org/https-everywhere&sa=D&ust=1478912695312000&usg=AFQjCNEBvYCAfkFF8TJ1eRyHbiH69J2OFw) \(Hypertext Transfer Protocol with Secure Sockets Layer\)
-* secures and encrypts your internet traffic
-* [Privacy Badger](https://www.google.com/url?q=https://www.eff.org/privacybadger&sa=D&ust=1478912695313000&usg=AFQjCNHNcMDqQbrzK_GX-cQYVUy8pTlayw) blocks tracking [cookies](https://www.google.com/url?q=https://en.wikipedia.org/wiki/HTTP_cookie&sa=D&ust=1478912695313000&usg=AFQjCNH4OGzxCGUGlINzUNYhUFSYSylzLA)
-* [uBlock Origin](https://www.google.com/url?q=https://www.ublock.org/&sa=D&ust=1478912695314000&usg=AFQjCNGJa0xJXHwX03kI2KCd3aZ1nc58KA) is an adblocker
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere) \ (protocole de transfert hypertexte sécurisé) protège et encrypte ton trafic internet
+* [Privacy Badger](https://www.eff.org/privacybadger) bloque les [cookies](https://en.wikipedia.org/wiki/HTTP_cookie) de pistage, ou “trackers”
+* [uBlock Origin](https://www.ublock.org/) est un bloqueur publicitaire
 
-# Erasing your browsing history
-
-* Chrome &gt; History &gt; Clear browsing data
-* Firefox &gt; Options &gt; Privacy &gt; History
-* Recommended PC Cleaners:
+# Efface ton historique de navigation
+* Chrome > Historique > Effacer les données de navigation 
+* Firefox > Ouvrir le menu > Historique > Effacer l’historique récent
+_* Nous recommandons les utilitaires de nettoyage suivants:
+_
 
 * [CCleaner](https://www.google.com/url?q=http://www.piriform.com/ccleaner&sa=D&ust=1478912695317000&usg=AFQjCNHmtswm2AwMsRtywjxd7unIPKSXSg)
 
