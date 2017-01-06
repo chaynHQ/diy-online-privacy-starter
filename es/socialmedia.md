@@ -78,6 +78,21 @@ Los mensajes de [WhatsApp](https://www.whatsapp.com) son cifrados (es decir, el 
 * Crea una [Alerta de Google](https://www.google.com/alerts) para tu nombre
 
 
+# Dispositivos
+
+### Cómo asegurar tu teléfono Android
+Desactiva la conexión  inalámbrica y la ubicación GPS  (en Servicios de Ubicación) y los datos móviles (esto se puede encontrar  en Configuración > Personal > Ubicación). 
+
+Nota: Solo enciende la configuración de ubicación cuando la necesites. Es importante tener estos servicios apagados de manera predeterminada pues esto disminuirá el riesgo de que tu ubicación sea rastreada . (Tomado de: https://securityinabox.org/en/guide/basic-setup/android)
+
+Consulta [Desactivar los Servicios de Ubicación a través de la configuración](http://www.wikihow.com/Turn-Off-Location-Services-on-an-Android)
+
+### Cómo asegurar tu iPhone
+Desactiva  la  conexión inalámbrica y
+la ubicación GPS :
+Configuración  > Privacidad > Servicios de Ubicación y puedes desactivar todos los Servicios de Ubicación  usando el deslizador, o desactivar cada punto o  aplicación que utiliza tu ubicación usando los deslizadores individuales de tu dispositivo. Para deshabilitar los Servicios de Ubicación para todos los sitios web,  desactiva los Servicios de Ubicación para la aplicación Safari.
+
+Consulta  [Cómo Desactivar los Servicios de Ubicación en iOS](http://www.tomsguide.com/us/turn-off-location-services-iphone,news-21276.html)
 
 ---
 
