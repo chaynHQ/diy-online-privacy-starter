@@ -114,10 +114,9 @@ Todos los iPhones están cifrados de forma predeterminada. Sin embargo, debería
 Los mensajes de [WhatsApp](http://whatsapp.com) son cifrados (es decir, el contenido de los mensajes que envías, solo puede ser visto por ti y por el receptor), sin embargo metadatos sobre con quién chateas y por cuánto tiempo son recolectados y almacenados. 
 
 ### Signal
-Signal de Open Whisper Systems es una aplicación cifrada  gratuita y de acceso abierto de llamadas de voz y  mensajería  instantánea para Android,  iOS y Computadores de Escritorio. Esta aplicación utiliza cifrado de extremo a extremo para garantizar todas las comunicaciones a los otros usuarios de Signal. Signal puede ser utilizado para enviar y recibir de forma cifrada mensajes instantáneos, mensajes de grupos, adjuntos y mensajes multimedia
+[Signal de Open Whisper Systems](https://whispersystems.org/) es una aplicación cifrada  [gratuita y de acceso abierto](https://en.wikipedia.org/wiki/Free_and_open-source_software) de llamadas de voz y  mensajería  instantánea para Android,  iOS y [Computadores de Escritorio](https://whispersystems.org/blog/signal-desktop/). Esta aplicación utiliza cifrado de extremo a extremo para garantizar todas las comunicaciones a los otros usuarios de Signal. Signal puede ser utilizado para enviar y recibir de forma [cifrada mensajes instantáneos](https://en.wikipedia.org/wiki/End-to-end_encryption), mensajes de grupos, adjuntos y mensajes multimedia
 
-Security Tips Every Signal User Should Know
-Consejos de Seguridad que Todo Usuario de Signal Debería Conocer
+[Consejos de Seguridad que Todo Usuario de Signal Debería Conocer](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/)
 
 ---
 
