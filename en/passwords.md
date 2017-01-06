@@ -5,7 +5,7 @@ Easy steps to fight the most common vulnerability
 
 ### 1. Password protection
 
-o Visit [How Secure Is My Password](https://www.google.com/url?q=https://howsecureismypassword.net/&sa=D&ust=1478912695253000&usg=AFQjCNG6h_l21RRRJ87_PpD9xd97iskszQ) to test the strength of your passwords
+o Visit [How Secure Is My Password](https://howsecureismypassword.net/) to test the strength of your passwords
 
 o Never recycle\/reuse passwords
 
@@ -15,11 +15,11 @@ o Do not let your browser save your passwords
 
 o Think passphrase instead of password
 
-o Use upper\/lower case letters, numbers, symbols - See [Strong Password Generator](https://www.google.com/url?q=https://strongpasswordgenerator.com/&sa=D&ust=1478912695255000&usg=AFQjCNF4CGIYTghgZsbUBy31lDmtVH1zaQ). Password Managers usually have a built-in password generator to create complex passwords
+o Use upper\/lower case letters, numbers, symbols - See [Strong Password Generator](https://strongpasswordgenerator.com/). Password Managers usually have a built-in password generator to create complex passwords
 
 ### 2. Use a password manager
 
-Password Management software stores encrypted versions of your passwords so you can use a unique, secure password for every service without having to remember every password. There are plenty of[ free Password Managers](https://www.google.com/url?q=http://thehackernews.com/2016/07/best-password-manager.html&sa=D&ust=1478912695257000&usg=AFQjCNEzwQHbdkm7Zk1WwJXOwY3cX7chRA) to select from, for example,[ KeePass](https://www.google.com/url?q=http://keepass.info/&sa=D&ust=1478912695258000&usg=AFQjCNF3wJ_kEFawPfCzLq3-pjZp9myKcQ) \(see[ how to setup and use it](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DGyuVLIbmI5U&sa=D&ust=1478912695259000&usg=AFQjCNGSounfixuUqFIACtrszVyjFp337A)\),[ ](https://www.google.com/url?q=https://lastpass.com/how-it-works/&sa=D&ust=1478912695260000&usg=AFQjCNGW0ar5yPa2BqW8NIXLB7TPMgqjdQ)[LastPass](https://www.google.com/url?q=https://lastpass.com/how-it-works/&sa=D&ust=1478912695261000&usg=AFQjCNEijMOHRYcxds9WlmEzx4DNqBbsLQ) and[ ](https://www.google.com/url?q=https://padlock.io/&sa=D&ust=1478912695261000&usg=AFQjCNFxcGt2REBcOh1SPvgosGgK2q0-yA)[Padlock](https://www.google.com/url?q=https://padlock.io/&sa=D&ust=1478912695262000&usg=AFQjCNEDyRYzAGRPt4r8i_iH5YFDAwjBdA).
+Password Management software stores encrypted versions of your passwords so you can use a unique, secure password for every service without having to remember every password. There are plenty of[ free Password Managers](http://thehackernews.com/2016/07/best-password-manager.html) to select from, for example,[ KeePass](http://keepass.info/) \(see[ how to setup and use it](https://youtu.be/KQuDrKSZkck),[LastPass]and[Padlock](https://padlock.io/).
 
 ### 3. How should you change your password?
 
