@@ -84,7 +84,7 @@ Descárgalo [ here](https://www.google.com/url?q=https://www.torproject.org/proj
 
  ## Extensiones para Navegadores
 
-Las extensiones de los navegadores (complementos/programas adicionales), son  programas que extienden o personalizan un navegador de internet. Las extensiones pueden ser utilizadas para proteger tu privacidad al bloquear a terceros  para que no hagan seguimiento de tu actividad en línea. ADVERTENCIA: las extensiones también pueden ser maliciosas \([ejemplos](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/&sa=D&ust=1478912695311000&usg=AFQjCNFb-tTnXWk7R_a3k-2yK0NOUcTuBg)\).
+Las extensiones de los navegadores (complementos/programas adicionales), son  programas que extienden o personalizan un navegador de internet. Las extensiones pueden ser utilizadas para proteger tu privacidad al bloquear a terceros  para que no hagan seguimiento de tu actividad en línea. ADVERTENCIA: las extensiones también pueden ser maliciosas \([ejemplos](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/)\).
 
 ### Extensiones recomendadas:
 
