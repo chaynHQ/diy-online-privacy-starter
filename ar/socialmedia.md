@@ -59,6 +59,7 @@
 # نصيحة إضافيّة
 
 o هام: قومي بإجراء [اختبار الخصوصيّة](http://smartprivacy.tumblr.com/privacynow)  بواسطة Smart Privacy. 
+
 o قومي بإنشاء[ تنبيه على جوجل](https://www.google.com/alerts) باسمك الشخصيّ.
 
 
