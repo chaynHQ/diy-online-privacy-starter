@@ -8,8 +8,8 @@ h2 { font-size: 42px; font-family: "B Mitra", Courier, Sans-serif;}
 h3 { font-size: 32px; font-family: "B Mitra", Courier, Sans-serif;}
 
 
-/* body font */p { font-family: "B Mitra", Courier, Sans-serif; }
-body { font-family: "B Mitra", Courier, Sans-serif;  }
+/* body font */p { font-family: "B Mitra", Courier, Sans-serif; text-align: right; font-size: 18px; }
+body { font-family: "B Mitra", Courier, Sans-serif; text-align: right; font-size: 18px; }
 
 /* table of contents */.book-summary{ background-color: #FEBB2A;}
 
