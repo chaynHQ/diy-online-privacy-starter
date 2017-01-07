@@ -6,12 +6,13 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notonastaliqurdu.css);
 
 
-h1 { font-size: 52px; font-family: "Noto Nastaliq Urdu","Noto Nastaliq Urdu Draft", serif;}
-h2 { font-size: 42px; font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", serif;}
-h3 { font-size: 32px; font-family: "Noto Nastaliq Urdu",, "Noto Nastaliq Urdu Draft", serif;}
+h1 { font-size: 3em; font-family: "Noto Nastaliq Urdu","Noto Nastaliq Urdu Draft", serif;}
+h2 { font-size: 2.5em; font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", serif;}
+h3 { font-size: 2em; font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", serif;}
 
 
-/* body font */p { font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft",, serif;}
+/* body font */
+p { font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", serif;}
 body { font-family: "Noto Nastaliq Urdu Draft", "Noto Nastaliq Urdu", serif; }
 
 
