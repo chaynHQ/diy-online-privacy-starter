@@ -5,26 +5,28 @@
 آپ اس رہنمآي کرنے والی دستاویز (گائڈ) کا بنيادی قسم پڑھ رہے ہيں۔ ہمارے پاس ايک جديد قسم بھی ہے جو آپ يہاں جا کر پڑھ سکتے ہيں: https://chayn.gitbooks.io/advanced-diy-privacy-for-every-woman/content/
 
 
+"میری ہر کوشش کے باوجود اس نے مجهے ڈهونڈ نکالا. اب مجهے سمجھ آئ ہے کہ اس نے یہ کیسے کیا"
+
+"واہ، واقعی اس کی وجہ سے میری آنکهوں سے پردے اٹھ گئے ہیں"
+
+"یہ پہلی دفعہ ہے کہ کوئ اس معاملے پر روشنی ڈالنے کے قابل ہوا ہے. عام حاکمین زیاده تراس سے بالکل ناواقف ہوتے ہیں..."
 
 
-### WHO IS THIS GUIDE FOR?
+
+## یہ آن لائن گائڈ کس کے لیے ہے؟
+ہر کوئی، ہر جگہ. حالاںکہ یہ گائڈ ان خواتین کو ذہن میں رکھ کر لکها گیا ہے جو گهریلو تشدد کا نشانہ ہیں یا جن کا پیچها کیا جا رہا ہے، لیکن جنس، محل وقوع اور صورت حال کو قطع نظر رکهتے ہوئے اس گائڈ اور اس کے اصولوں پرعمل ہر کوئ کر سکتا ہے۔
+
+کیا کسی کے پاس آپ کی تصاویر ہیں اور آپ جانتے نہیں ہیں کیوں اور کیسے؟ کیا وه مسلسل غیر موقع طور پر ہر اس مقام پر پہنچ جاتے ہیں جہاں آپ ہوتے ہیں؟ کیا وه آپ کی زندگی کے بارے میں ایسے راز جانتے ہیں جو آپ نے صرف چند لوگوں کو ظاہر کیے ہوں؟ اگر آپ ان سوالات کا مثبت جواب دیتے ہیں، تو سمجھ جائیں کہ آپ کو نظروں میں رکها جا رہا ہے۔
 
 
-Everyone, everywhere. Though written with women dealing with domestic abuse or stalking in mind, the guide and its principles can be used irrespective of gender, location or situation.
+## اس گائڈ کا موضوع کیا ہے؟
+جدید فنیات (ٹیکنالوجی) جیسے کہ موبائل فون، انٹرنیٹ، وغیره نے تشدد کرنے والوں کو اپنے نشانے کو ڈرانے، دهمکانے  اور ان کا پیچها کرنے میں آسانی پیدا کر دی ہے،  چاہے وه انٹرنیٹ پر ہو یا حقیقی زندگی میں۔ لیکن اچهی خبر یہ ہے کہ اپنے آپ کو محفوظ رکهنے کے لیے اقدامات لیے جا سکتے ہیں۔ اپنے خطرے کا جائزه لیں اور اس گائڈ کے بہترین مشوروں پرعمل کر کے اپنی حفاظت پر ایک بار پهر قابو پائیں۔
 
 
-Does someone have pictures of you and you don’t know how or why? Do they keep showing up unexpectedly to places where you are? Do they know things about your life that you haven’t told many people? Then you may be being stalked.
+
+## اس گائڈ کا استعمال کیسے کر سکتے ہیں؟
+آپ کا تعاقب بہت سارے طریقوں سے کیا جا سکتا ہے. لیکن اس کے امکانات اور کتنی آسانی سے یہ کام ہو سکتا ہے، آپ کے اور آپ کا پیچها کرنے والے کے ذاتی حالات پر منحصر ہے. مگر یہ گائڈ مکمل حل نہیں ہے۔ اس گائڈ میں شاید آپ کو ڈهونڈنے اور نشانہ بنانے کے سارے طریقے شامل نہ ہو، لیکن اس میں ہمارے سب سے بفائده مند تجاویز ہیں جس سے آپ کو خوب سہارا مل سکتا ہے۔
 
 
-### WHAT IS THIS GUIDE ABOUT?
-
-
-Modern technology such as the internet/mobile phones etc., has made it increasingly easy for abusive partners to stalk, intimidate and threaten their targets both online and offline. 
-The good news: you can take measures to protect yourself! Assess your risk and take back control with this guide of best practices.
-
-
-### HOW TO USE THIS GUIDE
-There are many ways someone can track you down. The chance and ease of this happening will depend heavily on your personal circumstances and that of your abuser. This guide is not the complete answer.
-This guide doesn’t include all of the ways abusers can track someone, but it is a collection of tips and support including our best finds. Off you go!
-
+ 
 
