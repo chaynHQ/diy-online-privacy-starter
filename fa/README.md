@@ -1,5 +1,4 @@
-![](/fa/assets/farsi_Cryptocat_vsmall.png)
-![](/fa/assets/farsi_Cryptocat_tiny.png)
+![](/fa/assets/farsi_securikitty_cover.png)
 
 
 # بسته آموزشی مبتدی
