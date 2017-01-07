@@ -1,30 +1,30 @@
 # د ټولنیزو رسینو محرمیت تنظیمات
 
-![](/assets/sad cat.png)
+![](ps/assets/sad cat.png)
 
 ## Facebook فیسبوک
 
-څوک له ما سره اړیکه نیولی شي؟
+### څوک له ما سره اړیکه نیولی شي؟
 
-![](/assets/Facebook - Who can see my stuff.gif)
-
-
-
-څنګه کولای شم د هغه چا مخنیوي وکړم  چې مې ځوروي؟ 
-![](/assets/Facebook - Who can contact me.gif)
+![](ps/assets/Facebook - Who can see my stuff.gif)
 
 
 
-چگونه از آزار و اذیت دیگران جلوگیری نمایم؟
-![](/assets/Facebook - Blocking.gif)
+### څنګه کولای شم د هغه چا مخنیوي وکړم  چې مې ځوروي؟ 
+![](ps/assets/Facebook - Who can contact me.gif)
+
+
+
+### چگونه از آزار و اذیت دیگران جلوگیری نمایم؟
+![](ps/assets/Facebook - Blocking.gif)
 
 
 
 
 ## Twitter توییتر
 
-امنیت او محرمیت
-![](/assets/Twitter - Security  and privacy.gif)
+### امنیت او محرمیت
+![](ps/assets/Twitter - Security  and privacy.gif)
 
 
 
