@@ -27,7 +27,7 @@
 
 الأمان والخصوصيّة
 
-![](ar/assets/Twitter - Security  and privacy.gif)
+![](/ar/assets/Twitter - Security  and privacy.gif)
 
 
 
