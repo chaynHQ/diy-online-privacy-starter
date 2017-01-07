@@ -1,4 +1,4 @@
-![](/fa/assets/farsi_securikitty_cover.png)
+![](/fa/assets/farsi-securikitty-cover.png)
 
 
 # بسته آموزشی مبتدی
