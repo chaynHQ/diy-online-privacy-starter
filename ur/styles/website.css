@@ -11,8 +11,8 @@ h2 { font-size: 42px; font-family: "Noto Nastaliq Urdu Draft", serif;}
 h3 { font-size: 32px; font-family: "Noto Nastaliq Urdu Draft", serif;}
 
 
-/* body font */p { font-family: "Noto Nastaliq Urdu Draft", "Noto Nastaliq Urdu", serif font-weight: 200; }
-body { font-family: "Noto Nastaliq Urdu Draft", serif; font-weight: 200;  }
+/* body font */p { font-family: "Noto Nastaliq Urdu Draft", "Noto Nastaliq Urdu", serif;}
+body { font-family: "Noto Nastaliq Urdu Draft", serif; }
 
 
 /* table of contents */.book-summary{ background-color: #FEBB2A;}
