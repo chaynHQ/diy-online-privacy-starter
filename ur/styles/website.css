@@ -6,14 +6,14 @@
 @import url(http://fonts.googleapis.com/earlyaccess/notonastaliqurdu.css);
 
 
-h1 { font-size: 3em; font-family: "Noto Nastaliq Urdu","Noto Nastaliq Urdu Draft", serif;}
-h2 { font-size: 2.5em; font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", serif;}
-h3 { font-size: 2em; font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", serif;}
+h1 { font-size: 3em; font-family: "Noto Nastaliq Urdu","Noto Nastaliq Urdu Draft", Courier, serif;}
+h2 { font-size: 2.5em; font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", Courier, serif;}
+h3 { font-size: 2em; font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", Courier, serif;}
 
 
 /* body font */
-li { font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", serif;}
-body { font-family: "Noto Nastaliq Urdu Draft", "Noto Nastaliq Urdu", serif; font-size: 1.2em; line-height: 2.5em;}
+li { font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", Courier, serif;}
+body { font-family: "Noto Nastaliq Urdu Draft", "Noto Nastaliq Urdu", Courier, serif; font-size: 1.2em; line-height: 2.5em;}
 
 
 /* table of contents */.book-summary{ background-color: #FEBB2A;}
@@ -23,6 +23,6 @@ body { font-family: "Noto Nastaliq Urdu Draft", "Noto Nastaliq Urdu", serif; fon
 }
 
 /* side menu */
-.book-summary {font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", serif; color: black; font-size: 18px; font-decoration: strong;}
+.book-summary {font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", Courier, serif; color: black; font-size: 18px; font-decoration: strong;}
 
 .book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none; text-align: right; font-weight: 800;}
