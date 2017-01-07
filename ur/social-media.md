@@ -4,14 +4,17 @@
 
 ## فیس بک Facebook
 
+
 ### کون کیا دیکھ سکتا ہے؟
 
 ![](/assets/Facebook - Who can see my stuff.gif)
 
 
 
+
 ### کون مجھ سے رابطہ کر سکتا ہے؟
 ![](/assets/Facebook - Who can contact me.gif)
+
 
 
 
@@ -22,11 +25,13 @@
 
 
 
+
 ## ٹویٹر Twitter
 
 ### حفاظت اور رازداری
 
 ![](/assets/Twitter - Security  and privacy.gif)
+
 
 
 
@@ -75,6 +80,7 @@ http://www.wikihow.com/Turn-Off-Location-Services-on-an-Android
 
 o :اھم ـ اسمارٹ پرائیویسی کا رازداری کا امتحان یہاں لیں
 http://smartprivacy.tumblr.com/privacynow
+
 o : آپکا نام تلاش کرنے کا گوگل الرٹ بنائیں (https://www.google.com/alerts)
 
 ---
