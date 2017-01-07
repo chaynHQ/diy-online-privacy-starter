@@ -9,8 +9,8 @@ h2 { font-size: 42px; font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", sans
 h3 { font-size: 32px; font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", sans-serif;}
 
 
-/* body font */p { font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", sans-serif; font-weight: 200; }
-body { font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", sans-serif; font-weight: 200;  }
+/* body font */p { font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", sans-serif; text-align: right; }
+body { font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", sans-serif; font-size: 18px; text-align: right;  }
 
 /* table of contents */.book-summary{ background-color: #FEBB2A;}
 
