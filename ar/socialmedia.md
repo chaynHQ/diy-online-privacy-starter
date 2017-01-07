@@ -1,24 +1,24 @@
 # إعدادات خصوصيّة التواصل الاجتماعي.
 
-![](/assets/sad cat.png)
+![](ar/assets/sad cat.png)
 
 ## Facebook فيسبوك
 
 من يستطيع رؤية منشوراتي؟
 
-![](/assets/Facebook - Who can see my stuff.gif)
+![](ar/assets/Facebook - Who can see my stuff.gif)
 
 
 
 من يستطيع مراسلتي؟
 
-![](/assets/Facebook - Who can contact me.gif)
+![](ar/assets/Facebook - Who can contact me.gif)
 
 
 
 كيف أقوم بإيقاف شخصًا ما من إزعاجي؟
 
-![](/assets/Facebook - Blocking.gif)
+![](ar/assets/Facebook - Blocking.gif)
 
 
 
@@ -27,7 +27,7 @@
 
 الأمان والخصوصيّة
 
-![](/assets/Twitter - Security  and privacy.gif)
+![](ar/assets/Twitter - Security  and privacy.gif)
 
 
 
@@ -50,8 +50,6 @@
 [رسائل](https://www.whatsapp.com/) واتساب عبارة عن رسائل مشفّرة (بما معناه أن لا أحد يستطيع الاطّلاع على محتوى هذه الرسائل إلا المرسل والمستقبل) لكن البيانات الوصفيّة المتعلقة بمن تتحدثين معهم ومدة المحادثة يتم تخزينها وحفظها.
 
 ### Signal سيجنال
-
-[Signal by Open Whisper Systems](https://www.google.com/url?q=https://whispersystems.org/&sa=D&ust=1478912695337000&usg=AFQjCNGHdx1WPmphFboxn6n7XGsef33BfQ) is a[ ](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Free_and_open-source_software&sa=D&ust=1478912695337000&usg=AFQjCNGwU1Q0XuVSopwVy1qJ4btHIQA3gA)[free and open-source](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Free_and_open-source_software&sa=D&ust=1478912695338000&usg=AFQjCNGeZrTk5SpXLtIP8rdwBYKi_EW8ew) encrypted[ voice calling](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Voice_calling&sa=D&ust=1478912695338000&usg=AFQjCNFZgBi7LgOXwClT5w2T3FO0BwXSnQ) and[ instant messaging](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Instant_messaging&sa=D&ust=1478912695339000&usg=AFQjCNHoXsDoewpWnUaxuu0-5F4Aos1H6w) application for Android,[ iOS](https://www.google.com/url?q=https://en.wikipedia.org/wiki/IOS&sa=D&ust=1478912695341000&usg=AFQjCNFFvfrP8d8Z0KOTVQaTMaC7utDpQg) and[ ](https://www.google.com/url?q=https://whispersystems.org/blog/signal-desktop/&sa=D&ust=1478912695341000&usg=AFQjCNH6hD7tXUzlEaQyyQ-CEIIAeu2W2A)[Desktop](https://www.google.com/url?q=https://whispersystems.org/blog/signal-desktop/&sa=D&ust=1478912695342000&usg=AFQjCNHBfEjTHJdIxswAu0yJgUVWeXzROQ). It uses[ ](https://www.google.com/url?q=https://en.wikipedia.org/wiki/End-to-end_encryption&sa=D&ust=1478912695342000&usg=AFQjCNEi5C1kJb__nmiFkCk47K4Umd7rGg)[end-to-end encryption](https://www.google.com/url?q=https://en.wikipedia.org/wiki/End-to-end_encryption&sa=D&ust=1478912695343000&usg=AFQjCNG4Vo3pcqNhwCfVoafL0sdtzb7QHg) to secure all communications to other Signal users. Signal can be used to send and receive encrypted instant messages, group messages, attachments and media messages.
 
 سيجنال عبارة عن تطبيق مراسلة لحظيّة ومكالمات صوتيّة مجانيّ لأندرويد، iOS والأجهزة المكتبية. يستخدم التطبيق تشفير النهاية-للنهاية لتأمين كل الاتصّالات مع مستخدمي سيجنال الآخرين. يمكن استخدام سيجنال لإرسال رسائل لحظيّة مشفّرة، رسائل جماعيّة، مرفقات ورسائل وسائط متعددة.
 
