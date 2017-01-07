@@ -10,27 +10,27 @@
 
 ## Facebook
 
-Who Can See My Stuff?
+### Who Can See My Stuff?
 
-![](/assets/Facebook - Who can see my stuff.gif)
-
-
-Who Can Contact Me?
-
-![](/assets/Facebook - Who can contact me.gif)
+![](ps/assets/Facebook - Who can see my stuff.gif)
 
 
+### Who Can Contact Me?
 
-How Do I Stop Someone From Bothering Me?
+![](ps/assets/Facebook - Who can contact me.gif)
 
-![](/assets/Facebook - Blocking.gif)
+
+
+### How Do I Stop Someone From Bothering Me?
+
+![](ps/assets/Facebook - Blocking.gif)
 
 
 
 
 ## Twitter
 
-Security and Privacy
+### Security and Privacy
 
 ![](/assets/Twitter - Security  and privacy.gif)
 
