@@ -12,8 +12,8 @@ h3 { font-size: 2em; font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draf
 
 
 /* body font */
-p { font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", serif;}
-body { font-family: "Noto Nastaliq Urdu Draft", "Noto Nastaliq Urdu", serif; }
+li { font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", serif;}
+body { font-family: "Noto Nastaliq Urdu Draft", "Noto Nastaliq Urdu", serif; font-size: 1.2em; line-height: 2.5em;}
 
 
 /* table of contents */.book-summary{ background-color: #FEBB2A;}
@@ -23,7 +23,6 @@ body { font-family: "Noto Nastaliq Urdu Draft", "Noto Nastaliq Urdu", serif; }
 }
 
 /* side menu */
-.book-summary {font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", serif; color: black; font-size: 18px;}
+.book-summary {font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", serif; color: black; font-size: 18px; font-decoration: strong;}
 
-.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none; text-align: right;
-}
+.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none; text-align: right; font-weight: 800;}
