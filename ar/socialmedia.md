@@ -1,18 +1,18 @@
 # إعدادات خصوصيّة التواصل الاجتماعي.
 
-![](ar/assets/sad cat.png)
+![](assets/sad cat.png)
 
 ## Facebook فيسبوك
 
 من يستطيع رؤية منشوراتي؟
 
-![](ar/assets/Facebook - Who can see my stuff.gif)
+![](assets/Facebook - Who can see my stuff.gif)
 
 
 
 من يستطيع مراسلتي؟
 
-![](ar/assets/Facebook - Who can contact me.gif)
+![](assets/Facebook - Who can contact me.gif)
 
 
 
