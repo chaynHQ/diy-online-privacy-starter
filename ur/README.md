@@ -1,7 +1,7 @@
 # اپنی اونلاین حفازت خود کرنے کی تجاویز 
 
 
-![](/ur/assets/urduprivacyguidemini.png)
+![](assets/urduprivacyguidemini.png)
 
 
 آپ اس رہنمآي کرنے والی دستاویز (گائڈ) کا بنيادی قسم پڑھ رہے ہيں۔ ہمارے پاس ايک جديد قسم بھی ہے جو آپ يہاں جا کر پڑھ سکتے ہيں: https://chayn.gitbooks.io/advanced-diy-privacy-for-every-woman/content/
