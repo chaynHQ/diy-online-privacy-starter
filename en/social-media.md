@@ -57,9 +57,9 @@ See [How to Turn Off Location Services on iOS](http://www.tomsguide.com/us/turn-
 
 # Additional Advice
 
-o IMPORTANT: Take the[ ](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695346000&usg=AFQjCNHk6DA9iA5VUGtBxjVsKzxOjBU7sQ)[Privacy Test by Smart Privacy](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695347000&usg=AFQjCNGjAN8OCYH3WXnd3DP_haNY--ZHog)
+o IMPORTANT: Take the[ ](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695346000&usg=AFQjCNHk6DA9iA5VUGtBxjVsKzxOjBU7sQ)[Privacy Test by Smart Privacy](http://smartprivacy.tumblr.com/privacynow)
 
-o Create a [Google Alert](https://www.google.com/url?q=https://www.google.com/alerts&sa=D&ust=1478912695348000&usg=AFQjCNH-T5bZUuRKQwCWL8x6g3JbYp3IkQ) for your name
+o Create a [Google Alert](https://www.google.com/alert) for your name
 
 ---
 ![](/assets/chayn icon.png)

@@ -78,8 +78,8 @@
 
 
 ## اضافي مشوره یا معلومات
-اړین: د Smart Privacy لخوا د محرمیت ازموینه ورکړئ
-خپل نوم لپاره Google Alert  جوړ کړئ
+* اړین: د [Smart Privacy](http://smartprivacy.tumblr.com/privacynow) لخوا د محرمیت ازموینه ورکړئ
+* خپل نوم لپاره [Google Alert](https://www.google.com/alert)  جوړ کړئ
 
 
 د دې لپاره چې د امنیت احساس وکړئ هر هغه څه وکړئ چې تاسو فکر کوئ ورته اړتیا لرئ. 
