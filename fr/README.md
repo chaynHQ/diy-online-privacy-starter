@@ -1,6 +1,6 @@
 # Le kit de la Débutante
 
-![](/fr/assets/Fox Cat Thing v small.png)
+![](assets/Fox Cat Thing v small.png)
 
 Ceci est la version ABREGEE de notre guide. Nous avons aussi un guide plus complet, que tu peux lire ici: INSERT LINK
 
