@@ -1,9 +1,9 @@
 # Summary
 
-* [Hello.](README.md)
-* [How are you being tracked?](track.md)
-* [Risks](risks.md)
-* [Set a killer pawsword](passwords.md)
-* [Pawtect your browser](protect-browser.md)
-* [Social Media & Devices](social-media.md)
-* [Final words](final-words.md)
+* [Hola.](README.md)
+* [¿Cómo te pueden estar siguiendo el rastro?](track.md)
+* [Riesgos](risks.md)
+* [Cómo crear una contraseña infalible](passwords.md)
+* [Cómo proteger tu navegador](protect-browser.md)
+* [Configuración de Seguridad en Redes Sociales](social-media.md)
+* [Adios.](final-words.md)
