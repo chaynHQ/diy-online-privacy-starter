@@ -1,39 +1,39 @@
 # Configuración de Seguridad en Redes Sociales
 
-![](es/assets/sad cat.png)
+![](assets/sad cat.png)
 
 ## Facebook
 
-¿Quién Puede Ver mis Cosas?
+### ¿Quién Puede Ver mis Cosas?
 
-![](es/assets/Facebook - Who can see my stuff.gif)
-
-
-
-¿Quién puede ponerse en contacto conmigo?
-
-![](es/assets/Facebook - Who can contact me.gif)
+![](assets/Facebook - Who can see my stuff.gif)
 
 
 
-¿Cómo evito que me moleste?
+### ¿Quién puede ponerse en contacto conmigo?
 
-![](es/assets/Facebook - Blocking.gif)
+![](assets/Facebook - Who can contact me.gif)
+
+
+
+### ¿Cómo evito que me moleste?
+
+![](assets/Facebook - Blocking.gif)
 
 
 
 
 ## Twitter
 
-Seguridad y Privacidad
+### Seguridad y Privacidad
 
-![](es/assets/Twitter - Security  and privacy.gif)
+![](assets/Twitter - Security  and privacy.gif)
 
 
 
 ## Dispositivos
 
-Deshabilitar ubicación
+### Deshabilitar ubicación
 
 | Cómo asegurar tu teléfono Android | How to secure your iPhone: |
 | --- | --- |

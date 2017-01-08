@@ -1,22 +1,22 @@
 # تنظیمات حریم خصوصی رسانه های اجتماعی
 
-![](/assets/sad cat.png)
+![](assets/sad cat.png)
 
 ## Facebook فیسبوک
 
 ### چه کسانی پست های مرا می بینند؟
 
-![](/assets/Facebook - Who can see my stuff.gif)
+![](assets/Facebook - Who can see my stuff.gif)
 
 
 
 ### چی کسانی می توانند با من ارتباط برقرار نمایند؟
-![](/assets/Facebook - Who can contact me.gif)
+![](assets/Facebook - Who can contact me.gif)
 
 
 
 ### چگونه از آزار و اذیت دیگران جلوگیری نمایم؟
-![](/assets/Facebook - Blocking.gif)
+![](assets/Facebook - Blocking.gif)
 
 
 
@@ -25,7 +25,7 @@
 
 ### امنیت و حریم خصوصی
 
-![](/assets/Twitter - Security  and privacy.gif)
+![](assets/Twitter - Security  and privacy.gif)
 
 
 

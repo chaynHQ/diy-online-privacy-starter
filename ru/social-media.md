@@ -1,39 +1,39 @@
 # Настройки Приватности в Социальных Сетях
 
-![](/assets/sad cat.png)
+![](assets/sad cat.png)
 
 ## Facebook
 
-Кто может видеть мои материалы?
+### Кто может видеть мои материалы?
 
-![](/assets/Facebook - Who can see my stuff.gif)
-
-
-
-Кто может связаться со мной?
-
-![](/assets/Facebook - Who can contact me.gif)
+![](assets/Facebook - Who can see my stuff.gif)
 
 
 
-Как Мне Прекратить Назойливое Общение?
+### Кто может связаться со мной?
 
-![](/assets/Facebook - Blocking.gif)
+![](assets/Facebook - Who can contact me.gif)
+
+
+
+### Как Мне Прекратить Назойливое Общение?
+
+![](assets/Facebook - Blocking.gif)
 
 
 
 
 ## Twitter
 
-Безопасность и конфиденциальность
+### Безопасность и конфиденциальность
 
-![](/assets/Twitter - Security  and privacy.gif)
+![](assets/Twitter - Security  and privacy.gif)
 
 
 
 ## Устройства
 
-Деактивировать определение местоположения
+### Деактивировать определение местоположения
 
 | Насколько безопасен телефон Android | Насколько безопасен Ваш iPhone: |
 | --- | --- |
@@ -82,5 +82,5 @@ o **Важно**:  Пройдите Тест на Конфиденциально
 o Создайте a [Google Alert](https://www.google.com/url?q=https://www.google.com/alerts&sa=D&ust=1478912695348000&usg=AFQjCNH-T5bZUuRKQwCWL8x6g3JbYp3IkQ) на Ваше имя
 
 ---
-![](/assets/chayn icon.png)
+![](assets/chayn icon.png)
 

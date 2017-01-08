@@ -1,26 +1,26 @@
 # سوشل میڈیا کی رازداری کی ترتیبات
 
-![](/assets/sad cat.png)
+![](assets/sad cat.png)
 
 ## فیس بک Facebook
 
 
 ### کون کیا دیکھ سکتا ہے؟
 
-![](/assets/Facebook - Who can see my stuff.gif)
+![](assets/Facebook - Who can see my stuff.gif)
 
 
 
 
 ### کون مجھ سے رابطہ کر سکتا ہے؟
-![](/assets/Facebook - Who can contact me.gif)
+![](assets/Facebook - Who can contact me.gif)
 
 
 
 
 ### کوئ مجھے پریشان کرے تو کیسے روکوں؟
 
-![](/assets/Facebook - Blocking.gif)
+![](assets/Facebook - Blocking.gif)
 
 
 
@@ -30,7 +30,7 @@
 
 ### حفاظت اور رازداری
 
-![](/assets/Twitter - Security  and privacy.gif)
+![](assets/Twitter - Security  and privacy.gif)
 
 
 

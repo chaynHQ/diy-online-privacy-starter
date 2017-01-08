@@ -1,24 +1,24 @@
 # Options de sécurité pour les réseaux sociaux
 
-![](fr/assets/sad cat.png)
+![](assets/sad cat.png)
 
 ## Facebook
 
 ### Qui peut voir mon contenu ?
 
-![](fr/assets/Facebook - Who can see my stuff.gif)
+![](assets/Facebook - Who can see my stuff.gif)
 
 
 
 ### Qui peut me contacter ?
 
-![](/assets/Facebook - Who can contact me.gif)
+![](assets/Facebook - Who can contact me.gif)
 
 
 
 ### Comment empêcher quelqu’un de me contacter ?
 
-![](/assets/Facebook - Blocking.gif)
+![](assets/Facebook - Blocking.gif)
 
 
 
@@ -27,7 +27,7 @@
 
 ### Sécurité et confidentialité
 
-![](/assets/Twitter - Security  and privacy.gif)
+![](assets/Twitter - Security  and privacy.gif)
 
 
 
