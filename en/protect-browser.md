@@ -1,10 +1,10 @@
 # How to pawtect\(fine.. protect\) your browser
 
-![](/assets/HypuuurLynx.gif)
+![](assets/HypuuurLynx.gif)
 
 ### Chrome. Safari. Firefox. Explorer.
 
-First, test how safe your current browser is with [Panopticlick](https://www.google.com/url?q=https://panopticlick.eff.org/&sa=D&ust=1478912695267000&usg=AFQjCNHRZ5gOso_CZP0hpiN1JhborhnUyA)
+First, test how safe your current browser is with [Panopticlick](https://panopticlick.eff.org)
 
 Browser Privacy Settings - Do Not Track and Private Browsing Windows
 
@@ -12,34 +12,34 @@ Browser Privacy Settings - Do Not Track and Private Browsing Windows
 
 **Chrome** &gt; Settings &gt; Show Advanced Settings &gt; &gt; Privacy &gt; Send “Do Not Track” request with your browser traffic
 
-![](/assets/chrome - do not track.gif)
+![](assets/chrome - do not track.gif)
 
 
 
 **Firefox** &gt; Options &gt; Privacy &gt; manage your Do Not Track settings
 
 
-![](/assets/Firefox - do not track.gif)
+![](assets/Firefox - do not track.gif)
 
 
 **Safari** &gt; Menu &gt; Preferences &gt; Privacy &gt; Website tracking &gt; Ask websites not to track me
 
 
-![](/assets/do-not-track-safari.jpg)
+![](assets/do-not-track-safari.jpg)
 
 
 **Explorer** &gt; Tools \(Alt + X\) &gt; Safety &gt; Turn on tracking protection &gt; Enable
 
 
-![](/assets/explorer do not track.gif)
+![](assets/explorer do not track.gif)
 
 
 **Alternative Browsers and Search Engines**
 
-* [Brave](https://www.google.com/url?q=https://www.brave.com/&sa=D&ust=1478912695288000&usg=AFQjCNHcP0LoTEgX_vj7R2VZhiv1Od5DFA) is a browser which automatically blocks ads and trackers
-* [Tor](https://www.google.com/url?q=https://www.torproject.org/&sa=D&ust=1478912695289000&usg=AFQjCNFTU4bafRY0iquqiWeBY44IdHZjXg) is a browsing software that enables you to surf the web anonymously
-* [DuckDuckGo](https://www.google.com/url?q=https://duckduckgo.com/about&sa=D&ust=1478912695290000&usg=AFQjCNGHa5VDsmoCL7bSmOJ4IO7eIcL20Q) is a private search engine that does not track its users
-* [StartPage](https://www.google.com/url?q=https://www.startpage.com/&sa=D&ust=1478912695290000&usg=AFQjCNHtxnn0W59I1UyXzGCRbAux5_YvlQ) is a private search engine that does not record your IP address or
+* [Brave](https://www.brave.com/) is a browser which automatically blocks ads and trackers
+* [Tor](https://www.torproject.org/) is a browsing software that enables you to surf the web anonymously
+* [DuckDuckGo](https://duckduckgo.com/about) is a private search engine that does not track its users
+* [StartPage](https://www.startpage.com) is a private search engine that does not record your IP address or
 * track your searches
 
 **Incognito Mode**
@@ -70,7 +70,7 @@ Browser Privacy Settings - Do Not Track and Private Browsing Windows
 ### **Use a VPN**
 
 * A VPN, or a Virtual Private Network, is a way of disguising your IP and encrypting all of your internet traffic so that no one can find out what you’re viewing online.
-* Free VPN:[ ](https://www.google.com/url?q=http://www.okfreedom.com/en/&sa=D&ust=1478912695304000&usg=AFQjCNGTHAcA5RqmcjfgyakGp1Wt5XGhNA)[OkayFreedom](https://www.google.com/url?q=http://www.okfreedom.com/en/&sa=D&ust=1478912695305000&usg=AFQjCNHwAvtAkzBMGhGwtHGKXJEd_rKcIQ) \(please note: the free version of OkayFreedom is[ ](https://www.google.com/url?q=http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695305000&usg=AFQjCNG_DMB0geaqYVeqA-Ca7xOINTILDg)[ad-supported](https://www.google.com/url?q=http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695306000&usg=AFQjCNFH5V7q52lXaSCMXNUwJjmmgpMlUg)\)[ ](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695306000&usg=AFQjCNEyY-gQmWBLzqccWxARiBA9jG64bw)[TunnelBear](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695307000&usg=AFQjCNGWiE0W7csNUb1vS41tel8kix42Tg)
+* Free VPN:[ ](http://www.okfreedom.com/en/)[OkayFreedom](http://www.okfreedom.com/en/) \(please note: the free version of OkayFreedom is[ ](http://www.okfreedom.com/en/support)[ad-supported](http://www.okfreedom.com/en/)\)[ ](https://www.tunnelbear.com/)[TunnelBear](https://www.tunnelbear.com/)
 
 ## **Tor**
 
@@ -102,7 +102,7 @@ Browser extensions \(Add-ons\/plug ins\), are programs which extend or customise
 * [BleachBit](https://www.google.com/url?q=http://www.bleachbit.org/&sa=D&ust=1478912695318000&usg=AFQjCNEjz3m2EuO6O2lPl4Vo_KAe6CHsjQ)
 
 ---
-![](/assets/chayn icon.png)
+![](assets/chayn icon.png)
 
 
 

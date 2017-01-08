@@ -1,25 +1,25 @@
 # How to set a killer pawsword \(sorry..we couldn’t help it\)
 Easy steps to fight the most common vulnerability
 
-![](/assets/Pawsword.gif)
+![](assets/Pawsword.gif)
 
 ### 1. Password protection
 
-o Visit [How Secure Is My Password](https://howsecureismypassword.net/) to test the strength of your passwords
+* Visit [How Secure Is My Password](https://howsecureismypassword.net/) to test the strength of your passwords
 
-o Never recycle\/reuse passwords
+* Never recycle\/reuse passwords
 
-o Do not use the same password across multiple sites - Create a new\/different password for every site you sign up to
+* Do not use the same password across multiple sites - Create a new\/different password for every site you sign up to
 
-o Do not let your browser save your passwords
+* Do not let your browser save your passwords
 
-o Think passphrase instead of password
+* Think passphrase instead of password
 
-o Use upper\/lower case letters, numbers, symbols - See [Strong Password Generator](https://strongpasswordgenerator.com/). Password Managers usually have a built-in password generator to create complex passwords
+* Use upper\/lower case letters, numbers, symbols - See [Strong Password Generator](https://strongpasswordgenerator.com/). Password Managers usually have a built-in password generator to create complex passwords
 
 ### 2. Use a password manager
 
-Password Management software stores encrypted versions of your passwords so you can use a unique, secure password for every service without having to remember every password. There are plenty of[ free Password Managers](http://thehackernews.com/2016/07/best-password-manager.html) to select from, for example,[ KeePass](http://keepass.info/) \(see[ how to setup and use it](https://youtu.be/KQuDrKSZkck),[LastPass]and[Padlock](https://padlock.io/).
+Password Management software stores encrypted versions of your passwords so you can use a unique, secure password for every service without having to remember every password. There are plenty of[ free Password Managers](http://thehackernews.com/2016/07/best-password-manager.html) to select from, for example,[ KeePass](http://keepass.info/) \(see[ how to setup and use it](https://youtu.be/KQuDrKSZkck),[LastPass]and [Padlock](https://padlock.io/).
 
 ### 3. How should you change your password?
 
@@ -31,4 +31,4 @@ Two-Factor Authentication \(2FA\) makes it harder for anyone attempting to hack 
 
 ---
 
-![](/assets/chayn icon.png)
+![](assets/chayn icon.png)

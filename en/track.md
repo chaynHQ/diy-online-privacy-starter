@@ -54,5 +54,5 @@ Keep in mind your stalker can potentially monitor the devices of anyone they’v
 
 
 ---
-![](/assets/chayn icon.png)
+![](assets/chayn icon.png)
 
