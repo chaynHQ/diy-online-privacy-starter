@@ -4,30 +4,30 @@
 
 ## Facebook فيسبوك
 
-من يستطيع رؤية منشوراتي؟
+### من يستطيع رؤية منشوراتي؟
 
 ![](assets/Facebook - Who can see my stuff.gif)
 
 
 
-من يستطيع مراسلتي؟
+### من يستطيع مراسلتي؟
 
 ![](assets/Facebook - Who can contact me.gif)
 
 
 
-كيف أقوم بإيقاف شخصًا ما من إزعاجي؟
+### كيف أقوم بإيقاف شخصًا ما من إزعاجي؟
 
-![](ar/assets/Facebook - Blocking.gif)
+![](assets/Facebook - Blocking.gif)
 
 
 
 
 ## Twitter تويتر
 
-الأمان والخصوصيّة
+### الأمان والخصوصيّة
 
-![](/ar/assets/Twitter - Security  and privacy.gif)
+![](assets/Twitter - Security  and privacy.gif)
 
 
 
@@ -58,11 +58,11 @@
 
 # نصيحة إضافيّة
 
-o هام: قومي بإجراء [اختبار الخصوصيّة](http://smartprivacy.tumblr.com/privacynow)  بواسطة Smart Privacy. 
+* هام: قومي بإجراء [اختبار الخصوصيّة](http://smartprivacy.tumblr.com/privacynow)  بواسطة Smart Privacy. 
 
-o قومي بإنشاء[ تنبيه على جوجل](https://www.google.com/alerts) باسمك الشخصيّ.
+* قومي بإنشاء[ تنبيه على جوجل](https://www.google.com/alerts) باسمك الشخصيّ.
 
 
 ---
-![](/assets/chayn icon.png)
+![](assets/chayn icon.png)
 
