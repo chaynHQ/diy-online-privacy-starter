@@ -1,4 +1,4 @@
-![](/assets/cryptocat.png)
+![](/en/assets/cryptocat.png)
 
 _“No matter what I did - he found me. Now I know how he did that... ”
 

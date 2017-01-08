@@ -1,4 +1,7 @@
 # Hazlo Tu Misma Seguridad En Línea
+
+![](/es/assets/Not the best looking cat copy.png)
+
 Deja que el GATO CODIFICADOR DE CHAYN te muestre cómo alguien te puede estar siguiendo el rastro y qué puedes hacer al respecto 
 
 Estás leyendo la guía BÁSICA. También tenemos una guía avanzada que puedes leer aquí: https://chayn.gitbooks.io/advanced-diy-privacy-for-every-woman/content/
