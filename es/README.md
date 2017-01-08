@@ -1,6 +1,6 @@
 # Hazlo Tu Misma Seguridad En Línea
 
-![](/es/assets/Not the best looking cat copy.png)
+![](assets/Not the best looking cat copy.png)
 
 Deja que el GATO CODIFICADOR DE CHAYN te muestre cómo alguien te puede estar siguiendo el rastro y qué puedes hacer al respecto 
 
