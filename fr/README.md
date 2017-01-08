@@ -1,6 +1,6 @@
 # Le kit de la débutante - la sécurité en lign
 
-![](/fr/assets/frenchcoverprivacy.png)
+![](assets/frenchcoverprivacy.png)
 
 Ceci est la version ABREGEE de notre guide. Nous avons aussi un guide plus complet, que tu peux lire ici: https://chayn.gitbooks.io/advanced-diy-privacy-for-every-woman/content/
 
