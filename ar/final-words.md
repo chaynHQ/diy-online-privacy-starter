@@ -5,6 +5,6 @@ Read the full guide **here**: https://chayn.gitbooks.io/advanced-diy-privacy-for
 
 **CHAYN**
 
-![](/assets/Cat-nap--medium.gif)
+![](assets/Cat-nap--medium.gif)
 
 ---

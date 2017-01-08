@@ -1,4 +1,4 @@
-![](/assets/cryptocat.png)
+![](assets/SecuriKitty.png)
 
 رزمة المُبتدئ!
 

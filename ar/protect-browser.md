@@ -1,13 +1,10 @@
 # كيف تحمي متصفّحك؟
 كروم Chrome. سفاري Safari. فايرفوكس Firefox. إكسبلورر Explorer.
-![](/assets/HypuuurLynx.gif)
+![](assets/HypuuurLynx.gif)
 
 أولاً، قومي باختبار مدى أمان متصفّحك الحالي مع [Panopticlick](https://panopticlick.eff.org/).
 
 
-$$
-
-$$
 
 ## إعدادات خصوصيّة المتصفح - نوافذ التصفّح السريّة.
 
@@ -18,26 +15,26 @@ $$
 
 **Chrome** &gt; Settings &gt; Show Advanced Settings &gt; &gt; Privacy &gt; Send “Do Not Track” request with your browser traffic
 
-![](/assets/chrome - do not track.gif)
+![](assets/chrome - do not track.gif)
 
 
 
 **Firefox** &gt; Options &gt; Privacy &gt; manage your Do Not Track settings
 
 
-![](/assets/Firefox - do not track.gif)
+![](assets/Firefox - do not track.gif)
 
 
 **Safari** &gt; Menu &gt; Preferences &gt; Privacy &gt; Website tracking &gt; Ask websites not to track me
 
 
-![](/assets/do-not-track-safari.jpg)
+![](assets/do-not-track-safari.jpg)
 
 
 **Explorer** &gt; Tools \(Alt + X\) &gt; Safety &gt; Turn on tracking protection &gt; Enable
 
 
-![](/assets/explorer do not track.gif)
+![](assets/explorer do not track.gif)
 
 
 **Alternative Browsers and Search Engines**
@@ -87,9 +84,9 @@ $$
 
 متصفّح تور Tor صُمّم خصيصًا ليساعدك على الحفاظ على شخصيتك مجهولة، وهو متصفّح بسيط لكنه فعّال للغاية في تصفّح الإنترنت دون الكشف عن هويتك لأي شخص. للتحميل اضغطي هنا. 
 
-Download it[ here](https://www.google.com/url?q=https://www.torproject.org/projects/torbrowser.html.en.&sa=D&ust=1478912695309000&usg=AFQjCNHi66hbopa6PKcH0qPppM-pcYeBiw).
+Download it[ here](https://www.torproject.org/projects/torbrowser.html).
 
-![](/assets/Surfing the internet with TOR.gif)
+![](assets/Surfing the internet with TOR.gif)
 
  ## Browser Extensions
 ## إضافات المتصفّح
@@ -114,9 +111,9 @@ Download it[ here](https://www.google.com/url?q=https://www.torproject.org/proje
 * فايرفوكس Firefox > خيارات > الخصوصيّة >  سجل المحفوظات.
 * منظفّات حواسب آليّة  يُنصح بها:
 
-* [CCleaner](https://www.google.com/url?q=http://www.piriform.com/ccleaner&sa=D&ust=1478912695317000&usg=AFQjCNHmtswm2AwMsRtywjxd7unIPKSXSg)
+* [CCleaner](http://www.piriform.com/ccleaner&sa=D&ust=1478912695317000&usg=AFQjCNHmtswm2AwMsRtywjxd7unIPKSXSg)
 
-* [BleachBit](https://www.google.com/url?q=http://www.bleachbit.org/&sa=D&ust=1478912695318000&usg=AFQjCNEjz3m2EuO6O2lPl4Vo_KAe6CHsjQ)
+* [BleachBit](http://www.bleachbit.org/)
 
 ---
-![](/assets/chayn icon.png)
+![](assets/chayn icon.png)
