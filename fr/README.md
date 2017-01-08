@@ -1,8 +1,8 @@
-# Le kit de la Débutante
+# Le kit de la débutante - la sécurité en lign
 
-![](assets/Fox Cat Thing v small.png)
+![](/fr/assets/frenchcoverprivacy.png)
 
-Ceci est la version ABREGEE de notre guide. Nous avons aussi un guide plus complet, que tu peux lire ici: INSERT LINK
+Ceci est la version ABREGEE de notre guide. Nous avons aussi un guide plus complet, que tu peux lire ici: https://chayn.gitbooks.io/advanced-diy-privacy-for-every-woman/content/
 
 
 ## A qui s’adresse ce guide?
