@@ -8,3 +8,5 @@ Read the full guide **here**: https://chayn.gitbooks.io/advanced-diy-privacy-for
 ![](assets/Cat-nap--medium.gif)
 
 ---
+
+Translation by Mahmoud Qudaih.

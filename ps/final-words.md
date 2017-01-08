@@ -8,4 +8,4 @@ Hope you enjoyed our guide!
 ---
 
 
-Thanks to Naveed for the translation.
+Translation by Naveedullah Pasoon.

@@ -5,6 +5,7 @@ Read the full guide in English: **https://chayn.gitbooks.io/advanced-diy-privacy
 Hope you enjoyed our guide!
 **CHAYN**
 
+Translation by Muhibullah Shadan.
 
 ---
 ![](/fa/assets/chayn icon.jpg)
