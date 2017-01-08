@@ -1,24 +1,24 @@
 # Configuración de Seguridad en Redes Sociales
 
-![](/assets/sad cat.png)
+![](es/assets/sad cat.png)
 
 ## Facebook
 
 ¿Quién Puede Ver mis Cosas?
 
-![](/assets/Facebook - Who can see my stuff.gif)
+![](es/assets/Facebook - Who can see my stuff.gif)
 
 
 
 ¿Quién puede ponerse en contacto conmigo?
 
-![](/assets/Facebook - Who can contact me.gif)
+![](es/assets/Facebook - Who can contact me.gif)
 
 
 
 ¿Cómo evito que me moleste?
 
-![](/assets/Facebook - Blocking.gif)
+![](es/assets/Facebook - Blocking.gif)
 
 
 
@@ -27,7 +27,7 @@
 
 Seguridad y Privacidad
 
-![](/assets/Twitter - Security  and privacy.gif)
+![](es/assets/Twitter - Security  and privacy.gif)
 
 
 
@@ -118,9 +118,9 @@ Los mensajes de [WhatsApp](http://whatsapp.com) son cifrados (es decir, el conte
 
 [Consejos de Seguridad que Todo Usuario de Signal Debería Conocer](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/)
 
-Consejo Adicional
-o IMPORTANTE: Realiza esta Prueba de Privacidad de [Smart Privacy](http://smartprivacy.tumblr.com/privacynow)
-o  Crea una [Alerta de Google](https://www.google.com/alerts) para tu nombre
+Consejo Adicional IMPORTANTE: 
+* Realiza esta Prueba de Privacidad de [Smart Privacy](http://smartprivacy.tumblr.com/privacynow)
+*  Crea una [Alerta de Google](https://www.google.com/alerts) para tu nombre
 ---
 
 ![](/es/assets/chayn icon.jpg)
