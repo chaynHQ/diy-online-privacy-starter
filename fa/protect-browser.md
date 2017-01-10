@@ -57,10 +57,10 @@ InPrivate یا به طور خصوصی
 
 **را فعال نمایید**
 
-* [Brave](https://www.google.com/url?q=https://www.brave.com/&sa=D&ust=1478912695288000&usg=AFQjCNHcP0LoTEgX_vj7R2VZhiv1Od5DFA) is a browser which automatically blocks ads and trackers
-* [Tor](https://www.google.com/url?q=https://www.torproject.org/&sa=D&ust=1478912695289000&usg=AFQjCNFTU4bafRY0iquqiWeBY44IdHZjXg) is a browsing software that enables you to surf the web anonymously
-* [DuckDuckGo](https://www.google.com/url?q=https://duckduckgo.com/about&sa=D&ust=1478912695290000&usg=AFQjCNGHa5VDsmoCL7bSmOJ4IO7eIcL20Q) is a private search engine that does not track its users
-* [StartPage](https://www.google.com/url?q=https://www.startpage.com/&sa=D&ust=1478912695290000&usg=AFQjCNHtxnn0W59I1UyXzGCRbAux5_YvlQ) is a private search engine that does not record your IP address or
+* [Brave](https://www.brave.com/) is a browser which automatically blocks ads and trackers
+* [Tor](https://www.torproject.org) is a browsing software that enables you to surf the web anonymously
+* [DuckDuckGo](https://duckduckgo.com/about) is a private search engine that does not track its users
+* [StartPage](https://www.startpage.com/) is a private search engine that does not record your IP address or
 * track your searches
 
 **Incognito Mode**
