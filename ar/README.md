@@ -1,4 +1,4 @@
-![](/ar/assets/Fox Cat Thing v small.png)
+![](assets/arabiccover.png)
 "مهما فعلت، كان يستطيع دومًا إيجادي. الآن أعرف كيف فعل ذلك.."
 
 "واو. إنه أمرٌ مثير للدهشة حقًا"
