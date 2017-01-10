@@ -1,6 +1,6 @@
 # خطرات:
 
-
+![](assets/Not the best looking cat copy.png)
 
 
 ### 1. خطرات امنیتی تان را شناسایی کنید
