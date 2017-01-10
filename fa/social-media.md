@@ -66,6 +66,11 @@ _**چگونه موبایل اندروید خود را امن بسازیم؟**_
 
 [Signal by Open Whisper Systems](https://whispersystems.org/) یک اپلبکشن رایگان و منبع باز رمزگزاری شده که با پشتبانی مکالمه صوتی و پیام رسانی فوری برای سیستم عامل اندروید، آی او اس و دسکتاپ می باشد. بعد از هر پیامی پیام تان رمگزاری می شود تا همۀ ماکملۀ تان را برای کاربران سیگنال محفوظ نگه دارد. سیگنال برای فرستادن و دریافت پیام های فوری، پیام های گروهی، ضمیمه و پیام های تصویری و ویدیویی رمزگزاری شده استفاده می شود.
 
+End-to-end encryption: https://en.wikipedia.org/wiki/End-to-end_encryption
+
+[Security Tips Every Signal User Should Know](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/)
+
+
 
 [مزایای امنیتی که هر کاربر سیگنال باید بفهمد.](https://www.google.com/url?q=https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/&sa=D&ust=1478912695344000&usg=AFQjCNEg5QaQwxEpg5CJqH049_FqKIAnYA)
 
