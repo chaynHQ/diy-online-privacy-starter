@@ -12,18 +12,18 @@
 
 ### Who Can See My Stuff?
 
-![](ps/assets/Facebook - Who can see my stuff.gif)
+![](assets/Facebook - Who can see my stuff.gif)
 
 
 ### Who Can Contact Me?
 
-![](ps/assets/Facebook - Who can contact me.gif)
+![](assets/Facebook - Who can contact me.gif)
 
 
 
 ### How Do I Stop Someone From Bothering Me?
 
-![](ps/assets/Facebook - Blocking.gif)
+![](assets/Facebook - Blocking.gif)
 
 
 
@@ -32,7 +32,7 @@
 
 ### Security and Privacy
 
-![](/assets/Twitter - Security  and privacy.gif)
+![](assets/Twitter - Security  and privacy.gif)
 
 
 
