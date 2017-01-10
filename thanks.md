@@ -1,6 +1,6 @@
 # Thank paws!
 
-![](/assets/Fox Cat Thing v small.png)
+![](assets/Fox Cat Thing v small.png)
 
 This guide is a project by [CHAYN](http://chayn.co), an open-source project that uses technology to empower women against violence and oppression so they can live happier and healthier lives.
 
@@ -26,6 +26,6 @@ We would like to thank our amazing partners and allies who have helped us by giv
 
 http://chayn.co | @ChaynHQ | team@chayn.co
 
-![](/assets/chayn icon.png)
+![](assets/chayn icon.png)
 
 
