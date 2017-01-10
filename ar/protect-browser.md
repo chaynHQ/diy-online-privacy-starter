@@ -74,7 +74,7 @@
 ## استخدمي الشبكة الظاهريّة الخاصة (VPN)
 
 * الشبكة الظاهرية الخاصّة (VPN) هي أداة تقوم بإخفاء معرّفك الرقمي (IP) وتشفير كل ما البيانات المتدفقة  الخاصة بك على الإنترنت بحيث لا يستطيع أي شخص آخر الاطّلاع على ما تقوم بتصفحه على الانترنت..
-*  مجاني: VPN:[ ](https://www.google.com/url?q=http://www.okfreedom.com/en/&sa=D&ust=1478912695304000&usg=AFQjCNGTHAcA5RqmcjfgyakGp1Wt5XGhNA)[OkayFreedom](https://www.google.com/url?q=http://www.okfreedom.com/en/&sa=D&ust=1478912695305000&usg=AFQjCNHwAvtAkzBMGhGwtHGKXJEd_rKcIQ) \(please note: the free version of OkayFreedom is[ ](https://www.google.com/url?q=http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695305000&usg=AFQjCNG_DMB0geaqYVeqA-Ca7xOINTILDg)[ad-supported](https://www.google.com/url?q=http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695306000&usg=AFQjCNFH5V7q52lXaSCMXNUwJjmmgpMlUg)\)[ ](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695306000&usg=AFQjCNEyY-gQmWBLzqccWxARiBA9jG64bw)[TunnelBear](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695307000&usg=AFQjCNGWiE0W7csNUb1vS41tel8kix42Tg)
+*  مجاني: VPN:[ ](http://www.okfreedom.com/en/)[OkayFreedom](http://www.okfreedom.com/) \ TunnelBear: https://www.tunnelbear.com
 
 ## **Tor**
 
