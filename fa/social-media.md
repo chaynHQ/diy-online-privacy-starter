@@ -71,10 +71,7 @@ _**چگونه موبایل اندروید خود را امن بسازیم؟**_
 
 # توصیه های بیشتر
 
-o [مهم: امتحان حریم خصوصی را با Smart Privacy بدهید](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695346000&usg=AFQjCNHk6DA9iA5VUGtBxjVsKzxOjBU7sQ)[Privacy Test by Smart Privacy](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695347000&usg=AFQjCNGjAN8OCYH3WXnd3DP_haNY--ZHog)
+* [مهم: امتحان حریم خصوصی را با Smart Privacy بدهید](http://smartprivacy.tumblr.com/privacynow)
 
-o  [برای اسم تان Google Alert بسازید.](https://www.google.com/url?q=https://www.google.com/alerts&sa=D&ust=1478912695348000&usg=AFQjCNH-T5bZUuRKQwCWL8x6g3JbYp3IkQ) for your name
 
----
-![](/fa/assets/chayn icon.jpg)
-
+*  برای اسم تان Google Alert بسازید. https://www.google.com/alerts
