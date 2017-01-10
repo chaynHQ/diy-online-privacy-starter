@@ -35,11 +35,12 @@
 
 ### Disable Location
 
-| How to secure your Android phone | How to secure your iPhone: |
-| --- | --- |
-| Switch off Wireless and GPS location \(under Location Services\) and mobile data \(this can be found under Settings &gt; Personal &gt; Location\). Note: Only turn on location settings as you need them. It is important to have these services turned off by default  as this will reduce the risk of location tracking, save battery power and reduce unwanted data streams initiated by applications running in the background or remotely by your mobile carrier. (Taken from: https://securityinabox.org/en/guide/basic-setup/android)
+**How to secure your Android phone** Switch off Wireless and GPS location \(under Location Services\) and mobile data \(this can be found under Settings &gt; Personal &gt; Location\). Note: Only turn on location settings as you need them. It is important to have these services turned off by default  as this will reduce the risk of location tracking, save battery power and reduce unwanted data streams initiated by applications running in the background or remotely by your mobile carrier. (Taken from: https://securityinabox.org/en/guide/basic-setup/android)
 See [Turn Off Location Services through Settings](http://www.wikihow.com/Turn-Off-Location-Services-on-an-Android)
- | Switch off Wireless and GPS location: Settings > Privacy > Location Services and either turn off all Location Services using the Location Services slider or use the individual sliders for each location-aware app or item on your device. To disable Location Services for all websites, turn off Location Services for the Safari app.
+
+**How to secure your iPhone:
+**
+Switch off Wireless and GPS location: Settings > Privacy > Location Services and either turn off all Location Services using the Location Services slider or use the individual sliders for each location-aware app or item on your device. To disable Location Services for all websites, turn off Location Services for the Safari app.
 See [How to Turn Off Location Services on iOS](http://www.tomsguide.com/us/turn-off-location-services-iphone,news-21276.html)|
 
 
