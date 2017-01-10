@@ -52,16 +52,16 @@ See [How to Turn Off Location Services on iOS](http://www.tomsguide.com/us/turn-
 
 ### Signal
 
-[Signal by Open Whisper Systems](https://whispersystems.org/) is a[ ](https://en.wikipedia.org/wiki/Free_and_open-source_software)[free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software&sa=D&ust=1478912695338000&usg=AFQjCNGeZrTk5SpXLtIP8rdwBYKi_EW8ew) encrypted[ voice calling](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Voice_calling&sa=D&ust=1478912695338000&usg=AFQjCNFZgBi7LgOXwClT5w2T3FO0BwXSnQ) and[ instant messaging](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Instant_messaging&sa=D&ust=1478912695339000&usg=AFQjCNHoXsDoewpWnUaxuu0-5F4Aos1H6w) application for Android,[ iOS](https://www.google.com/url?q=https://en.wikipedia.org/wiki/IOS&sa=D&ust=1478912695341000&usg=AFQjCNFFvfrP8d8Z0KOTVQaTMaC7utDpQg) and[ ](https://www.google.com/url?q=https://whispersystems.org/blog/signal-desktop/&sa=D&ust=1478912695341000&usg=AFQjCNH6hD7tXUzlEaQyyQ-CEIIAeu2W2A)[Desktop](https://www.google.com/url?q=https://whispersystems.org/blog/signal-desktop/&sa=D&ust=1478912695342000&usg=AFQjCNHBfEjTHJdIxswAu0yJgUVWeXzROQ). It uses[ ](https://www.google.com/url?q=https://en.wikipedia.org/wiki/End-to-end_encryption&sa=D&ust=1478912695342000&usg=AFQjCNEi5C1kJb__nmiFkCk47K4Umd7rGg)[end-to-end encryption](https://www.google.com/url?q=https://en.wikipedia.org/wiki/End-to-end_encryption&sa=D&ust=1478912695343000&usg=AFQjCNG4Vo3pcqNhwCfVoafL0sdtzb7QHg) to secure all communications to other Signal users. Signal can be used to send and receive encrypted instant messages, group messages, attachments and media messages.
+[Signal by Open Whisper Systems](https://whispersystems.org/) is a[ ](https://en.wikipedia.org/wiki/Free_and_open-source_software)[free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software) encrypted[ voice calling](
+https://en.wikipedia.org/wiki/Voice_callingQjCNFZgBi7LgOXwClT5w2T3FO0BwXSnQ) and  instant messaging application for Android,iOS and[desktop](https://whispersystems.org/blog/signal-desktop). It uses [end-to-end encryption](https://en.wikipedia.org/wiki/End-to-end_encryption) to secure all communications to other Signal users. Signal can be used to send and receive encrypted instant messages, group messages, attachments and media messages.
 
-[Security Tips Every Signal User Should Know](https://www.google.com/url?q=https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/&sa=D&ust=1478912695344000&usg=AFQjCNEg5QaQwxEpg5CJqH049_FqKIAnYA)
+[Security Tips Every Signal User Should Know](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/)
 
 # Additional Advice
 
-o IMPORTANT: Take the[ ](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695346000&usg=AFQjCNHk6DA9iA5VUGtBxjVsKzxOjBU7sQ)[Privacy Test by Smart Privacy](http://smartprivacy.tumblr.com/privacynow)
+* IMPORTANT: Take the [Privacy Test by Smart Privacy](http://smartprivacy.tumblr.com/privacynow)
 
-o Create a [Google Alert](https://www.google.com/alert) for your name
+* Create a [Google Alert](https://www.google.com/alert) for your name
 
 ---
-![](assets/chayn icon.png)
 
