@@ -19,7 +19,7 @@ Easy steps to fight the most common vulnerability
 
 ### 2. Use a password manager
 
-Password Management software stores encrypted versions of your passwords so you can use a unique, secure password for every service without having to remember every password. There are plenty of[ free Password Managers](http://thehackernews.com/2016/07/best-password-manager.html) to select from, for example,[ KeePass](http://keepass.info/) \(see[ how to setup and use it](https://youtu.be/KQuDrKSZkck),[LastPass]and [Padlock](https://padlock.io/).
+Password Management software stores encrypted versions of your passwords so you can use a unique, secure password for every service without having to remember every password. There are plenty of[ free Password Managers](http://thehackernews.com/2016/07/best-password-manager.html) to select from, for example,[ KeePass](http://keepass.info/) \(see[ how to setup and use it](https://youtu.be/KQuDrKSZkck), [LastPass](https://www.lastpass.com/) and [Padlock](https://padlock.io/).
 
 ### 3. How should you change your password?
 
