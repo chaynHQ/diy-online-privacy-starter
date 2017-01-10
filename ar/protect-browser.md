@@ -31,17 +31,13 @@
 ![](assets/do-not-track-safari.jpg)
 
 
-**Explorer** &gt; Tools \(Alt + X\) &gt; Safety &gt; Turn on tracking protection &gt; Enable
-
-
-![](assets/explorer do not track.gif)
 
 
 **Alternative Browsers and Search Engines**
 
 
 
-متصفّحات ومحركات بحث بديلة
+### متصفّحات ومحركات بحث بديلة
 * [Brave](https://www.brave.com/) عبارة عن متصفّح يقوم تلقائيًا بحظر أي إعلانات أو محاولات اختراق.
 * [Tor](https://www.torproject.org/) تطبيق تصفّح يتيح لك تصفّح الإنترنت بسريّة - من غير الكشف عن هويتك الشخصية.
 * [DuckDuckGo](https://duckduckgo.com/about) محرّك بحث سرّي لا يقوم بتتبّع مستخدميه.
@@ -55,13 +51,13 @@
 * اختاري تخصيص أو تحكم كروم > نافذة تخفّي جديدة.
 * أو قومي بالضغط على: Ctrl + Shift + N.
 
-**New Private Window \(Firefox\)**
+**New Private Window - Firefox**
 ## نافذة سريّة جديدة (فايرفوكس Firefox)
 * نافذة سريّة جديدة تقوم بفتح نافذة تصفح سريّة في فايرفوكس.
 * اختاري القائمة > نافذة سريّة جديدة.
 * أو قومي بالضغط على: Ctrl + Shift + P.
 
-**New Private Window \(Safari\)**
+**New Private Window - Safari**
 ## نافذة سريّة جديدة (سفاري Safari)
 
 * نافذة سريّة جديدة تقوم بمنع سفاري من تتبّع أي صفحات تقوم بالاطّلاع عليها.
@@ -92,16 +88,16 @@ Download it[ here](https://www.torproject.org/projects/torbrowser.html).
 ## إضافات المتصفّح
 
 إضافات المتصفّح (البرامج المساعدة/ الملحقات) هي عبارة عن برامج تقوم بتوسيع أو تخصيص عمل المتصفح. يمكن استخدام هذه الإضافات لحماية خصوصيّتك عن طريق حظر كل طرف ثالث (بين المستخدم وموفّر الخدمة) من تتبّع نشاطك الإلكتروني. تحذير: ثمة إضافات يمكن أن تكون إضافات خبيثة وغير آمنة (أمثلة).
-([examples](https://www.google.com/url?q=http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/&sa=D&ust=1478912695311000&usg=AFQjCNFb-tTnXWk7R_a3k-2yK0NOUcTuBg)\).
+[Examples](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/).
 
 ### Recommended extensions:
 ## إضافات يُنصح بها:
 
-* [HTTPS Everywhere](https://www.google.com/url?q=https://www.eff.org/https-everywhere&sa=D&ust=1478912695312000&usg=AFQjCNEBvYCAfkFF8TJ1eRyHbiH69J2OFw) \(Hypertext Transfer Protocol with Secure Sockets Layer\)
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere) \(Hypertext Transfer Protocol with Secure Sockets Layer\)
 (بروتوكول نقل النصوص التشعبيّة مع طبقة المنافذ الآمنة) - يؤمّن ويشفّر تدفق المعلومات التي تقومين بتصفّحها.
 
-* [Privacy Badger](https://www.google.com/url?q=https://www.eff.org/privacybadger&sa=D&ust=1478912695313000&usg=AFQjCNHNcMDqQbrzK_GX-cQYVUy8pTlayw)  يقوم بحظر تتبّع ملفات تعريف الارتباط.  [cookies](https://www.google.com/url?q=https://en.wikipedia.org/wiki/HTTP_cookie&sa=D&ust=1478912695313000&usg=AFQjCNH4OGzxCGUGlINzUNYhUFSYSylzLA)
-* [uBlock Origin](https://www.google.com/url?q=https://www.ublock.org/&sa=D&ust=1478912695314000&usg=AFQjCNGJa0xJXHwX03kI2KCd3aZ1nc58KA)  عبارة عن حاجب  إعلانات.
+* [Privacy Badger](https://www.eff.org/privacybadger)  يقوم بحظر تتبّع ملفات تعريف الارتباط.  [cookies](https://en.wikipedia.org/wiki/HTTP_cookie)
+* [uBlock Origin](https://www.ublock.org/)  عبارة عن حاجب  إعلانات.
 
 # Erasing your browsing history
 ## حذف تاريخ التصفّح.
@@ -111,9 +107,8 @@ Download it[ here](https://www.torproject.org/projects/torbrowser.html).
 * فايرفوكس Firefox > خيارات > الخصوصيّة >  سجل المحفوظات.
 * منظفّات حواسب آليّة  يُنصح بها:
 
-* [CCleaner](http://www.piriform.com/ccleaner&sa=D&ust=1478912695317000&usg=AFQjCNHmtswm2AwMsRtywjxd7unIPKSXSg)
+* [CCleaner](http://www.piriform.com/ccleaner)
 
 * [BleachBit](http://www.bleachbit.org/)
 
 ---
-![](assets/chayn icon.png)
