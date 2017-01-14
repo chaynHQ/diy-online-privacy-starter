@@ -1,6 +1,8 @@
 # ¿Cómo te pueden estar siguiendo el rastro?
 ## Seguimiento de tus hábitos en línea
 
+![](assets/Not the best looking cat copy.png)
+
 Mientras navegas la web, una tecnología sofisticada está recopilando datos sobre ti a través de proveedores de correo electrónico, aplicaciones de teléfonos móviles (apps), motores de búsqueda,  navegadores y  mensajería (chats) de redes sociales. En las manos de tu agresor, esta información podría poner en peligro tu privacidad personal, el control sobre tu identidad en línea y tu acceso a información gratuita. 
 
 La información que  puede ser recopilada, puede ser información que tú misma das cuando te registras o creas una cuenta de correo electrónico, por ejemplo tu dirección física,  tu correo electrónico, tus intereses personales y otros detalles, así como información que otorgas sin darte cuenta (por ejemplo, datos de tu teléfono inteligente como la señal de internet [wi-fi] o la ubicación GPS de los sitios que visitaste o páginas web que visitaste en tu navegador). 

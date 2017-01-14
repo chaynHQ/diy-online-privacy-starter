@@ -1,6 +1,6 @@
 # Cómo proteger tu navegador
 
-![](/assets/HypuuurLynx.gif)
+![](assets/HypuuurLynx.gif)
 
 ### Chrome. Safari. Firefox. Explorer.
 
@@ -13,25 +13,25 @@ Primero, prueba qué tan seguro es tu actual navegador con [Panopticlick](https:
 
 **Chrome** > Configuración > Mostrar Configuración Avanzada > > Privacidad > Enviar solicitud de “No Seguimiento” con tu tráfico de navegación
 
-![](/assets/chrome - do not track.gif)
+![](assets/chrome - do not track.gif)
 
 
 
 **Firefox** > Opciones > Privacidad> Administrar tu configuración de “No Seguimiento”
 
-![](/assets/Firefox - do not track.gif)
+![](assets/Firefox - do not track.gif)
 
 
 **Safari** > Menú > Preferencias > Privacidad > Seguimiento de sitios web > Pedir a los sitios web no seguirme
 
 
-![](/assets/do-not-track-safari.jpg)
+![](assets/do-not-track-safari.jpg)
 
 
 **Internet Explorer** > Herramientas (Alt + X) > Seguridad >Activar la protección de rastreo > Habilitar
 
 
-![](/assets/explorer do not track.gif)
+![](assets/explorer do not track.gif)
 
 
 **Navegadores y Motores de Búsqueda Alternativos**
@@ -78,13 +78,13 @@ Primero, prueba qué tan seguro es tu actual navegador con [Panopticlick](https:
 ## **Tor**
 
 El navegador Tor está diseñado para ayudarte a mantenerte anónimo y es una simple pero efectiva manera de navegar en internet sin revelar tu identidad a nadie
-Descárgalo [ here](https://www.google.com/url?q=https://www.torproject.org/projects/torbrowser.html.en.&sa=D&ust=1478912695309000&usg=AFQjCNHi66hbopa6PKcH0qPppM-pcYeBiw).
+Descárgalo [ here](https://www.torproject.org/projects/torbrowser.html).
 
-![](/assets/Surfing the internet with TOR.gif)
+![](assets/Surfing the internet with TOR.gif)
 
  ## Extensiones para Navegadores
 
-Las extensiones de los navegadores (complementos/programas adicionales), son  programas que extienden o personalizan un navegador de internet. Las extensiones pueden ser utilizadas para proteger tu privacidad al bloquear a terceros  para que no hagan seguimiento de tu actividad en línea. ADVERTENCIA: las extensiones también pueden ser maliciosas \([ejemplos](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/)\).
+Las extensiones de los navegadores (complementos/programas adicionales), son  programas que extienden o personalizan un navegador de internet. Las extensiones pueden ser utilizadas para proteger tu privacidad al bloquear a terceros  para que no hagan seguimiento de tu actividad en línea. ADVERTENCIA: las extensiones también pueden ser maliciosas \[ejemplos] (http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims).
 
 ### Extensiones recomendadas:
 
@@ -107,7 +107,7 @@ Las extensiones de los navegadores (complementos/programas adicionales), son  pr
 
 ---
 
-![](/es/assets/chayn icon.jpg)
+![](assets/chayn icon.jpg)
 
 
 
