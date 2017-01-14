@@ -82,5 +82,4 @@ o **Важно**:  Пройдите Тест на Конфиденциально
 o Создайте a [Google Alert](https://www.google.com/url?q=https://www.google.com/alerts&sa=D&ust=1478912695348000&usg=AFQjCNH-T5bZUuRKQwCWL8x6g3JbYp3IkQ) на Ваше имя
 
 ---
-![](assets/chayn icon.png)
 
