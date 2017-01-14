@@ -1,6 +1,6 @@
 # Summary
 
-* [Hello.](README.md)
+* [Привет.](README.md)
 * [Как Вас отслеживают?](track.md)
 * [Риски](en/risks.md)
 * [Как установить убийственный пароль](passwords.md)
