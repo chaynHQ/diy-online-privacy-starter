@@ -5,7 +5,7 @@
 
 ### Chrome. Safari. Firefox. Explorer.
 
-Во-первых, проверьте насколько надежен Ваш текущий браузер,использу [Panopticlick](https://www.google.com/url?q=https://panopticlick.eff.org/&sa=D&ust=1478912695267000&usg=AFQjCNHRZ5gOso_CZP0hpiN1JhborhnUyA)
+Во-первых, проверьте насколько надежен Ваш текущий браузер,использу [Panopticlick](https://panopticlick.eff.org)
 
 Настройки Личных Данных - Не Отслеживать и Приватные Окна
 
@@ -44,7 +44,7 @@
 * [Brave](https://www.google.com/url?q=https://www.brave.com/&sa=D&ust=1478912695288000&usg=AFQjCNHcP0LoTEgX_vj7R2VZhiv1Od5DFA)- это браузер, который автоматически блокирует рекламу и отслеживающих
 * [Tor](https://www.google.com/url?q=https://www.torproject.org/&sa=D&ust=1478912695289000&usg=AFQjCNFTU4bafRY0iquqiWeBY44IdHZjXg) - это программное обеспечение-браузер, которое позволяет бороздить Интернет анонимно
 * [DuckDuckGo](https://www.google.com/url?q=https://duckduckgo.com/about&sa=D&ust=1478912695290000&usg=AFQjCNGHa5VDsmoCL7bSmOJ4IO7eIcL20Q) - это частная поисковая система, которая не отслеживает своих пользователей
-* [StartPage](https://www.google.com/url?q=https://www.startpage.com/&sa=D&ust=1478912695290000&usg=AFQjCNHtxnn0W59I1UyXzGCRbAux5_YvlQ) - это частная поисковая система, которая не записывает Ваш IP  адрес или не отслеживает Ваши запросы
+* [StartPage](https://www.startpage.com/) - это частная поисковая система, которая не записывает Ваш IP  адрес или не отслеживает Ваши запросы
 * track your searches
 
 **Incognito Mode Режим Инкогнито**
@@ -76,7 +76,7 @@
 ### **Используйте VPN**
 
 * VPN или Виртуальная Частная Сеть, это способ скрытия Вашего IP и шифрования всего Вашего интернет трафика, что никто не сможет узнать что Вы просматриваете онлайн.
-* Бесплатный VPN:[ ](http://www.okfreedom.com/en/&sa=D&ust=1478912695304000&usg=AFQjCNGTHAcA5RqmcjfgyakGp1Wt5XGhNA)[OkayFreedom](http://www.okfreedom.com/en/&sa=D&ust=1478912695305000&usg=AFQjCNHwAvtAkzBMGhGwtHGKXJEd_rKcIQ) \((пожалуйста обратите внимание: бесплатная версия OkayFreedom[ ](https://www.google.com/url?q=http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695305000&usg=AFQjCNG_DMB0geaqYVeqA-Ca7xOINTILDg)[ad-supported](https://www.google.com/url?q=http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695306000&usg=AFQjCNFH5V7q52lXaSCMXNUwJjmmgpMlUg)\)[поддерживающая рекламу](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695306000&usg=AFQjCNEyY-gQmWBLzqccWxARiBA9jG64bw)[TunnelBear](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695307000&usg=AFQjCNGWiE0W7csNUb1vS41tel8kix42Tg) Вы можете найти бесплатный/условно-бесплатные VPN расширения Chrome VPN  [здесь](https://chrome.google.com/webstore/search/VPN?_category=extensions),и бесплатные/условно-бесплатные дополнения  Firefox VPN add-ons ниже меню Opjen menu > Дополнения > Получить дополнения > наберите “VPN” в поле поиска.
+* Бесплатный VPN:[ ](http://www.okfreedom.com/en/)[OkayFreedom](http://www.okfreedom.com/en/) \((пожалуйста обратите внимание: бесплатная версия OkayFreedom[ ](http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695305000&usg=AFQjCNG_DMB0geaqYVeqA-Ca7xOINTILDg)[ad-supported](https://www.google.com/url?q=http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695306000&usg=AFQjCNFH5V7q52lXaSCMXNUwJjmmgpMlUg)\)[поддерживающая рекламу](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695306000&usg=AFQjCNEyY-gQmWBLzqccWxARiBA9jG64bw)[TunnelBear](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695307000&usg=AFQjCNGWiE0W7csNUb1vS41tel8kix42Tg) Вы можете найти бесплатный/условно-бесплатные VPN расширения Chrome VPN  [здесь](https://chrome.google.com/webstore/search/VPN?_category=extensions),и бесплатные/условно-бесплатные дополнения  Firefox VPN add-ons ниже меню Opjen menu > Дополнения > Получить дополнения > наберите “VPN” в поле поиска.
 
 ## **Tor**
 
@@ -94,8 +94,8 @@
 
 * [HTTPS Everywhere](https://www.google.com/url?q=https://www.eff.org/https-everywhere&sa=D&ust=1478912695312000&usg=AFQjCNEBvYCAfkFF8TJ1eRyHbiH69J2OFw) \( Протокол Hypertext Transfer с Уровнем Защищённых Сокетов)\)
 * Защищает и шифрует Ваш интернет трафик
-* [Privacy Badger](https://www.google.com/url?q=https://www.eff.org/privacybadger&sa=D&ust=1478912695313000&usg=AFQjCNHNcMDqQbrzK_GX-cQYVUy8pTlayw) блокирует отслеживающие [куки](https://www.google.com/url?q=https://en.wikipedia.org/wiki/HTTP_cookie&sa=D&ust=1478912695313000&usg=AFQjCNH4OGzxCGUGlINzUNYhUFSYSylzLA)
-* [uBlock Origin](https://www.google.com/url?q=https://www.ublock.org/&sa=D&ust=1478912695314000&usg=AFQjCNGJa0xJXHwX03kI2KCd3aZ1nc58KA) это блокиратор  рекламы
+* [Privacy Badger](https://www.eff.org/privacybadger) блокирует отслеживающие [куки](https://en.wikipedia.org/wiki/HTTP_cookie)
+* [uBlock Origin](https://www.ublock.org) это блокиратор  рекламы
 
 # Удаление истории просмотров
 
@@ -103,12 +103,12 @@
 * Firefox > Настройки> Приватность> История
 * Рекомендуемые ПК Утилиты:
 
-* [CCleaner](https://www.google.com/url?q=http://www.piriform.com/ccleaner&sa=D&ust=1478912695317000&usg=AFQjCNHmtswm2AwMsRtywjxd7unIPKSXSg)
+* [CCleaner](http://www.piriform.com/ccleaner)
 
-* [BleachBit](https://www.google.com/url?q=http://www.bleachbit.org/&sa=D&ust=1478912695318000&usg=AFQjCNEjz3m2EuO6O2lPl4Vo_KAe6CHsjQ)
+* [BleachBit](http://www.bleachbit.org/)
 
 ---
-![](/assets/chayn icon.png)
+![](assets/chayn icon.png)
 
 
 
