@@ -2,12 +2,12 @@
 
 Легкие шаги по искоренению самых распространенных аспектов уязвимости
 
-![](/assets/Pawsword.gif)
+![](assets/Pawsword.gif)
 
 ### 1. Защита пароля
 
 
-o [Посетите Как Защищен Мой Пароль для проверки силы Ваших паролей ](https://www.google.com/url?q=https://howsecureismypassword.net/&sa=D&ust=1478912695253000&usg=AFQjCNG6h_l21RRRJ87_PpD9xd97iskszQ)
+o [Посетите Как Защищен Мой Пароль для проверки силы Ваших паролей ](https://howsecureismypassword.net/)
 
 o HeНикогда не используйте пароли несколько раз
 
@@ -37,4 +37,3 @@ o Используйте строчные и заглавные буквы, ци
 
 ---
 
-![](/assets/chayn icon.png)

@@ -1,7 +1,7 @@
 # Как защитить Ваш браузер?
 
 
-![](/assets/HypuuurLynx.gif)
+![](assets/HypuuurLynx.gif)
 
 ### Chrome. Safari. Firefox. Explorer.
 
@@ -14,7 +14,7 @@
 **Chrome**>Настройки-Показать Дополнительные Настройки--Личные Данные-Отправлять запрет отслеживания с исходящим трафиком
 
 
-![](/assets/chrome - do not track.gif)
+![](assets/chrome - do not track.gif)
 
 
 
@@ -22,13 +22,13 @@
 
 
 
-![](/assets/Firefox - do not track.gif)
+![](assets/Firefox - do not track.gif)
 
 
 **Safari** &gt; Safari >Меню > Настройки >Конфиденциальность> Отслеживание на веб-сайтах > Попросить веб-сайты не отслеживать мои действия
 
 
-![](/assets/do-not-track-safari.jpg)
+![](assets/do-not-track-safari.jpg)
 
 
 **Explorer** &gt; Explorer > Инструменты (Alt + X) >Безопасность > Включить защиту от слежения >Включить
@@ -36,14 +36,14 @@
 
 
 
-![](/assets/explorer do not track.gif)
+![](assets/explorer do not track.gif)
 
 
 **Альтернативные браузеры и поисковые системы**
 
-* [Brave](https://www.google.com/url?q=https://www.brave.com/&sa=D&ust=1478912695288000&usg=AFQjCNHcP0LoTEgX_vj7R2VZhiv1Od5DFA)- это браузер, который автоматически блокирует рекламу и отслеживающих
-* [Tor](https://www.google.com/url?q=https://www.torproject.org/&sa=D&ust=1478912695289000&usg=AFQjCNFTU4bafRY0iquqiWeBY44IdHZjXg) - это программное обеспечение-браузер, которое позволяет бороздить Интернет анонимно
-* [DuckDuckGo](https://www.google.com/url?q=https://duckduckgo.com/about&sa=D&ust=1478912695290000&usg=AFQjCNGHa5VDsmoCL7bSmOJ4IO7eIcL20Q) - это частная поисковая система, которая не отслеживает своих пользователей
+* [Brave](https://www.brave.com)- это браузер, который автоматически блокирует рекламу и отслеживающих
+* [Tor](https://www.torproject.org/) - это программное обеспечение-браузер, которое позволяет бороздить Интернет анонимно
+* [DuckDuckGo](https://duckduckgo.com/about) - это частная поисковая система, которая не отслеживает своих пользователей
 * [StartPage](https://www.startpage.com/) - это частная поисковая система, которая не записывает Ваш IP  адрес или не отслеживает Ваши запросы
 * track your searches
 
@@ -76,19 +76,19 @@
 ### **Используйте VPN**
 
 * VPN или Виртуальная Частная Сеть, это способ скрытия Вашего IP и шифрования всего Вашего интернет трафика, что никто не сможет узнать что Вы просматриваете онлайн.
-* Бесплатный VPN:[ ](http://www.okfreedom.com/en/)[OkayFreedom](http://www.okfreedom.com/en/) \((пожалуйста обратите внимание: бесплатная версия OkayFreedom[ ](http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695305000&usg=AFQjCNG_DMB0geaqYVeqA-Ca7xOINTILDg)[ad-supported](https://www.google.com/url?q=http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695306000&usg=AFQjCNFH5V7q52lXaSCMXNUwJjmmgpMlUg)\)[поддерживающая рекламу](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695306000&usg=AFQjCNEyY-gQmWBLzqccWxARiBA9jG64bw)[TunnelBear](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695307000&usg=AFQjCNGWiE0W7csNUb1vS41tel8kix42Tg) Вы можете найти бесплатный/условно-бесплатные VPN расширения Chrome VPN  [здесь](https://chrome.google.com/webstore/search/VPN?_category=extensions),и бесплатные/условно-бесплатные дополнения  Firefox VPN add-ons ниже меню Opjen menu > Дополнения > Получить дополнения > наберите “VPN” в поле поиска.
+* Бесплатный VPN:[ ](http://www.okfreedom.com/en/)[OkayFreedom](http://www.okfreedom.com/en/) \((пожалуйста обратите внимание: бесплатная версия OkayFreedom[ ](http://www.okfreedom.com/en/)[ad-supported](https://www.google.com/url?q=http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695306000&usg=AFQjCNFH5V7q52lXaSCMXNUwJjmmgpMlUg)\)[поддерживающая рекламу](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695306000&usg=AFQjCNEyY-gQmWBLzqccWxARiBA9jG64bw)[TunnelBear](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695307000&usg=AFQjCNGWiE0W7csNUb1vS41tel8kix42Tg) Вы можете найти бесплатный/условно-бесплатные VPN расширения Chrome VPN  [здесь](https://chrome.google.com/webstore/search/VPN?_category=extensions),и бесплатные/условно-бесплатные дополнения  Firefox VPN add-ons ниже меню Opjen menu > Дополнения > Получить дополнения > наберите “VPN” в поле поиска.
 
 ## **Tor**
 
 Браузер Tor Browser, созданный чтобы помочь Вам сохранять анонимность, это простой но в то же время эффективный способ  веб-сёрфинга без раскрытия Вашей личности кому-либо. 
 
-Загрузить можно[ here](https://www.google.com/url?q=https://www.torproject.org/projects/torbrowser.html.en.&sa=D&ust=1478912695309000&usg=AFQjCNHi66hbopa6PKcH0qPppM-pcYeBiw).
+Загрузить можно[ here](https://www.torproject.org/projects/torbrowser.html).
 
 ![](/assets/Surfing the internet with TOR.gif)
 
  ## Расширения браузера
 
-Расширения браузера (Дополнения/плагины), это программы, которые расширяют или оборудуют браузер  по индивидуальным параметрам.  Расширения могут быть использованы для защиты Вашей приватности путем блокирования отслеживаний Вашей онлайн активности  третьими сторонами.   ПРЕДУПРЕЖДЕНИЕ: Расширения также могут быть злоумышленными\([examples](https://www.google.com/url?q=http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/&sa=D&ust=1478912695311000&usg=AFQjCNFb-tTnXWk7R_a3k-2yK0NOUcTuBg)\).
+Расширения браузера (Дополнения/плагины), это программы, которые расширяют или оборудуют браузер  по индивидуальным параметрам.  Расширения могут быть использованы для защиты Вашей приватности путем блокирования отслеживаний Вашей онлайн активности  третьими сторонами.   ПРЕДУПРЕЖДЕНИЕ: Расширения также могут быть злоумышленными\([examples](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims).
 
 ### Рекомендуемые расширения:
 
