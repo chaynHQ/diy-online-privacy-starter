@@ -32,4 +32,4 @@ Utilise de préférence des messageries anonymes, et supprime tes historiques de
 Souviens-toi toujours que ton agresseur peut utiliser l’appareil de toute personne avec laquelle il est en contact, y compris potentiellement tes enfants, ou quiconque ayant déjà partagé ton domicile.  Au bout du compte, ta sécurité dépend donc aussi de tes amis et de ta famille.
 
 --
-![](/fr/assets/chayn icon.jpg)
+![](assets/chayn icon.jpg)

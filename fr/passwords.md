@@ -25,4 +25,4 @@ Il n’y a pas vraiment consensus sur la fréquence à laquelle un  mot de passe
 L’authentification à deux facteurs (2FA) rend la tâche plus difficile aux pirates informatiques. En plus de la première étape (ton mot de passe), 2FA requiert une seconde étape pour s’authentifier,  une seconde série de données sous la forme d’un code que tu reçois par email, SMS, ou généré par une appli sur ton téléphone. Tu peux voir [ici](http://twofactorauth.org/) une liste des sites permettant l’authentification 2FA. 
 
 --
-![](/fr/assets/chayn icon.jpg)
+![](assets/chayn icon.jpg)

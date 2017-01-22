@@ -44,4 +44,4 @@ Ton adresse e-mail est au centre de toutes tes activités en ligne : elle te ser
 Il est possible de configurer un téléphone portable pour qu’il enregistre tous les sons à portée de micro, sans que le propriétaire en aie conscience. De la même manière, certains téléphones peuvent être allumés et activés à distance, tout en ayant l’air éteints. 
 
 --
-![](/fr/assets/chayn icon.jpg)
+![](assets/chayn icon.jpg)

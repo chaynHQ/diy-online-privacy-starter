@@ -1,6 +1,6 @@
 # Comment prrrrrotéger (ok.. Protéger ) ton navigateur
 
-![](fr/assets/HypuuurLynx.gif)
+![](assets/HypuuurLynx.gif)
 
 ### Chrome. Safari. Firefox. Explorer.
 
@@ -12,26 +12,26 @@ Paramètres de confidentialité de ton navigateur - Interdire le suivi et Fenêt
 
 ### **Chrome** > Paramètres > Afficher les Paramètres Avancés > Confidentialité > Envoyer une demande “Interdire le suivi” pendant la navigation
 
-![](fr/assets/chrome - do not track.gif)
+![](assets/chrome - do not track.gif)
 
 
 
 ### **Firefox** > Options > Vie privée > Gérer les paramètres Ne pas me pister
 
 
-![](fr/assets/Firefox - do not track.gif)
+![](assets/Firefox - do not track.gif)
 
 
 ### **Safari** > Menu > Préférences > Confidentialité > Suivi de site web > Demander aux sites web de ne pas me suivre
 
 
-![](fr/assets/do-not-track-safari.jpg)
+![](assets/do-not-track-safari.jpg)
 
 
 ### **Explorer** > Outils (Alt + X) > Sécurité > Activer la protection contre le tracking > Activer
 
 
-![](fr/assets/explorer do not track.gif)
+![](assets/explorer do not track.gif)
 
 
 ## Autres navigateurs et moteurs de recherche
@@ -79,7 +79,7 @@ Ou appuie simultanément sur les touches : Ctrl + Maj + P
 
 Le navigateur Tor est conçu pour t’aider à conserver ton anonymat. C’est un moyen simple et efficace de naviguer sur le web sans avoir à divulguer ton identité à qui que ce soit. Télécharge-le [ici](https://www.torproject.org/projects/torbrowser.html.en).
 
-![](/assets/Surfing the internet with TOR.gif)
+![](assets/Surfing the internet with TOR.gif)
 
  ## Extensions pour navigateurs
 
@@ -97,13 +97,12 @@ Les extensions pour navigateurs (autrement appelés Add-ons, plug ins ou modules
 _* Nous recommandons les utilitaires de nettoyage suivants:
 _
 
-* [CCleaner](https://www.google.com/url?q=http://www.piriform.com/ccleaner&sa=D&ust=1478912695317000&usg=AFQjCNHmtswm2AwMsRtywjxd7unIPKSXSg)
+* [CCleaner](http://www.piriform.com/ccleaner)
 
-* [BleachBit](https://www.google.com/url?q=http://www.bleachbit.org/&sa=D&ust=1478912695318000&usg=AFQjCNEjz3m2EuO6O2lPl4Vo_KAe6CHsjQ)
+* [BleachBit](http://www.bleachbit.org/)
 
 ---
-![](fr/assets/chayn icon.png)
-
+![](assets/chayn icon.jpg)
 
 
 

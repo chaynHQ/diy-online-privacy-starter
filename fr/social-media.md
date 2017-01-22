@@ -91,5 +91,4 @@ o  IMPORTANT : Fais le [Test de confidentialité de Smart Privacy](http://smartp
 o  Met en place une  [Alerte Google](https://www.google.com/alerts) pour ton nom
 
 ---
-![](/assets/chayn icon.png)
-
+![](assets/chayn icon.jpg)
