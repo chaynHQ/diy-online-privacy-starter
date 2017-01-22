@@ -1,4 +1,4 @@
-# Le kit de la débutante - la sécurité en lign
+# Le kit de la débutante - la sécurité en ligne
 
 ![](assets/frenchcoverprivacy.png)
 
