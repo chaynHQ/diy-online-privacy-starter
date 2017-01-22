@@ -6,35 +6,6 @@
 
 ## د لټونګر (براوزر) د محرمیت تنظیمات - نه تعقیبول او د خصوصي لټون کړکۍ یا وینډوز  
 
-###  نه تعقیبول
-
-## Facebook
-
-### Who Can See My Stuff?
-
-![](assets/Facebook - Who can see my stuff.gif)
-
-
-### Who Can Contact Me?
-
-![](assets/Facebook - Who can contact me.gif)
-
-
-
-### How Do I Stop Someone From Bothering Me?
-
-![](assets/Facebook - Blocking.gif)
-
-
-
-
-## Twitter
-
-### Security and Privacy
-
-![](assets/Twitter - Security  and privacy.gif)
-
-
 
 ## نور لټونګر (براوزر) اود  لټون لارې
 Brave هغه لټونګر (براوزر) ده چې په اتومات ډول اعلانات او تعقیب کوونکي بندوي.
