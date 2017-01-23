@@ -1,7 +1,7 @@
-# Configurer un mot de passe qui dé-chat-re 
-(“déchire”, désolées..on n’a pas pu s’empêcher)
+# Configurer un mot de passe qui déchire 
 
-![](/fr/assets/Pawsword.gif)
+
+![](assets/Pawsword.gif)
 
 ### Quelques étapes simples pour remédier aux failles les plus fréquentes 
 ## Protéger son mot de passe
