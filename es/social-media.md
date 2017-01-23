@@ -123,4 +123,4 @@ Consejo Adicional IMPORTANTE:
 *  Crea una [Alerta de Google](https://www.google.com/alerts) para tu nombre
 ---
 
-![](/es/assets/chayn icon.jpg)
+![](assets/chayn icon.jpg)
