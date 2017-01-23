@@ -25,4 +25,4 @@ Ten en cuenta que tu acosador puede monitorear los dispositivos electrónicos de
 
 ---
 
-![](/es/assets/chayn icon.jpg)
+![](assets/chayn icon.jpg)
