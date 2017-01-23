@@ -17,7 +17,7 @@ Ha habido debates sobre la  frecuencia con la que deberíamos cambiar nuestras c
 
 
 ### 4. Autenticación de dos factores (2FA)
-La autenticación de dos factores(2FA) hace que sea más difícil para cualquiera,  intentar acceder ilegalmente a tus cuentas.  En vez de iniciar la sesión en tus cuentas usando un solo paso (tu contraseña), ingresas una segunda pieza de información, por ej. un código corto que es enviado en un mensaje por correo electrónico, o por mensaje de texto; o generado por una aplicación en tu teléfono móvil. Consulta qué sitios te permiten habilitar la autenticación de dos factores [aquí](http://twofactorauth.org/).
+La autenticación de dos factores (2FA) hace que sea más difícil para cualquiera,  intentar acceder ilegalmente a tus cuentas.  En vez de iniciar la sesión en tus cuentas usando un solo paso (tu contraseña), ingresas una segunda pieza de información, por ej. un código corto que es enviado en un mensaje por correo electrónico, o por mensaje de texto; o generado por una aplicación en tu teléfono móvil. Consulta qué sitios te permiten habilitar la autenticación de dos factores [aquí](http://twofactorauth.org/).
 
 ---
 
