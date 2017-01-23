@@ -7,15 +7,15 @@ Easy steps to fight the most common vulnerability
 
 * Visit [How Secure Is My Password](https://howsecureismypassword.net/) to test the strength of your passwords
 
-* Never recycle\/reuse passwords
+* Never recycle or reuse passwords
 
-* Do not use the same password across multiple sites - Create a new\/different password for every site you sign up to
+* Do not use the same password across multiple sites - Create a new or different password for every site you sign up to
 
 * Do not let your browser save your passwords
 
 * Think passphrase instead of password
 
-* Use upper\/lower case letters, numbers, symbols - See [Strong Password Generator](https://strongpasswordgenerator.com/). Password Managers usually have a built-in password generator to create complex passwords
+* Use upper or lower case letters, numbers, symbols - See [Strong Password Generator](https://strongpasswordgenerator.com/). Password Managers usually have a built-in password generator to create complex passwords
 
 ### 2. Use a password manager
 
