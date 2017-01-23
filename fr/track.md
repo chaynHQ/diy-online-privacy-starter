@@ -25,11 +25,10 @@ Si tu te rends compte que tu as révélé certaines informations dans le passé 
 * Déconnecte-toi des réseaux sociaux après chaque visite (en règle générale, ni les trackers ni tes contacts ne pourront suivre tes activités une fois déconnectée) 
 * Installe sur ton navigateur des extensions conçues pour interdire l’accès aux trackers et t’aider à garder ta vie privée, privée. Les trackers sont en général des cookies qui permettent à certains sites comme les réseaux sociaux de “pister” les pages que tu consultes en ligne, souvent à des fins commerciales.
 * Sois vigilante lorsque tu publies sur les réseaux sociaux
-Utilise de préférence des messageries anonymes, et supprime tes historiques de messagerie 
 * Utilise de préférence des messageries anonymes, et supprime tes historiques de messagerie 
 
 
-Souviens-toi toujours que ton agresseur peut utiliser l’appareil de toute personne avec laquelle il est en contact, y compris potentiellement tes enfants, ou quiconque ayant déjà partagé ton domicile.  Au bout du compte, ta sécurité dépend donc aussi de tes amis et de ta famille.
+_Souviens-toi toujours que ton agresseur peut utiliser l’appareil de toute personne avec laquelle il est en contact, y compris potentiellement tes enfants, ou quiconque ayant déjà séjourné à ton domicile.  Au bout du compte, ta sécurité dépend donc aussi de tes amis et de ta famille._
 
 --
 ![](assets/chayn icon.jpg)
