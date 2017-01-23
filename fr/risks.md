@@ -10,15 +10,20 @@ Sois tout aussi vigilante de ta sécurité en ligne que tu es vigilante de ta s�
 
 ### Pose-toi les questions suivantes:
 
-**QUI?** Qui est ton agresseur/harceleur ? Le connais-tu ? Quelle est la nature de votre relation ? A-t-il des ressources financières importantes ? De l’influence politique ou sociale ? Connaît-il bien les nouvelles technologies ? 
+**Qui?** 
 
-**OU?** L'environnement dans lequel tu vis renforce-t-il le risque ? Quelles sont les lois et les politiques en vigueur ? Quelles sont les normes culturelles en usage dans la famille ou la communauté de ton agresseur ? Et dans ta propre famille ou communauté ?
+Qui est ton agresseur/harceleur ? Le connais-tu ? Quelle est la nature de votre relation ? A-t-il des ressources financières importantes ? De l’influence politique ou sociale ? Connaît-il bien les nouvelles technologies ? 
+
+**Où?**
+
+L'environnement dans lequel tu vis renforce-t-il le risque ? Quelles sont les lois et les politiques en vigueur ? Quelles sont les normes culturelles en usage dans la famille ou la communauté de ton agresseur ? Et dans ta propre famille ou communauté ?
+
+_Si tu n’as pas réponse à ces questions, essaie d’avoir une conversation avec des personnes de confiance afin d’obtenir plus d’informations. S’il s’avère difficile de te renseigner sur les lois en vigueur concernant la sécurité et la protection de la vie privée, alors il est probable que ces lois n’existent pas ou qu’elles soient peu suivies. Dans ce cas, ton environnement renforce le risque._
 
 
-Si tu n’as pas réponse à ces questions, essaie d’avoir une conversation avec des personnes de confiance afin d’obtenir plus d’informations. S’il s’avère difficile de te renseigner sur les lois en vigueur concernant la sécurité et la protection de la vie privée, alors il est probable que ces lois n’existent pas ou qu’elles soient peu suivies. Dans ce cas, ton environnement renforce le risque.
+**Comment?**
 
-
-**COMMENT ?** Là où tu vis, les pots-de-vin sont-ils fréquents ? Ton agresseur peut-il faire usage de son influence économique ou sociale pour accéder à tes informations personnelles ? Ton agresseur a-t-il une influence sur tes proches ?
+Là où tu vis, les pots-de-vin sont-ils fréquents ? Ton agresseur peut-il faire usage de son influence économique ou sociale pour accéder à tes informations personnelles ? Ton agresseur a-t-il une influence sur tes proches ?
 
 
 
