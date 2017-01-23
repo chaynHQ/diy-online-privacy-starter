@@ -38,4 +38,4 @@ Hay muchas maneras en que alguien puede localizarte. La facilidad y la probabili
  
 ---
 
-![](/es/assets/chayn icon.jpg)
+![](assets/chayn icon.jpg)
