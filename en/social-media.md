@@ -35,12 +35,11 @@
 
 ### Disable Location
 
-**How to secure your Android phone** Switch off Wireless and GPS location \(under Location Services\) and mobile data \(this can be found under Settings &gt; Personal &gt; Location\). Note: Only turn on location settings as you need them. It is important to have these services turned off by default  as this will reduce the risk of location tracking, save battery power and reduce unwanted data streams initiated by applications running in the background or remotely by your mobile carrier. (Taken from: https://securityinabox.org/en/guide/basic-setup/android)
+**How to secure your Android phone:** Switch off Wireless and GPS location \(under Location Services\) and mobile data \(this can be found under Settings &gt; Personal &gt; Location\). Note: Only turn on location settings as you need them. It is important to have these services turned off by default  as this will reduce the risk of location tracking, save battery power and reduce unwanted data streams initiated by applications running in the background or remotely by your mobile carrier. (Taken from: https://securityinabox.org/en/guide/basic-setup/android)
+
 See [Turn Off Location Services through Settings](http://www.wikihow.com/Turn-Off-Location-Services-on-an-Android)
 
-**How to secure your iPhone:
-**
-Switch off Wireless and GPS location: Settings > Privacy > Location Services and either turn off all Location Services using the Location Services slider or use the individual sliders for each location-aware app or item on your device. To disable Location Services for all websites, turn off Location Services for the Safari app.
+**How to secure your iPhone:** Switch off Wireless and GPS location: Settings > Privacy > Location Services and either turn off all Location Services using the Location Services slider or use the individual sliders for each location-aware app or item on your device. To disable Location Services for all websites, turn off Location Services for the Safari app.
 See [How to Turn Off Location Services on iOS](http://www.tomsguide.com/us/turn-off-location-services-iphone,news-21276.html)|
 
 
@@ -52,8 +51,8 @@ See [How to Turn Off Location Services on iOS](http://www.tomsguide.com/us/turn-
 
 ### Signal
 
-[Signal by Open Whisper Systems](https://whispersystems.org/) is a[ ](https://en.wikipedia.org/wiki/Free_and_open-source_software)[free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software) encrypted[ voice calling](
-https://en.wikipedia.org/wiki/Voice_callingQjCNFZgBi7LgOXwClT5w2T3FO0BwXSnQ) and  instant messaging application for Android,iOS and[desktop](https://whispersystems.org/blog/signal-desktop). It uses [end-to-end encryption](https://en.wikipedia.org/wiki/End-to-end_encryption) to secure all communications to other Signal users. Signal can be used to send and receive encrypted instant messages, group messages, attachments and media messages.
+[Signal by Open Whisper Systems](https://whispersystems.org/) is a[ ](https://en.wikipedia.org/wiki/Free_and_open-source_software)[free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software) encrypted [ voice calling](
+https://en.wikipedia.org/wiki/Voice_calling) and instant messaging application for Android, iOS and [desktop](https://whispersystems.org/blog/signal-desktop). It uses [end-to-end encryption](https://en.wikipedia.org/wiki/End-to-end_encryption) to secure all communications to other Signal users. Signal can be used to send and receive encrypted instant messages, group messages, attachments and media messages.
 
 [Security Tips Every Signal User Should Know](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/)
 

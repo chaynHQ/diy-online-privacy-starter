@@ -70,7 +70,7 @@ Browser Privacy Settings - Do Not Track and Private Browsing Windows
 ### **Use a VPN**
 
 * A VPN, or a Virtual Private Network, is a way of disguising your IP and encrypting all of your internet traffic so that no one can find out what you’re viewing online.
-* Free VPN:[ ](http://www.okfreedom.com/en/)[OkayFreedom](http://www.okfreedom.com/en/) \(please note: the free version of OkayFreedom is[ ](http://www.okfreedom.com/en/support)[ad-supported](http://www.okfreedom.com/en/)\)[ ](https://www.tunnelbear.com/)[TunnelBear](https://www.tunnelbear.com/)
+* Free VPN: [OkayFreedom](http://www.okfreedom.com/en/) \(please note: the free version of OkayFreedom is [ad-supported](http://www.okfreedom.com/en/support#free)\) [TunnelBear](https://www.tunnelbear.com/)
 
 ## **Tor**
 
@@ -82,7 +82,7 @@ Download it[ here](https://www.torproject.org/projects/torbrowser.html).
 
  ## Browser Extensions
 
-Browser extensions \(Add-ons\/plug ins\), are programs which extend or customise a web browser. Extensions can be used to protect your privacy by blocking third parties from tracking your online activity. WARNING: Extensions can also be malicious \[examples](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims).
+Browser extensions \(Add-ons\/plug ins\), are programs which extend or customise a web browser. Extensions can be used to protect your privacy by blocking third parties from tracking your online activity. WARNING: Extensions can also be malicious [examples](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims).
 
 ### Recommended extensions:
 
@@ -96,9 +96,7 @@ Browser extensions \(Add-ons\/plug ins\), are programs which extend or customise
 * Chrome &gt; History &gt; Clear browsing data
 * Firefox &gt; Options &gt; Privacy &gt; History
 * Recommended PC Cleaners:
-
 * [CCleaner](http://www.piriform.com/ccleaner)
-
 * [BleachBit](http://www.bleachbit.org)
 
 
