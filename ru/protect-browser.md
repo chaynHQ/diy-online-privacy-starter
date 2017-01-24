@@ -76,7 +76,7 @@
 ### **Используйте VPN**
 
 * VPN или Виртуальная Частная Сеть, это способ скрытия Вашего IP и шифрования всего Вашего интернет трафика, что никто не сможет узнать что Вы просматриваете онлайн.
-* Бесплатный VPN:[ ](http://www.okfreedom.com/en/)[OkayFreedom](http://www.okfreedom.com/en/) \((пожалуйста обратите внимание: бесплатная версия OkayFreedom[ ](http://www.okfreedom.com/en/)[ad-supported](https://www.google.com/url?q=http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695306000&usg=AFQjCNFH5V7q52lXaSCMXNUwJjmmgpMlUg)\)[поддерживающая рекламу](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695306000&usg=AFQjCNEyY-gQmWBLzqccWxARiBA9jG64bw)[TunnelBear](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695307000&usg=AFQjCNGWiE0W7csNUb1vS41tel8kix42Tg) Вы можете найти бесплатный/условно-бесплатные VPN расширения Chrome VPN  [здесь](https://chrome.google.com/webstore/search/VPN?_category=extensions),и бесплатные/условно-бесплатные дополнения  Firefox VPN add-ons ниже меню Opjen menu > Дополнения > Получить дополнения > наберите “VPN” в поле поиска.
+* Бесплатный VPN:[ ](http://www.okfreedom.com/en/)[OkayFreedom](http://www.okfreedom.com/en/) \(пожалуйста обратите внимание: бесплатная версия OkayFreedom[ ](http://www.okfreedom.com/en/)[ad-supported](https://www.google.com/url?q=http://www.okfreedom.com/en/support%23free&sa=D&ust=1478912695306000&usg=AFQjCNFH5V7q52lXaSCMXNUwJjmmgpMlUg)\)[поддерживающая рекламу](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695306000&usg=AFQjCNEyY-gQmWBLzqccWxARiBA9jG64bw)[TunnelBear](https://www.google.com/url?q=https://www.tunnelbear.com/&sa=D&ust=1478912695307000&usg=AFQjCNGWiE0W7csNUb1vS41tel8kix42Tg) Вы можете найти бесплатный/условно-бесплатные VPN расширения Chrome VPN  [здесь](https://chrome.google.com/webstore/search/VPN?_category=extensions),и бесплатные/условно-бесплатные дополнения  Firefox VPN add-ons ниже меню Opjen menu > Дополнения > Получить дополнения > наберите “VPN” в поле поиска.
 
 ## **Tor**
 
@@ -84,7 +84,7 @@
 
 Загрузить можно[ here](https://www.torproject.org/projects/torbrowser.html).
 
-![](/assets/Surfing the internet with TOR.gif)
+![](assets/Surfing the internet with TOR.gif)
 
  ## Расширения браузера
 
