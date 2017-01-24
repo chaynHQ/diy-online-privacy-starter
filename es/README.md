@@ -1,4 +1,4 @@
-# Hazlo Tu Misma Seguridad En Línea
+# GUÍA DE SEGURIDAD EN LÍNEA - HAZLO TU MISMA
 
 ![](assets/spanishcover.png)
 
