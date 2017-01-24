@@ -42,10 +42,9 @@ Browser Privacy Settings - Do Not Track and Private Browsing Windows
 * [StartPage](https://www.startpage.com) is a private search engine that does not record your IP address or
 * track your searches
 
-**Incognito Mode**
+**Incognito Mode \(Chrome\)**
 
-* Incognito mode on the web prevents Google Chrome from saving a record of
-* what you visit and download.
+* Incognito mode on the web prevents Google Chrome from saving a record of what you visit and download.
 * Customise and control Google Chrome &gt; New incognito window
 * Or hold down: Ctrl + Shift + N
 

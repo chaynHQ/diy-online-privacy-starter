@@ -51,8 +51,7 @@ Réglages > Utilisation des données > Trafic de données mobiles > Désactiver.
 
 Voir aussi la page suivante: http://fr.wikihow.com/d%C3%A9sactiver-le-GPS-sur-un-dispositif-Android
 
-**Sécuriser un iPhone:**
-Désactiver le Wifi et la localisation GPS:
+**Sécuriser un iPhone:** Désactiver le Wifi et la localisation GPS:
 
 Paramètres > http://fr.wikihow.com/d%C3%A9sactiver-le-GPS-sur-un-iPhone & http://fr.wikihow.com/activer-les-services-de-localisation-sur-iOS
 
@@ -73,12 +72,12 @@ Tous les iPhones sont encryptés par défaut. Sois tout de même vigilante et ut
 
 
 
-# Applis de messagerie
+## Applis de messagerie
 
-## Whatsapp
+### Whatsapp
 [WhatsApp](https://www.whatsapp.com/) chiffre tous les messages, ce qui veut dire que seuls toi et ton destinataire sont à même de lire les messages échangés. Cependant, des métadonnées au sujet des personnes avec lesquelles tu converses sur Whatsapp, et la durée de vos conversations, sont collectées et archivées. 
 
-## Signal
+### Signal
 [Signal, développé par Open Whisper Systems](https://whispersystems.org/), est une appli gratuite et ouverte, cryptée, qui permet d’envoyer des messages instantanés et de passer des appels. Elle est disponible pour Android,  iOS et PC. Elle utilise le [chiffrement de bout](https://fr.wikipedia.org/wiki/Chiffrement_de_bout_en_bout) en bout pour sécuriser les communications entre ses utilisateurs.  Signal peut également être utilisée pour envoyer et recevoir des messages en groupe, des pièces jointes et des messages multimédia. 
 
 [**Security Tips Every Signal User Should Know
@@ -87,8 +86,8 @@ Tous les iPhones sont encryptés par défaut. Sois tout de même vigilante et ut
 
 # Conseils supplémentaires
 
-o  IMPORTANT : Fais le [Test de confidentialité de Smart Privacy](http://smartprivacy.tumblr.com/privacynow)
-o  Met en place une  [Alerte Google](https://www.google.com/alerts) pour ton nom
+* IMPORTANT : Fais le [Test de confidentialité de Smart Privacy](http://smartprivacy.tumblr.com/privacynow)
+* Met en place une  [Alerte Google](https://www.google.com/alerts) pour ton nom
 
 ---
 ![](assets/chayn icon.jpg)

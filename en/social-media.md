@@ -59,7 +59,6 @@ https://en.wikipedia.org/wiki/Voice_calling) and instant messaging application f
 # Additional Advice
 
 * IMPORTANT: Take the [Privacy Test by Smart Privacy](http://smartprivacy.tumblr.com/privacynow)
-
 * Create a [Google Alert](https://www.google.com/alerts) for your name
 
 
