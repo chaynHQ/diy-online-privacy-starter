@@ -76,20 +76,20 @@ Browser Privacy Settings - Do Not Track and Private Browsing Windows
 
 The Tor Browser is designed to help keep you anonymous and is a simple yet effective way of browsing the internet without revealing your identity to anyone.
 
-Download it[ here](https://www.google.com/url?q=https://www.torproject.org/projects/torbrowser.html.en.&sa=D&ust=1478912695309000&usg=AFQjCNHi66hbopa6PKcH0qPppM-pcYeBiw).
+Download it[ here](https://www.torproject.org/projects/torbrowser.html).
 
-![](/assets/Surfing the internet with TOR.gif)
+![](assets/Surfing the internet with TOR.gif)
 
  ## Browser Extensions
 
-Browser extensions \(Add-ons\/plug ins\), are programs which extend or customise a web browser. Extensions can be used to protect your privacy by blocking third parties from tracking your online activity. WARNING: Extensions can also be malicious \([examples](https://www.google.com/url?q=http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/&sa=D&ust=1478912695311000&usg=AFQjCNFb-tTnXWk7R_a3k-2yK0NOUcTuBg)\).
+Browser extensions \(Add-ons\/plug ins\), are programs which extend or customise a web browser. Extensions can be used to protect your privacy by blocking third parties from tracking your online activity. WARNING: Extensions can also be malicious \[examples](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims).
 
 ### Recommended extensions:
 
-* [HTTPS Everywhere](https://www.google.com/url?q=https://www.eff.org/https-everywhere&sa=D&ust=1478912695312000&usg=AFQjCNEBvYCAfkFF8TJ1eRyHbiH69J2OFw) \(Hypertext Transfer Protocol with Secure Sockets Layer\)
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere) \(Hypertext Transfer Protocol with Secure Sockets Layer\)
 * secures and encrypts your internet traffic
-* [Privacy Badger](https://www.google.com/url?q=https://www.eff.org/privacybadger&sa=D&ust=1478912695313000&usg=AFQjCNHNcMDqQbrzK_GX-cQYVUy8pTlayw) blocks tracking [cookies](https://www.google.com/url?q=https://en.wikipedia.org/wiki/HTTP_cookie&sa=D&ust=1478912695313000&usg=AFQjCNH4OGzxCGUGlINzUNYhUFSYSylzLA)
-* [uBlock Origin](https://www.google.com/url?q=https://www.ublock.org/&sa=D&ust=1478912695314000&usg=AFQjCNGJa0xJXHwX03kI2KCd3aZ1nc58KA) is an adblocker
+* [Privacy Badger](https://www.eff.org/privacybadger) blocks tracking [cookies](https://en.wikipedia.org/wiki/HTTP_cookie)
+* [uBlock Origin](https://www.ublock.org) is an adblocker
 
 # Erasing your browsing history
 
@@ -97,9 +97,9 @@ Browser extensions \(Add-ons\/plug ins\), are programs which extend or customise
 * Firefox &gt; Options &gt; Privacy &gt; History
 * Recommended PC Cleaners:
 
-* [CCleaner](https://www.google.com/url?q=http://www.piriform.com/ccleaner&sa=D&ust=1478912695317000&usg=AFQjCNHmtswm2AwMsRtywjxd7unIPKSXSg)
+* [CCleaner](http://www.piriform.com/ccleaner)
 
-* [BleachBit](https://www.google.com/url?q=http://www.bleachbit.org/&sa=D&ust=1478912695318000&usg=AFQjCNEjz3m2EuO6O2lPl4Vo_KAe6CHsjQ)
+* [BleachBit](http://www.bleachbit.org)
 
 
 

@@ -61,7 +61,7 @@ https://en.wikipedia.org/wiki/Voice_callingQjCNFZgBi7LgOXwClT5w2T3FO0BwXSnQ) and
 
 * IMPORTANT: Take the [Privacy Test by Smart Privacy](http://smartprivacy.tumblr.com/privacynow)
 
-* Create a [Google Alert](https://www.google.com/alert) for your name
+* Create a [Google Alert](https://www.google.com/alerts) for your name
 
 
 
