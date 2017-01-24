@@ -69,7 +69,7 @@
 
 Браузер Tor Browser, созданный чтобы помочь Вам сохранять анонимность, это простой но в то же время эффективный способ  веб-сёрфинга без раскрытия Вашей личности кому-либо.
 
-Загрузить можно[ here](https://www.torproject.org/projects/torbrowser.html).
+Загрузить можно [здесь](https://www.torproject.org/projects/torbrowser.html).
 
 ![](assets/Surfing the internet with TOR.gif)
 
