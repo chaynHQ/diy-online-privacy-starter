@@ -39,8 +39,7 @@ Browser Privacy Settings - Do Not Track and Private Browsing Windows
 * [Brave](https://www.brave.com/) is a browser which automatically blocks ads and trackers
 * [Tor](https://www.torproject.org/) is a browsing software that enables you to surf the web anonymously
 * [DuckDuckGo](https://duckduckgo.com/about) is a private search engine that does not track its users
-* [StartPage](https://www.startpage.com) is a private search engine that does not record your IP address or
-* track your searches
+* [StartPage](https://www.startpage.com) is a private search engine that does not record your IP address or track your searches
 
 **Incognito Mode \(Chrome\)**
 
