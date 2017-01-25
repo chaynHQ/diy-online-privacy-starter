@@ -1,4 +1,4 @@
-# GUÍA DE SEGURIDAD EN LÍNEA - HAZLO TU MISMA
+# GUIA BÁSICA DE PRIVACIDAD VIRTUAL - HAZLO TÚ MISMA
 
 ![](assets/spanishcover.png)
 
