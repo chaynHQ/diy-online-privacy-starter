@@ -30,6 +30,11 @@
 
 ![](assets/do-not-track-safari.jpg)
 
+**Explorer** &gt; Tools \(Alt + X\) &gt; Safety &gt; Turn on tracking protection &gt; Enable
+
+
+![](assets/explorer do not track.gif)
+
 
 
 
