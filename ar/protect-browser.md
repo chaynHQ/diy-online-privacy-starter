@@ -47,7 +47,6 @@
 * [Tor](https://www.torproject.org/) تطبيق تصفّح يتيح لك تصفّح الإنترنت بسريّة - من غير الكشف عن هويتك الشخصية.
 * [DuckDuckGo](https://duckduckgo.com/about) محرّك بحث سرّي لا يقوم بتتبّع مستخدميه.
 * [StartPage](https://www.startpage.com/) محرّك بحث سرّي لا يقوم بتسجيل عنوان الـ IP الخاص بك ولا ما قمت بالبحث عنه.
-* track your searches
 
 **Incognito Mode**
 ## وضع التخفّي
