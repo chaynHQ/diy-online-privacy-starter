@@ -60,8 +60,7 @@
 
 # Дополнительные Советы
 
-o **Важно**:  Пройдите Тест на Конфиденциальность от  Smart Privacy  
-[Privacy Test by Smart Privacy](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695347000&usg=AFQjCNGjAN8OCYH3WXnd3DP_haNY--ZHog)
+o  **Важно:** Пройдите Тест на Конфиденциальность от [Smart Privacy](https://www.google.com/url?q=http://smartprivacy.tumblr.com/privacynow&sa=D&ust=1478912695347000&usg=AFQjCNGjAN8OCYH3WXnd3DP_haNY--ZHog).
 
 o Создайте  [Google Alert](https://www.google.com/url?q=https://www.google.com/alerts&sa=D&ust=1478912695348000&usg=AFQjCNH-T5bZUuRKQwCWL8x6g3JbYp3IkQ) на Ваше имя
 
