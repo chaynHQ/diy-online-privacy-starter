@@ -60,7 +60,7 @@ _**چگونه موبایل اندروید خود را امن بسازیم؟**_
 
 ### وتس آپ Whatsapp
 
-پیام های اپلکشن [وتس آپ](http://whatsapp.com) یک به شکل رمز می باشد (یعنی محتوای پیام های که شما می فرستید صرف توسط خودتان و گیریندۀ پیام تان دیده می شود) ولی فرا داده ها برای کسی که پیام می فرستید و چه مدت زمانی ذخیره می شود.
+پیام های اپلکشن [وتس آپ](http://whatsapp.com) یک به شکل رمز می باشد (یعنی محتوای پیام های که شما می فرستید صرف توسط خودتان و گیریندۀ پیام تان دیده می شود) ولی فرا داده ها برای کسی که پیام می فرستید و[](https://www.google.com/alerts) چه مدت زمانی ذخیره می شود.
 
 ### سیگنال Signal
 
@@ -79,4 +79,4 @@ End-to-end encryption: https://en.wikipedia.org/wiki/End-to-end_encryption
 * [مهم: امتحان حریم خصوصی را با Smart Privacy بدهید](http://smartprivacy.tumblr.com/privacynow)
 
 
-*  برای اسم تان Google Alert بسازید. https://www.google.com/alerts
+*  برای اسم تان [Google Alert](https://www.google.com/alerts) بسازید. 

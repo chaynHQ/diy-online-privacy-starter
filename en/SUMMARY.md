@@ -7,3 +7,4 @@
 * [Protect your browser](protect-browser.md)
 * [Social Media & Devices](social-media.md)
 * [Final words & thank yous](final-words.md)
+

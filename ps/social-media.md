@@ -91,5 +91,5 @@
 
 
 ---
-![](assets/chayn icon.png)
+![](assets/chayn icon.jpg)
 

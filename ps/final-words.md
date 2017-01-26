@@ -1,9 +1,9 @@
-Read the full guide in English: **https://chayn.gitbooks.io/advanced-diy-privacy-for-every-woman/content/**.
+[دلته](https://chayn.gitbooks.io/advanced-diy-privacy-for-every-woman/content/) چې په انګليسي کې بشپړ لارښود پاتې برخه
 
-Hope you enjoyed our guide!
-**CHAYN**
+موږ هيله لرو چې تاسو زموږ د لارښود خوند!
 
-![](/assets/Cat-nap--medium.gif)
+
+![](assets/Cat-nap--medium.gif)
 
 ---
 
