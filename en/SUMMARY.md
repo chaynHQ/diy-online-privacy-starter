@@ -6,4 +6,4 @@
 * [Set a killer pawsword](passwords.md)
 * [Pawtect your browser](protect-browser.md)
 * [Social Media & Devices](social-media.md)
-* [Final words](final-words.md)
+* [Final words & thank yous](final-words.md)
