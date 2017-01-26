@@ -84,5 +84,5 @@ http://smartprivacy.tumblr.com/privacynow
 o : آپکا نام تلاش کرنے کا گوگل الرٹ بنائیں (https://www.google.com/alerts)
 
 ---
-![](/assets/chayn icon.png)
+![](assets/chayn icon.jpg)
 
