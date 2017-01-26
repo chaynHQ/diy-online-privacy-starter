@@ -4,7 +4,7 @@ We hope you enjoyed our guide and found it useful!
 
 To read the full, Advanced guide in English click [here](https://chayn.gitbooks.io/advanced-diy-privacy-for-every-woman/content/).
 
-# Thank paws!
+### Thanks and Acknowledgments 
 
 [](assets/Fox Cat Thing v small.png)
 
