@@ -1,6 +1,6 @@
 # اپنے براؤزر کو کیسے محفوز کرتے ہیں
 
-![](/assets/HypuuurLynx.gif)
+![](assets/HypuuurLynx.gif)
 
 ### گوگل کروم۔ سفاری۔ فائر فاکس۔ ایکسپلورر Chrome. Safari. Firefox. Explorer.
 
@@ -13,7 +13,7 @@
 
 **Chrome** &gt; Settings &gt; Show Advanced Settings &gt; &gt; Privacy &gt; Send “Do Not Track” request with your browser traffic
 
-![](/assets/chrome - do not track.gif)
+![](assets/chrome - do not track.gif)
 
 
 ### فائر فاکس
@@ -21,19 +21,19 @@
 **Firefox** &gt; Options &gt; Privacy &gt; manage your Do Not Track settings
 
 
-![](/assets/Firefox - do not track.gif)
+![](assets/Firefox - do not track.gif)
 
 ### سفاری
 **Safari** &gt; Menu &gt; Preferences &gt; Privacy &gt; Website tracking &gt; Ask websites not to track me
 
 
-![](/assets/do-not-track-safari.jpg)
+![](assets/do-not-track-safari.jpg)
 
 ### ایکسپلورر
 **Explorer** &gt; Tools \(Alt + X\) &gt; Safety &gt; Turn on tracking protection &gt; Enable
 
 
-![](/assets/explorer do not track.gif)
+![](assets/explorer do not track.gif)
 
 
 **متبادل براؤزرز اور سرچ انجنز**
@@ -80,12 +80,12 @@
 
 ٹار براؤزر ایسا براؤزر ہے جو آپ کو نامعلوم قائم رکھنے کے لیے بنایا گیا ہے۔ یہ ایک آسان اور موثر طریقہ ہے اپنی شناخت ظاہر کرے بغیر براؤزنگ کرنے کا۔ ادھر سے ڈاؤن لوڈ کرین: https://www.torproject.org/projects/torbrowser.html
 
-![](/assets/Surfing the internet with TOR.gif)
+![](assets/Surfing the internet with TOR.gif)
 
  ## براؤزر Extensions  کے اضافات
 
 براؤزر کے اضافات (ایکسٹینشن یا پلگ انز) ایسے پروگرام ہیں جو آپ کے ویب براؤزر میں اضافہ کرنے کی یا اپنی مرزی کے مطابق تبدیلی لانے کے قابل کرتی ہے۔ یہ اضافات کسی تیسری پارٹی کو آپ کہ آن لائن عاملیت کی تعاقیب کرنے سے روکتا ہے، اگرچہ یہ آپ کی رازداری کو محفوز رکھتا ہے۔ خبردارـ ایکسٹینشنز بد نیّتی سے بھی استعمال کی جا سکتی ہیں:
-http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/
+ http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/
 
 ### تجویزشدہ ایکسٹینشن
 
@@ -106,7 +106,7 @@ http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-
 * [BleachBit](https://www.google.com/url?q=http://www.bleachbit.org/&sa=D&ust=1478912695318000&usg=AFQjCNEjz3m2EuO6O2lPl4Vo_KAe6CHsjQ)
 
 ---
-![](/assets/chayn icon.png)
+![](assets/chayn icon.jpg)
 
 
 

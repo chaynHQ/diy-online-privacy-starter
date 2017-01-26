@@ -1,4 +1,4 @@
-# GUÍA DE SEGURIDAD EN LÍNEA - HAZLO TU MISMA
+# GUIA BÁSICA DE PRIVACIDAD VIRTUAL - HAZLO TÚ MISMA
 
 ![](assets/spanishcover.png)
 
@@ -38,4 +38,4 @@ Hay muchas maneras en que alguien puede localizarte. La facilidad y la probabili
  
 ---
 
-![](/es/assets/chayn icon.jpg)
+![](assets/chayn icon.jpg)

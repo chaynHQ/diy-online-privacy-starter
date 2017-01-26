@@ -42,4 +42,4 @@ Tu teléfono puede ser intervenido para grabar y transmitir cualquier sonido den
 
 ---
 
-![](/es/assets/chayn icon.jpg)
+![](assets/chayn icon.jpg)

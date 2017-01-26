@@ -4,11 +4,11 @@
 
 Read the full guide in English **here**.
 
-Hope you enjoyed our guide!
-**[CHAYN](http://chayn.co)**
+Надеемся вам понравился наш гид!  
 
-![](/assets/Cat-nap--medium.gif)
+![](assets/Cat-nap--medium.gif)
 
 ---
 
 Translation by Aisara Yessenova.
+

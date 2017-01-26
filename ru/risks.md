@@ -73,4 +73,4 @@ _
 
 ---
 
-![](/assets/chayn icon.png)
+![](assets/chayn icon.png)
