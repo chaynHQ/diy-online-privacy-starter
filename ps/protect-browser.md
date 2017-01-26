@@ -1,8 +1,9 @@
 
 # څنګه کولای شئ خپل لټونګر(براوزر) وساتئ
+![](assets/HypuuurLynx.gif)
 
 کروم، سفاري، فایرفاکس، ایکسپلورر
-لومړی د Panopticlick په مرسته وګورئ چې ستاسو لټونګر (براوزر) څومره په امن کې دی.
+لومړی د [Panopticlick](https://panopticlick.eff.org) په مرسته وګورئ چې ستاسو لټونګر (براوزر) څومره په امن کې دی.
 
 ## د لټونګر (براوزر) د محرمیت تنظیمات - نه تعقیبول او د خصوصي لټون کړکۍ یا وینډوز  
 
@@ -65,13 +66,20 @@ HTTPS Everywhere  (Hypertext Transfer Protocol with Secure Sockets Layer)
 Privacy Badger ټولې تعقیب کوونکې کوکي (cookies) بندوي ترڅو تاسو تعقیب نه شي کړای.
 uBlock Origin ټول اعلانونه بندوي او نه پریږدي ستاسو مخ ته راشي.
 
+
+![](assets/Surfing the internet with TOR.gif)
+
+
 ## د لټونګر(براوزر) تاریخچه پاکول
 
 - Chrome > History > Clear browsing data 
 - Firefox > Options > Privacy > History
 - وړاندیز کړای شوې کمپیوټر پاکوونکي: 
-CCleaner
-BleachBit
+
+* [CCleaner](http://www.piriform.com/ccleaner)
+
+* [BleachBit](http://www.bleachbit.org/)
+
 
 
 
