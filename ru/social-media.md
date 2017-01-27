@@ -8,6 +8,13 @@
 
 ![](assets/Facebook - Who can see my stuff.gif)
 
+
+
+![](/assets/FB view as.gif)
+
+
+
+
 ### Кто может связаться со мной?
 
 ![](assets/Facebook - Who can contact me.gif)
