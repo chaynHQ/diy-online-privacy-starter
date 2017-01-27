@@ -9,6 +9,9 @@
 ![](assets/Facebook - Who can see my stuff.gif)
 
 
+![](/assets/FB view as.gif)
+
+
 
 ### څنګه کولای شم د هغه چا مخنیوي وکړم  چې مې ځوروي؟ 
 ![](assets/Facebook - Who can contact me.gif)
