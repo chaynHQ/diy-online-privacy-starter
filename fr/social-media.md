@@ -13,7 +13,6 @@
 
 
 
-
 ### Qui peut me contacter ?
 
 ![](assets/Facebook - Who can contact me.gif)
@@ -94,4 +93,3 @@ Tous les iPhones sont encryptés par défaut. Sois tout de même vigilante et ut
 * Met en place une  [Alerte Google](https://www.google.com/alerts) pour ton nom
 
 ---
-![](assets/chayn icon.jpg)
