@@ -24,7 +24,7 @@
 
 **Explorer** &gt; Explorer &gt; Инструменты \(Alt + X\) &gt;Безопасность &gt; Включить защиту от слежения &gt;Включить
 
-![] (assets/explorer do not track.gif)
+![](assets/explorer do not track.gif)
 
 **Альтернативные браузеры и поисковые системы**
 
