@@ -10,7 +10,7 @@
 
 
 
-![](/assets/FB view as.gif)
+![](assets/FB view as.gif)
 
 
 
