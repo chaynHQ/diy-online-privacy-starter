@@ -10,7 +10,7 @@
 ![](assets/Facebook - Who can see my stuff.gif)
 
 
-![](/assets/FB view as.gif)
+![](assets/FB view as.gif)
 
 
 
