@@ -10,6 +10,9 @@
 ![](assets/Facebook - Who can see my stuff.gif)
 
 
+![](/assets/FB view as.gif)
+
+
 
 
 ### کون مجھ سے رابطہ کر سکتا ہے؟
