@@ -1,5 +1,11 @@
 {
     "plugins": [
-        "anker-enable"
-    ]
+        "anker-enable",
+        "analytics"
+    ] ,
+    "pluginsConfig": {
+        "analytics": {
+            "google": "TOKEN-1"
+        }
+    }
 }
