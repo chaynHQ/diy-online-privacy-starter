@@ -1,4 +1,4 @@
-    # How to set a killer pawsword \(sorry..we couldn’t help it\)
+# How to set a killer pawsword \(sorry..we couldn’t help it\)
 Easy steps to fight the most common vulnerability
 
 ![](assets/Pawsword.gif)
