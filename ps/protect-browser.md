@@ -7,6 +7,42 @@
 
 ## د لټونګر (براوزر) د محرمیت تنظیمات - نه تعقیبول او د خصوصي لټون کړکۍ یا وینډوز  
 
+**Chrome** 
+Chrome > Settings > Show Advanced Settings > > Privacy > Send “Do Not Track” request with your browser traffic
+
+![](assets/chrome - do not track.gif)
+
+
+
+**Firefox** 
+Firefox > Options > Privacy > manage your Do Not Track settings
+
+ 
+* پنجرۀ شخصی جدید یک صفحۀ شخصی جدید را در براوسر فایرفاکس باز می کند.
+* منیو را باز کنید بعدا گزینۀ New Private Window را انتخاب نمایید.
+* و یا Ctrl + Shift + P را همزمان فشار بدهید.
+
+
+![](assets/Firefox - do not track.gif)
+
+
+**Safari** 
+Safari > Menu > Preferences > Privacy > Website tracking > Ask websites not to track me
+
+
+![](assets/do-not-track-safari.jpg)
+
+
+**Explorer** 
+
+Explorer > Tools (Alt + X) > Safety > Turn on tracking protection > Enable
+
+![](assets/explorer do not track.gif)
+
+
+
+
+
 ### نور لټونګر (براوزر) اود  لټون لارې
 
 - [Brave](https://www.brave.com/) هغه لټونګر (براوزر) ده چې په اتومات ډول اعلانات او تعقیب کوونکي بندوي. 
