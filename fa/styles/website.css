@@ -1,7 +1,9 @@
 /* page background */ body { background-color: #F1F1F1;}
 
 /* heading fonts */
+@import url(//db.onlinewebfonts.com/c/b9a78e6714347c12a10e709db3746719?family=B+Mitra);
 @import url('http://fontweb.ir/css/B Mitra={fontweb.ir}.css');
+
 
 h1 { font-size: 2.5em; font-family: "B Mitra", Helvetica, Sans-serif;}
 h2 { font-size: 42px; font-family: "B Mitra", Helvetica, Sans-serif;}

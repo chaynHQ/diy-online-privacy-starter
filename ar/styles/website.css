@@ -10,7 +10,7 @@ h3 { font-size: 32px; font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", Helv
 
 
 /* body font */p { font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", Helvetica, sans-serif; text-align: right; }
-body { font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", Helvetica, sans-serif; font-size: 14px; text-align: right;  }
+body { font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", Helvetica, sans-serif; font-size: 18px; text-align: right;  }
 
 /* table of contents */.book-summary{ background-color: #FEBB2A;}
 
@@ -19,6 +19,6 @@ body { font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", Helvetica, sans-ser
 }
 
 /* side menu */
-.book-summary {font-family:  color: black; font-size: 18px; font-weight: 900;}
+.book-summary {font-family:  color: black; font-size: 22px; font-weight: 900;}
 
 .book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none; text-align: right; font-family: "Noto Kufi Arabic", "Noto Naskh Arabic", sans-serif; font-weight: 800;}
