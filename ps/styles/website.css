@@ -1,14 +1,17 @@
 /* page background */ body { background-color: #F1F1F1;}
 
 /* heading fonts */
-@import 'https://fonts.googleapis.com/css?family=Sue+Ellen+Francisco';
-h1 { font-size: 52px; font-family: "Sue Ellen Francisco";}
-h2 { font-size: 42px; font-family: "Sue Ellen Francisco";}
-h3 { font-size: 32px; font-family: "Sue Ellen Francisco";}
+@import url('http://fontweb.ir/css/B Mitra={fontweb.ir}.css');
+
+h1 { font-size: 2.5em; font-family: "B Mitra", Helvetica, Sans-serif;}
+h2 { font-size: 42px; font-family: "B Mitra", Helvetica, Sans-serif;}
+h3 { font-size: 32px; font-family: "B Mitra", Helvetica, Sans-serif;}
 
 
-/* body font */p { font-family: Helvetica, sans-serif; font-weight: 200; }
-body { font-family: Helvetica, sans-serif; font-weight: 200;  }
+/* body font */p { font-family: "B Mitra", Helvetica, Sans-serif; text-align: right; font-size: 18px; }
+body { font-family: "B Mitra", Helvetica, Sans-serif; text-align: right; font-size: 18px; }
+ul {text-align: right;}
+ol {text-align: right;}
 
 /* table of contents */.book-summary{ background-color: #FEBB2A;}
 
@@ -17,6 +20,6 @@ body { font-family: Helvetica, sans-serif; font-weight: 200;  }
 }
 
 /* side menu */
-.book-summary {font-family:  color: black; font-size: 20px; font-weight: 900;}
+.book-summary {font-family:  color: black; font-size: 18px; font-weight: 300;}
 
-.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none; text-align: right;}
+.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none; text-align: right; font-family: "B Mitra", Courier, Sans-serif; font-weight: 300;}
