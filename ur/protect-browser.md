@@ -106,7 +106,7 @@
 * [BleachBit](https://www.google.com/url?q=http://www.bleachbit.org/&sa=D&ust=1478912695318000&usg=AFQjCNEjz3m2EuO6O2lPl4Vo_KAe6CHsjQ)
 
 ---
-![](assets/chayn icon.jpg)
+گرٰ آپ پاکستان مین رہتی ہین تو آپ ھمارا انٹرنٹ کی مفت حلپلاین سے رابتا کر سکتے ھین: 0800-39393 on Monday to Friday from 9:00 a.m. to 5:00 p.m. helpdesk@digitalrightsfoundation.pk
 
 
 
