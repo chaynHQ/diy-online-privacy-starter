@@ -1,9 +1,9 @@
 /* page background */ body { background-color: #F1F1F1; font-size: 16px;}
 
 /* heading fonts */
-@import 'https://fonts.googleapis.com/earlyaccess/notonastaliqurdudraft.css';
-@import url(https://fonts.googleapis.com/earlyaccess/notonastaliqurdudraft.css);
-@import url(https://fonts.googleapis.com/earlyaccess/notonastaliqurdu.css);
+@font-face {font-family: "Noto Nastaliq Urdu";
+  url("NotoNastaliqUrdu-Regular.ttf") format("truetype") /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+}
 
 
 h1 { font-size: 3em; font-family: "Noto Nastaliq Urdu","Noto Nastaliq Urdu Draft", Courier, serif;}
