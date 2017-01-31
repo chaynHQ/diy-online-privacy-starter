@@ -1,9 +1,15 @@
 /* page background */ body { background-color: #F1F1F1;}
 
 /* heading fonts */
-@import url(//db.onlinewebfonts.com/c/b9a78e6714347c12a10e709db3746719?family=B+Mitra);
-@import url('http://fontweb.ir/css/B Mitra={fontweb.ir}.css');
-
+/*@import url('http://fontweb.ir/css/B Mitra={fontweb.ir}.css');*/
+ +@font-face {font-family: "B Mitra";
+ +  src: url("b9a78e6714347c12a10e709db3746719.eot"); /* IE9*/
+ +  src: url("b9a78e6714347c12a10e709db3746719.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+ +  url("b9a78e6714347c12a10e709db3746719.woff2") format("woff2"), /* chrome、firefox */
+ +  url("b9a78e6714347c12a10e709db3746719.woff") format("woff"), /* chrome、firefox */
+ +  url("b9a78e6714347c12a10e709db3746719.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+ +  url("b9a78e6714347c12a10e709db3746719.svg#B Mitra") format("svg"); /* iOS 4.1- */
+ +};
 
 h1 { font-size: 2.5em; font-family: "B Mitra", Helvetica, Sans-serif;}
 h2 { font-size: 42px; font-family: "B Mitra", Helvetica, Sans-serif;}
