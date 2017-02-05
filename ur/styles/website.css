@@ -34,4 +34,4 @@ p { font-family: "Noto Nastaliq Urdu Draft", "Noto Nastaliq Urdu", Courier, seri
 /* side menu */
 .book-summary {font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", Courier, serif; color: black; font-size: 18px; font-decoration: strong;}
 
-.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none; text-align: right; font-weight: 800;}
+.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none; text-align: right; font-weight: 900;}
