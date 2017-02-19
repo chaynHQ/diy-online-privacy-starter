@@ -6,7 +6,12 @@
 
 First, test how safe your current browser is with [Panopticlick](https://panopticlick.eff.org)
 
-Browser Privacy Settings - Do Not Track and Private Browsing Windows
+and
+
+Cover your camera!
+![](assets/cover_laptop_cam.gif)
+
+## Browser Privacy Settings - Do Not Track and Private Browsing Windows
 
 ## DO NOT TRACK
 
