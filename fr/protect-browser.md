@@ -6,7 +6,15 @@
 
 En premier lieu, teste ton navigateur à l’aide de [Panopticlick](https://panopticlick.eff.org/) pour savoir s’il est vraiment sécurisé. 
 
-Paramètres de confidentialité de ton navigateur - Interdire le suivi et Fenêtre de navigation privée
+**et ça:
+**
+
+![](assets/cover_laptop_cam.gif)
+
+
+
+
+## Paramètres de confidentialité de ton navigateur - Interdire le suivi et Fenêtre de navigation privée
 
 ## INTERDIRE LE SUIVI
 

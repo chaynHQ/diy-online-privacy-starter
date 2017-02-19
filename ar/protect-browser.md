@@ -4,6 +4,10 @@
 
 أولاً، قومي باختبار مدى أمان متصفّحك الحالي مع [Panopticlick](https://panopticlick.eff.org/).
 
+**أيضا**
+
+![](assets/cover_laptop_cam.gif)
+
 
 
 ## إعدادات خصوصيّة المتصفح - نوافذ التصفّح السريّة.

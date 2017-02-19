@@ -6,8 +6,12 @@
 
 Primero, prueba qué tan seguro es tu actual navegador con [Panopticlick](https://panopticlick.eff.org/)
 
-**Configuración de Privacidad del Navegador - No Seguimiento y Ventanas Privadas de Navegación
+**y esto:
 **
+![](assets/cover_laptop_cam.gif)
+
+
+## Configuración de Privacidad del Navegador - No Seguimiento y Ventanas Privadas de Navegación
 
 ## NO SEGUIMIENTO
 

@@ -1,15 +1,21 @@
 # چه قسم براوسر تان را محفوظ نگه دارید؟
 
-![](/assets/HypuuurLynx.gif)
+![](assets/HypuuurLynx.gif)
 
 ### Chrome. Safari. Firefox. Explorer.
 گوگل کروم، فایرفاکس و اکسپلورر
 
-امتحان کنید تا بفهمید[Panopticlick](https://panopticlick.eff.org) نخست براوسر فعلی تان را با چقدر محفوظ است.
+امتحان کنید تا بفهمید [Panopticlick](https://panopticlick.eff.org)   نخست براوسر فعلی تان را با چقدر محفوظ است.
 
-**تنظیمات حریم خصوصی براوسر – حریم خصوصی و پنچره براوسر را تعقیب نکنید
+**و این:
 **
 
+![](assets/cover_laptop_cam.gif)
+
+
+
+
+## تنظیمات حریم خصوصی براوسر – حریم خصوصی و پنچره براوسر را تعقیب نکنید
 
 ## DO NOT TRACK حالت ناشناس
 
