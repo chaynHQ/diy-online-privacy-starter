@@ -1,19 +1,27 @@
-/* page background */ body { background-color: #F1F1F1;}
+/* page background */ body { background-color: #F1F1F1; font-size: 16px;}
 
 /* heading fonts */
-@import url(https://fonts.googleapis.com/earlyaccess/notonastaliqurdudraft.css);
-@import url(https://fonts.googleapis.com/earlyaccess/notonastaliqurdu.css);
+@font-face {
+  font-family: 'Noto Nastaliq Urdu Draft';
+  font-style: normal;
+  font-weight: 400;
+  src: url(//fonts.gstatic.com/ea/notonastaliqurdudraft/v4/NotoNastaliqUrduDraft.eot);
+  src: url(//fonts.gstatic.com/ea/notonastaliqurdudraft/v4/NotoNastaliqUrduDraft.eot?#iefix) format('embedded-opentype'),
+       url(//fonts.gstatic.com/ea/notonastaliqurdudraft/v4/NotoNastaliqUrduDraft.woff2) format('woff2'),
+       url(//fonts.gstatic.com/ea/notonastaliqurdudraft/v4/NotoNastaliqUrduDraft.woff) format('woff'),
+       url(//fonts.gstatic.com/ea/notonastaliqurdudraft/v4/NotoNastaliqUrduDraft.ttf) format('truetype');
+}
 
 
-h1 { font-size: 3em; font-family: "Noto Nastaliq Urdu","Noto Nastaliq Urdu Draft", Helvetica, serif;}
-h2 { font-size: 2.5em; font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", Helvetica, serif;}
-h3 { font-size: 2em; font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", Helvetica, serif;}
+h1 { font-size: 3em; font-family: "Noto Nastaliq Urdu","Noto Nastaliq Urdu Draft", Courier, serif;}
+h2 { font-size: 2.5em; font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", Courier, serif;}
+h3 { font-size: 2em; font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", Courier, serif;}
 
 
 /* body font */
-li { font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", Helvetica, serif;}
-body { font-family: "Noto Nastaliq Urdu Draft", "Noto Nastaliq Urdu", Helvetica, serif; font-size: 14px; line-height: 18px;}
-p { font-family: "Noto Nastaliq Urdu Draft", "Noto Nastaliq Urdu", Helvetica, serif; font-size: 14px; line-height: 18px;}
+li { font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", Courier, serif;}
+body { font-family: "Noto Nastaliq Urdu Draft", "Noto Nastaliq Urdu", Courier, serif; font-size: 1.2em; line-height: 2.5em;}
+p { font-family: "Noto Nastaliq Urdu Draft", "Noto Nastaliq Urdu", Courier, serif; font-size: 1.2em; line-height: 2.5em;}
 
 
 
@@ -24,6 +32,6 @@ p { font-family: "Noto Nastaliq Urdu Draft", "Noto Nastaliq Urdu", Helvetica, se
 }
 
 /* side menu */
-.book-summary {font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", Helvetica, serif; color: black; font-size: 18px; font-decoration: strong;}
+.book-summary {font-family: "Noto Nastaliq Urdu", "Noto Nastaliq Urdu Draft", Courier, serif; color: black; font-size: 18px; font-decoration: strong;}
 
-.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none; text-align: right; font-weight: 300;}
+.book-summary ul.summary li.active > a { color: white; background: 0 0; text-decoration: none; text-align: right; font-weight: 900;}
