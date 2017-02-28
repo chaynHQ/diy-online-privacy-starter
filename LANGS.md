@@ -7,4 +7,5 @@
 * [پښتو / Pashto](ps/)
 * [Français / French](fr/)
 * [Pусский / Russian](ru/)
+* [Italian](it/)
 * [اردو / Urdu](ur/)
