@@ -1,4 +1,4 @@
-# **Come è possibile essere pedinate online**
+# **Come si può essere pedinate online**
 
 ## **Tracciando i tuoi comportamenti online**
 
