@@ -6,7 +6,7 @@ _«Incredibile, questa guida mi ha davvero aperto gli occhi!»_
 
 _«Questa è davvero la prima volta che qualcuno è in grado di darmi una mano a orientarmi in tutto questo: di solito le autorità non hanno nessuna idea…»_
 
-![](/assets/spanishwithoutcat.png)**  
+![](/assets/spanishwithoutcat.png)**    
 **
 
 ## **A chi è diretta questa guida**
@@ -21,8 +21,5 @@ Le moderne tecnologie – come internet, cellulari, ecc. – hanno reso sempre p
 
 ## ** Come usare questa guida**
 
-Esistono molti modi in cui una persona potrebbe riuscire a rintracciarti e pedinarti. La probabilità e la facilità con cui questo può accadere dipendono dalle circostanze personali in cui tu e la persona che abusa di te vi trovate, che sono tante e varie. Questa guida, perciò, non offre risposte a tutte le situazioni possibili. Questa guida non fornisce informazioni su come sia possibile per qualcuno rintracciarti online, ma offre invece una serie di consigli e trucchi per te su come proteggerti.
-
-  
-
+Esistono molti modi in cui una persona potrebbe riuscire a rintracciarti e pedinarti. La probabilità e la facilità con cui questo può accadere dipendono dalle circostanze personali in cui tu e la persona che abusa di te vi trovate, che sono tante e varie. Questa guida, perciò, non offre risposte a tutte le situazioni possibili. Questa guida non fornisce informazioni su come sia possibile per qualcuno rintracciarti online, ma offre invece una serie di consigli e trucchi per te su come proteggerti. Cominciamo!
 
