@@ -64,7 +64,7 @@ Leggi anche \(in italiano\):
 
 • Importante: Fai il [Test sulla privacy online](https://drive.google.com/open?id=1ncJSuYvbiTFA9bxaruaMXwupwPSljJ-iEq0C3ydGEi8)
 
-• Crea un [Google Alert](https://www.google.com/alerts) per il tuo nome e/o il tuo indirizzo email. In questo modo verrai avvertita ogni volta che qualcuno metterà online il tuo nome o la tua email. [Qui le istruzioni per come fare](https://drive.google.com/open?id=1ncJSuYvbiTFA9bxaruaMXwupwPSljJ-iEq0C3ydGEi8).
+• Crea un [Google Alert](https://www.google.com/alerts) per il tuo nome e/o il tuo indirizzo email. In questo modo verrai avvertita ogni volta che qualcuno metterà online il tuo nome o la tua email. [Qui le istruzioni per come fare](https://drive.google.com/open?id=1ncJSuYvbiTFA9bxaruaMXwupwPSljJ-iEq0C3ydGEi8)
 
 
 
