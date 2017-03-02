@@ -118,7 +118,7 @@ Qui di seguito come navigare in anonimo.
 
 • Reti VPN che puoi usare gratuitamente sono [OkayFreedom](http://www.okfreedom.com/en/\) \(la versione gratuita ha inserzioni pubblicitarie: se non le vuoi devi comprare la versione premium\) e [TunnelBear]\(https://www.tunnelbear.com/).
 
-• Entrambe queste reti VPN vanno scaricate e poi installate.[Qui un po’ di informazioni](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php\) su come installare OkayFreedom [qui il video]\(https://youtu.be/hNgZMlgRYzQ) che spiega come usare TunnelBear. In linea di massima, una volta installata la rete VPN, ogni volta che si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
+• Entrambe queste reti VPN vanno scaricate e poi installate. [Qui un po’ di informazioni](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php\) su come installare OkayFreedom [qui il video]\(https://youtu.be/hNgZMlgRYzQ) che spiega come usare TunnelBear. In linea di massima, una volta installata la rete VPN, ogni volta che si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
 
 ### ![](/it/assets/Pic 11. tunnelbear.jpg)
 
@@ -128,7 +128,7 @@ Tor Browser è creato per mantenerti sempre in modalità navigazione anonima. È
 
 ## **Estensioni del browser**
 
-Le estensioni del browser \(che possono essere Add-ons o Plugins\), sono programmi che personalizzano o aggiungono nuove prestazioni al tuo browser. Le estensioni possono servire a proteggere la tua privacy, per esempio bloccando chiunque voglia tracciarti mentre sei online. ATTENZIONE: alcune estensioni possono invece danneggiare la privacy e rendere più facile rintracciarti come, ad esempio, Marauders Map, Hover Zoom, o Hola Unbloker \([leggi qui](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/\)\)\).
+Le estensioni del browser \(che possono essere Add-ons o Plugins\), sono programmi che personalizzano o aggiungono nuove prestazioni al tuo browser. Le estensioni possono servire a proteggere la tua privacy, per esempio bloccando chiunque voglia tracciarti mentre sei online. ATTENZIONE: alcune estensioni possono invece danneggiare la privacy e rendere più facile rintracciarti come, ad esempio, Marauders Map, Hover Zoom, o Hola Unbloker \([leggi qui](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/\)\)\)\). 
 
 ### **Estensioni consigliate:**
 
