@@ -22,9 +22,7 @@
 
 ### **Sicurezza & Privacy**
 
-
-
-
+![](/it/assets/Twitter - Security  and privacy.gif)
 
 ## **Apparecchi elettronici: disabilita la geo-localizzazione**
 
