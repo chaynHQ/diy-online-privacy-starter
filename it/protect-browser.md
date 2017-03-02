@@ -22,7 +22,5 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 ![](/assets/Pic%201.%20Chrome%20impostazioni%20privacy.png)
 
-
-
-
+![](/assets/Pic%202.%20Chrome%20impostazioni%20privacy.png)
 
