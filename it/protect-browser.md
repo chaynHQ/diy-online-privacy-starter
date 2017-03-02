@@ -20,24 +20,25 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 5. Seleziona l’opzione** Invia una richiesta Non tenere traccia" con il tuo traffico di navigazione **cliccandoci sopra \(**Send “Do Not Track” request with your browser traffic** se in inglese\)
 
-![](/assets/Images%20OSG%20italian/Pic%201.%20Chrome%20impostazioni%20privacy.png)
+![](/it/assets/Chrome%20impostazioni%20privacy.png)
 
-#### ![](/it/assets/Images%20OSG%20italian/Pic%202.%20Chrome%20impostazioni%20privacy.png)**Se usi Firefox**
+![](/it/assets/Pic%202.%20Chrome%20impostazioni%20privacy.png)
+
+**Se usi Firefox**
 
 1. Apri Firefox sul tuo computer
 
-2. Fai clic sul menu ![](https://lh6.googleusercontent.com/Rd3dyh7JOq6S9I0NlQzMu_7bEe2Lv9XSdNkqInQxq3V8tBAMfipzUnGqDuk3DAjhjGxb6-X_-Iua-IX2d9OpDhrPcVTtYiEmheyRJ6EYl9xIMudNB8O662uK5WqY0GfSMXTcy33W2XQlUURNdA "ew Fx Menu") e seleziona **Preferenze**
+2. Fai clic sul menu ![](https://lh6.googleusercontent.com/Rd3dyh7JOq6S9I0NlQzMu_7bEe2Lv9XSdNkqInQxq3V8tBAMfipzUnGqDuk3DAjhjGxb6-X_-Iua-IX2d9OpDhrPcVTtYiEmheyRJ6EYl9xIMudNB8O662uK5WqY0GfSMXTcy33W2XQlUURNdA "ew Fx Menu") e seleziona **Preferenze**
 
-3. Seleziona il pannello **Privacy**
+3. Seleziona il pannello **Privacy**
 
-4. Fai clic su **Gestire le impostazioni relative a Do Not Track**
+4. Fai clic su **Gestire le impostazioni relative a Do Not Track**
 
-5. Seleziona la casella **Utilizza sempre Do Not Track**![](/assets/Images%20OSG%20italian/Pic%203.%20Firefox.png)  
-6. Fai clic su **OK**
+5. Seleziona la casella **Utilizza sempre Do Not Track**![](/assets/Images%20OSG%20italian/Pic%203.%20Firefox.png)
 
-7. Chiudi la pagina **about: preferences**. Le eventuali modifiche apportate verranno salvate automaticamente.
+6. Fai clic su **OK**
 
-
+7. Chiudi la pagina **about: preferences**. Le eventuali modifiche apportate verranno salvate automaticamente.
 
 #### **Se usi Safari**
 
@@ -63,24 +64,11 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 ### **Browser e motori di ricerca alternativi**
 
-• [Brave](https://www.brave.com/) è un browser che blocca automaticamente le pubblicità e chiunque provi a tracciarti
+• [Brave](https://www.brave.com/) è un browser che blocca automaticamente le pubblicità e chiunque provi a tracciarti
 
-• [Tor](https://it.wikipedia.org/wiki/Tor_\(software\)) è un software di browsing che permette di navigare su internet in completo anonimato 
+• [Tor](https://it.wikipedia.org/wiki/Tor_\(software\)) è un software di browsing che permette di navigare su internet in completo anonimato
 
-• [DuckDuckGo](https://duckduckgo.com/about) è un motore di ricerca privato che non traccia i suoi utenti
+• [DuckDuckGo](https://duckduckgo.com/about) è un motore di ricerca privato che non traccia i suoi utenti
 
-• [StartPage](https://www.startpage.com/) è un motore di ricerca privato che non registra il tuo indirizzo IP né traccia le tue ricerche online
-
-
-
-  
-
-
-  
-
-
-  
-
-
-
+• [StartPage](https://www.startpage.com/) è un motore di ricerca privato che non registra il tuo indirizzo IP né traccia le tue ricerche online
 
