@@ -106,3 +106,24 @@ La modalità di navigazione in incognito impedisce al tuo browser di salvare nel
 
 • Fai click su Sicurezza e seleziona Inprivate Browsing OPPURE premi insieme Ctrl + Shift + P![](/it/assets/Pic 10 InPrivate.png)
 
+## **Navigazione in anonimo**
+
+La navigazione in anonimo è una cosa diversa dalla navigazione in incognito e fornisce una sicurezza molto maggiore. Quando navighiin incognitofai in modo di non lasciare tracce delle tue attività onlinesul tuo computer: questo significa che chiunque usi il tuo computer – o il tuo cellulare, o il tuo tablet – non avrà modo di ricostruire le tue mosse. Quando navighiin anonimofai in modo che il tuo computer non lasci traccenella rete: ogni connessione internet ha un indirizzo IP che ha una localizzazione geografica facilmente rintracciabile da una persona che ne sappia un po’ di tecnologie, anche senza essere un esperto. Per esempio, anche se scrivi su un blog anonimamente, è possibile attraverso il tuo post risalire al tuo IP e quindi al luogo da cui il post è partito. La navigazione in anonimo nasconde il tuo IP e ti permette di non essere tracciatanon solo sul tuo computer ma anche nella rete.
+
+Qui di seguito come navigare in anonimo.
+
+### **Usa una rete VPN**
+
+• Usare una VPN, ossia Virtual Private Network, è un modo per camuffare il tuo IP e criptare tutto il tuo traffico su internet, così che nessuno possa sapere che cosa stai guardando online.
+
+• Reti VPN che puoi usare gratuitamente sono [OkayFreedom](http://www.okfreedom.com/en/) \(la versione gratuita ha inserzioni pubblicitarie: se non le vuoi devi comprare la versione premium\) e [TunnelBear](https://www.tunnelbear.com/).
+
+• Entrambe queste reti VPN vanno scaricate e poi installate.[Qui un po’ di informazioni](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php) su come installare OkayFreedom [qui il video](https://youtu.be/hNgZMlgRYzQ) che spiega come usare TunnelBear. In linea di massima, una volta installata la rete VPN, ogni volta che si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
+
+### ![](/it/assets/Pic 11. tunnelbear.jpg) 
+
+### **Usa Tor**
+
+Tor Browser è creato per mantenerti sempre in modalità navigazione anonima. È un modo semplice ed efficace di navigare su internet senza rivelare la tua identità. Puoi scaricare Tor Browser [qui](https://www.torproject.org/projects/torbrowser.html) dove trovi la versione in italiano per Mac, Windows e Linux. [Qui](http://www.aranzulla.it/come-proxarsi-con-tor-36233.html) trovi una guida per come installarlo e usarlo.![](/it/assets/Surfing the internet with TOR.gif)  
+
+
