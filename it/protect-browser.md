@@ -20,7 +20,7 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 5. Seleziona l’opzione** Invia una richiesta Non tenere traccia" con il tuo traffico di navigazione **cliccandoci sopra \(**Send “Do Not Track” request with your browser traffic** se in inglese\)
 
-![](/assets/Pic%201.%20Chrome%20impostazioni%20privacy.png)
 
-![](/assets/Pic%202.%20Chrome%20impostazioni%20privacy.png)
+
+
 
