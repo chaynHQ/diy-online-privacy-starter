@@ -6,6 +6,7 @@
 
 ### **Cosa puoi vedere di me?**
 
+![](/assets/FAcebook 1 bis.gif)
 
 
 ### ![](/it/assets/Facebook 2.gif)
