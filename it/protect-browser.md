@@ -116,27 +116,39 @@ Qui di seguito come navigare in anonimo.
 
 • Usare una VPN, ossia Virtual Private Network, è un modo per camuffare il tuo IP e criptare tutto il tuo traffico su internet, così che nessuno possa sapere che cosa stai guardando online.
 
-• Reti VPN che puoi usare gratuitamente sono [OkayFreedom](http://www.okfreedom.com/en/\) \(la versione gratuita ha inserzioni pubblicitarie: se non le vuoi devi comprare la versione premium\) e [TunnelBear]\(https://www.tunnelbear.com/).
+• Reti VPN che puoi usare gratuitamente sono 
+[OkayFreedom](http://www.okfreedom.com/en/) 
 
-• Entrambe queste reti VPN vanno scaricate e poi installate. [Qui un po’ di informazioni](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php\) su come installare OkayFreedom [qui il video]\(https://youtu.be/hNgZMlgRYzQ) che spiega come usare TunnelBear. In linea di massima, una volta installata la rete VPN, ogni volta che si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
+[TunnelBear](https://www.tunnelbear.com/)
+
+Entrambe queste reti VPN vanno scaricate e poi installate. 
+[Qui come installare OkayFreedom](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php\) 
+
+[Qui come usare TunnelBear](https://youtu.be/hNgZMlgRYzQ) 
+In linea di massima, una volta installata la rete VPN, ogni volta che si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
 
 ### ![](/it/assets/Pic 11. tunnelbear.jpg)
 
 ### **Usa Tor**
 
-Tor Browser è creato per mantenerti sempre in modalità navigazione anonima. È un modo semplice ed efficace di navigare su internet senza rivelare la tua identità. Puoi scaricare Tor Browser [qui](https://www.torproject.org/projects/torbrowser.html\) dove trovi la versione in italiano per Mac, Windows e Linux. [Qui]\(http://www.aranzulla.it/come-proxarsi-con-tor-36233.html\) trovi una guida per come installarlo e usarlo.![]\(/it/assets/Surfing the internet with TOR.gif\)![]\(/it/assets/Surfing the internet with TOR.gif)
+Tor Browser è creato per mantenerti sempre in modalità navigazione anonima. È un modo semplice ed efficace di navigare su internet senza rivelare la tua identità. 
+Puoi scaricare Tor Browser [qui](https://www.torproject.org/projects/torbrowser.html\) dove trovi la versione in italiano per Mac, Windows e Linux. 
+
+Trovi una guida per come installarlo e usarlo.[qui](http://www.aranzulla.it/come-proxarsi-con-tor-36233.html\) 
+
+![](/it/assets/Surfing the internet with TOR.gif)
 
 ## **Estensioni del browser**
 
-Le estensioni del browser \(che possono essere Add-ons o Plugins\), sono programmi che personalizzano o aggiungono nuove prestazioni al tuo browser. Le estensioni possono servire a proteggere la tua privacy, per esempio bloccando chiunque voglia tracciarti mentre sei online. ATTENZIONE: alcune estensioni possono invece danneggiare la privacy e rendere più facile rintracciarti come, ad esempio, Marauders Map, Hover Zoom, o Hola Unbloker \([leggi qui](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/\)\)\)\). 
+Le estensioni del browser \(che possono essere Add-ons o Plugins\), sono programmi che personalizzano o aggiungono nuove prestazioni al tuo browser. Le estensioni possono servire a proteggere la tua privacy, per esempio bloccando chiunque voglia tracciarti mentre sei online. ATTENZIONE: alcune estensioni possono invece danneggiare la privacy e rendere più facile rintracciarti come, ad esempio, Marauders Map, Hover Zoom, o Hola Unbloker [(leggi qui)](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims) 
 
 ### **Estensioni consigliate:**
 
-[HTTPS Everywhere](https://www.eff.org/https-everywhere\) rende più sicura e cripta i dati relativi alla tua navigazione ed è disponibile per Chrome, Firefox e Opera \([qui informazioni su come funziona]\(http://thestroker.altervista.org/https-everywhere/\)\)
+[HTTPS Everywhere](https://www.eff.org/https-everywhere) rende più sicura e cripta i dati relativi alla tua navigazione ed è disponibile per Chrome, Firefox e Opera ([qui informazioni su come funziona](http://thestroker.altervista.org/https-everywhere/))
 
-[Privacy Badger](https://www.eff.org/privacybadger\) che blocca il traffico dei[cookies]\(https://it.wikipedia.org/wiki/Cookie)
+[Privacy Badger](https://www.eff.org/privacybadger) che blocca il traffico dei [cookies](https://it.wikipedia.org/wiki/Cookie)
 
-[uBlock Origin](https://www.ublock.org/) che blocca le pubblicità
+[uBlock Origin](https://www.ublock.org/) che blocca le pubblicità
 
 ### **Come cancellare la cronologia del tuo browser**
 
