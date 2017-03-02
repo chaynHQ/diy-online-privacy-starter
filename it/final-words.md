@@ -22,7 +22,8 @@ Vogliamo ringraziare i nostri incredibili collaboratori e sostenitori che ci han
 
 Un grazie speciale infine a tutti i traduttori che ci hanno aiutato a tradurre la guida in tante lingue diverse: Naveedullah Pasoon \(pashto\), Muhibullah Shadan \(farsi\), Mahmoud Qudaih \(arabo\), Aisara Yessenova \(russo\), Sandra Hernandez Garrido \(spagnolo\), Mariam Faisal \(urdu\), Haude Le Guen \(francese\), Eleonora Lima \(italiano\).
 
-I nostri progetti sono sempre una sorta di “lavori in corso” e per questo ci serve il tuo aiuto per fare sempre meglio. Se hai suggerimenti o idee, scrivici all’indirizzo [info@chaynitalia.org](/info@chaynitalia.org) oppure a quello internazionela a [team@chayn.co](mailto:team@chayn.co\).
+I nostri progetti sono sempre una sorta di “lavori in corso” e per questo ci serve il tuo aiuto per fare sempre meglio. Se hai suggerimenti o idee, scrivici all’indirizzo [info@chaynitalia.org](/info@chaynitalia.org) 
+oppure a quello internazionela a [team@chayn.co](mailto:team@chayn.co\).
 
 Grazie mille per aver collaborato con noi. Il tuo lavoro può fare davvero la differenza per migliaia di donne che si sentono sole e impotenti. Il nostro compito è di far sapere a tutte loro che non è così: noi siamo qui e così tante altre come noi.
 
