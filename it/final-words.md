@@ -14,13 +14,9 @@ Come ispirazione e riferimento per costruire la nostra guida sulla sicurezza onl
 
 Per ispirazione e riferimento siamo partite da guide già esistenti sulla sicurezza online pensate per le donne; quindi abbiamo iniziato a mettere insieme i contenuti della nostra guida attraverso un processo di crowdsourcing. Gli aspetti da coprire erano molti, ma eravamo determinate a creare una guida esaustiva e allo stesso tempo facile da consultare che potesse essere d’aiuto a tutte le utenti di internet. Una volta pronta la prima versione, l’abbiamo mandata alle nostre esperte di sicurezza online, a donne uscite da relazioni abusive e a persone che avevano subito stalking e altre forme di molestie online per raccogliere le loro opinioni. Quindi abbiamo valutato i commenti ricevuti e li abbiamo inclusi nella guida, in modo da renderla più inclusiva possibile. A quel punto abbiamo inserito Securikitty \(miaaaao!\) per aggiungere un elemento divertente che rendesse la guida meno didattica e sollevasse un po’ l’umore di chi legge: anche in una situazione difficile come quando si sta cercando di proteggere noi stesse e la nostra sicurezza, crediamo che tenersi su di morale possa aiutare a rimanere forti e positive.
 
-Se questa guida ti è sembrata utile, forse potrebbero interessarti anche le altre risorse online che abbiamo creato come il pacchetto [Come costruire il tuo caso di violenza domestica](http://chaynitalia.org/come-costruire-il-tuo-caso-di-violenza-domestica/), le informazioni riguardanti gli abusi domestici in 
+Se questa guida ti è sembrata utile, forse potrebbero interessarti anche le altre risorse online che abbiamo creato, come il pacchetto [Come costruire il tuo caso di violenza domestica](http://chaynitalia.org/come-costruire-il-tuo-caso-di-violenza-domestica/) 
 
-[Italia](http://chaynitalia.org/)
-
-, [Pakistan](http://chaynpakistan.org/\) e 
-
-[India](http://chaynindia.com/\). Alcune di queste informazioni sono solo in inglese per ora, ma stiamo lavorando per tradurle.
+e le informazioni riguardanti gli abusi domestici in [Italia](http://chaynitalia.org/), [Pakistan](http://chaynpakistan.org/) e [India](http://chaynindia.com/). Alcune di queste informazioni sono solo in inglese per ora, ma stiamo lavorando per tradurle. Alcune di queste informazioni sono solo in inglese per ora, ma stiamo lavorando per tradurle.
 
 I contenuti di questo documento usano una licenza [Attribuzione – Condividi allo stesso modo 4.0 Internazionale \(CC BY-SA 4.0\)](https://creativecommons.org/licenses/by-sa/4.0/deed.it\), perciò hai il permesso di condividere e modificare il contenuto, ma ti chiediamo di specificare la fonte.
 
