@@ -20,7 +20,7 @@ Se leggendo ti sei accorta ora di aver divulgato senza saperlo informazioni sul 
 
 • Rifletti bene prima di decidere di pubblicare qualcosa sui social media \(per come fare, vedi la sezioneSocial media e apparecchi elettronici\)
 
-• Usa di preferenza chat anonime e cancella ogni volta la cronologia delle chat \(in WhatsApp, Skype, Google Talk, Messenger, ecc.\). Qui puoi trovare le istruzioni su come cancellare la cronologia di molte chat e social media: [http://www.aranzulla.it/?s=come+cancellare+la+cronologia](http://www.aranzulla.it/?s=come+cancellare+la+cronologia)
+• Usa di preferenza chat anonime e cancella ogni volta la cronologia delle chat \(in WhatsApp, Skype, Google Talk, Messenger, ecc.\). Puoi trovare le istruzioni su come cancellare la cronologia di molte chat e social media [qui.](http://www.aranzulla.it/?s=come+cancellare+la+cronologia)
 
 Ricordati che chi vuole rintracciarti potrebbe anche tenere d’occhio gli apparecchi elettronici di chi è in contatto con te, inclusi i tuoi figli o chiunque vive nella stessa casa. La tua sicurezza, insomma, dipende anche dai tuoi amici e dai componenti della tua famiglia.
 
