@@ -116,14 +116,51 @@ Qui di seguito come navigare in anonimo.
 
 • Usare una VPN, ossia Virtual Private Network, è un modo per camuffare il tuo IP e criptare tutto il tuo traffico su internet, così che nessuno possa sapere che cosa stai guardando online.
 
-• Reti VPN che puoi usare gratuitamente sono [OkayFreedom](http://www.okfreedom.com/en/) \(la versione gratuita ha inserzioni pubblicitarie: se non le vuoi devi comprare la versione premium\) e [TunnelBear](https://www.tunnelbear.com/).
+• Reti VPN che puoi usare gratuitamente sono [OkayFreedom](http://www.okfreedom.com/en/\) \(la versione gratuita ha inserzioni pubblicitarie: se non le vuoi devi comprare la versione premium\) e [TunnelBear]\(https://www.tunnelbear.com/).
 
-• Entrambe queste reti VPN vanno scaricate e poi installate.[Qui un po’ di informazioni](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php) su come installare OkayFreedom [qui il video](https://youtu.be/hNgZMlgRYzQ) che spiega come usare TunnelBear. In linea di massima, una volta installata la rete VPN, ogni volta che si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
+• Entrambe queste reti VPN vanno scaricate e poi installate.[Qui un po’ di informazioni](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php\) su come installare OkayFreedom [qui il video]\(https://youtu.be/hNgZMlgRYzQ) che spiega come usare TunnelBear. In linea di massima, una volta installata la rete VPN, ogni volta che si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
 
-### ![](/it/assets/Pic 11. tunnelbear.jpg) 
+### ![](/it/assets/Pic 11. tunnelbear.jpg)
 
 ### **Usa Tor**
 
-Tor Browser è creato per mantenerti sempre in modalità navigazione anonima. È un modo semplice ed efficace di navigare su internet senza rivelare la tua identità. Puoi scaricare Tor Browser [qui](https://www.torproject.org/projects/torbrowser.html) dove trovi la versione in italiano per Mac, Windows e Linux. [Qui](http://www.aranzulla.it/come-proxarsi-con-tor-36233.html) trovi una guida per come installarlo e usarlo.![](/it/assets/Surfing the internet with TOR.gif)  
+Tor Browser è creato per mantenerti sempre in modalità navigazione anonima. È un modo semplice ed efficace di navigare su internet senza rivelare la tua identità. Puoi scaricare Tor Browser [qui](https://www.torproject.org/projects/torbrowser.html\) dove trovi la versione in italiano per Mac, Windows e Linux. [Qui]\(http://www.aranzulla.it/come-proxarsi-con-tor-36233.html\) trovi una guida per come installarlo e usarlo.![]\(/it/assets/Surfing the internet with TOR.gif)![](/it/assets/Surfing the internet with TOR.gif)
 
+## **Estensioni del browser**
+
+Le estensioni del browser \(che possono essere Add-ons o Plugins\), sono programmi che personalizzano o aggiungono nuove prestazioni al tuo browser. Le estensioni possono servire a proteggere la tua privacy, per esempio bloccando chiunque voglia tracciarti mentre sei online. ATTENZIONE: alcune estensioni possono invece danneggiare la privacy e rendere più facile rintracciarti come, ad esempio, Marauders Map, Hover Zoom, o Hola Unbloker \([leggi qui](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims/)\).
+
+### **Estensioni consigliate:**
+
+[HTTPS Everywhere](https://www.eff.org/https-everywhere) rende più sicura e cripta i dati relativi alla tua navigazione ed è disponibile per Chrome, Firefox e Opera \([qui informazioni su come funziona](http://thestroker.altervista.org/https-everywhere/)\)
+
+[Privacy Badger](https://www.eff.org/privacybadger) che blocca il traffico dei[cookies](https://it.wikipedia.org/wiki/Cookie)
+
+[uBlock Origin](https://www.ublock.org/) che blocca le pubblicità
+
+### **Come cancellare la cronologia del tuo browser**
+
+#### **Se usi Chrome**
+
+• Apri Chrome sul computer e fai clic su **Altro** ![](https://lh3.googleusercontent.com/IQacfCiJLdJCWS6nQ8lKu9JBq7HpB4DuhPngLtOQI0zLzsD519uCfuTOMIZ1yCFEzXITVN1Z4iILT_y7pH5uaQxFS5cbODpMpruUSPx6Jtk4lNzgaAAL-IDZJpd7iz-vn9UQoeWdhDXGFXmLmA "ltro") in alto a destra.
+
+• Fai clic su **Cronologia **![](https://lh3.googleusercontent.com/vVEFoOq9ugXrC1aHv6BdVqErVFdXlPAZPG1aG4-BnVNMfvBlsSR55ZF3WisukWnKoukIRCoPuDrF8hM9A09P3YqyrNaFIKdAwdi5t_mitzPlEhfiInaYYY6rtBM7F2ErW63SUQ4tmPem_TT9Vg " poi")
+
+• A sinistra, fai clic su **Cancella dati di navigazione**. Verrà visualizzata una finestra.
+
+• Nel menu a tendina, seleziona il periodo della cronologia da eliminare. Per cancellare tutti i dati, seleziona tutto.
+
+#### **Se usi Firefox**
+
+• Fai clic sul pulsante del menu ![](https://lh6.googleusercontent.com/Rd3dyh7JOq6S9I0NlQzMu_7bEe2Lv9XSdNkqInQxq3V8tBAMfipzUnGqDuk3DAjhjGxb6-X_-Iua-IX2d9OpDhrPcVTtYiEmheyRJ6EYl9xIMudNB8O662uK5WqY0GfSMXTcy33W2XQlUURNdA "ew Fx Menu")
+
+• Seleziona **Cronologia** e poi seleziona **Cancella la cronologia recente**
+
+• Seleziona quali dati eliminare: fai clic sul menu a tendina **Intervallo di tempo da cancellare** per scegliere quanta cronologia eliminare. Se vuoi cancellare tutta la cronologia, seleziona tutto.
+
+### **Estensioni consigliate per fare pulizia nel tuo computer**
+
+[CCleaner](http://www.piriform.com/ccleaner) \([Leggi qui](https://articoli.it.softonic.com/come-pulire-il-pc-con-ccleaner-senza-aprire-il-programma) per avere istruzioni su come installarlo e usarlo\)
+
+[BleachBit](http://www.bleachbit.org/) \([Leggi qui](http://verytech.smartworld.it/come-usare-bleachbit-60253.html#steps_0) per avere istruzioni su come installarlo e usarlo\)
 
