@@ -20,9 +20,9 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 5. Seleziona l’opzione** Invia una richiesta Non tenere traccia" con il tuo traffico di navigazione **cliccandoci sopra \(**Send “Do Not Track” request with your browser traffic** se in inglese\)
 
-![](/it/assets/Chrome%20impostazioni%20privacy.png)
+![](/it/assets/Chrome impostazioni privacy.png)
 
-![](/it/assets/Pic%202.%20Chrome%20impostazioni%20privacy.png)
+![](/it/assets/Pic 2. Chrome impostazioni privacy.png)
 
 **Se usi Firefox**
 
@@ -34,11 +34,11 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 4. Fai clic su **Gestire le impostazioni relative a Do Not Track**
 
-5. Seleziona la casella **Utilizza sempre Do Not Track**![](/assets/Images%20OSG%20italian/Pic%203.%20Firefox.png)
+5. Seleziona la casella **Utilizza sempre Do Not Track**
 
 6. Fai clic su **OK**
 
-7. Chiudi la pagina **about: preferences**. Le eventuali modifiche apportate verranno salvate automaticamente.
+7. Chiudi la pagina **about: preferences**. Le eventuali modifiche apportate verranno salvate automaticamente.![](/it/assets/Pic 3. Firefox.png)
 
 #### **Se usi Safari**
 
@@ -48,7 +48,7 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 3. Nella sezione **Limita accesso dei siti web a servizi di localizzazione** seleziona l’opzione **Rifiuta senza chiedere**
 
-![](/assets/Images%20OSG%20italian/Pic%204%20Safari.jpg)
+![](/it/assets/Pic 4 Safari.jpg)
 
 #### **Se usi Explorer**
 
@@ -60,7 +60,7 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 4. Seleziona **Elenco personalizzato** e poi fai click su **Attiva**
 
-![](/assets/Images%20OSG%20italian/Pic%205%20Explorer.png)
+![](/assets/Images OSG italian/Pic 5 Explorer.png)
 
 ### **Browser e motori di ricerca alternativi**
 
