@@ -35,7 +35,7 @@
 
 • disattiva la Connessione dati \(Impostazioni &gt; Reti mobili &gt; Connessioni dati &gt; disattiva\)
 
-Ricorda: attiva questi servizi di geo-localizzazione solo quando ti servono. È importante che di norma rimangano spenti, perché questo riduce molto sia il rischio che venga rintracciata la tua posizione, sia il flusso di dati indesiderato trasmesso dalle applicazioni del tuo telefono o in remoto dal tuo operatore telefonico. In più, tenerli spenti ti fa durare la batteria molto più a lungo. \(Informazioni prese dal sito: https://securityinabox.org/en/guide/basic-security/android/)
+Ricorda: attiva questi servizi di geo-localizzazione solo quando ti servono. È importante che di norma rimangano spenti, perché questo riduce molto sia il rischio che venga rintracciata la tua posizione, sia il flusso di dati indesiderato trasmesso dalle applicazioni del tuo telefono o in remoto dal tuo operatore telefonico. In più, tenerli spenti ti fa durare la batteria molto più a lungo. \(Informazioni prese da [questo sito.)](https://securityinabox.org/en/guide/basic-security/android/)
 
 [Leggi anche qui](http://it.wikihow.com/Disattivare-il-GPS-su-un-Dispositivo-Android) per maggiori informazioni su come disattivare il GPS.
 
