@@ -6,9 +6,9 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 ![](/en/assets/cover_laptop_cam.gif)
 
-### **Come non essere tracciabili**
+## **Come non essere tracciabili**
 
-#### **Se usi Chrome**
+### **Se usi Chrome**
 
 1. Apri Chrome sul computer.
 
@@ -24,7 +24,7 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 ![](/it/assets/Pic 2. Chrome impostazioni privacy.png)
 
-**Se usi Firefox**
+### **Se usi Firefox**
 
 1. Apri Firefox sul tuo computer
 
@@ -40,7 +40,7 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 7. Chiudi la pagina **about: preferences**. Le eventuali modifiche apportate verranno salvate automaticamente.![](/it/assets/Pic 3. Firefox.png)
 
-#### **Se usi Safari**
+### **Se usi Safari**
 
 1. Apri Safari e seleziona **Preferenze** \(clicca in alto a sinistra e scegli dal menù a tendina\)
 
@@ -50,7 +50,7 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 ![](/it/assets/Pic 4 Safari.jpg)
 
-#### **Se usi Explorer**
+### **Se usi Explorer**
 
 1. Apri Explorer sul tuo computer e clicca su **Strumenti** \(quello con l’icona a forma di rotella\)
 
@@ -60,9 +60,9 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 4. Seleziona **Elenco personalizzato** e poi fai click su **Attiva**
 
-![](/assets/Images OSG italian/Pic 5 Explorer.png)
+![](/it/assets/Pic 5 Explorer.png)
 
-### **Browser e motori di ricerca alternativi**
+## **Browser e motori di ricerca alternativi**
 
 • [Brave](https://www.brave.com/) è un browser che blocca automaticamente le pubblicità e chiunque provi a tracciarti
 
@@ -71,4 +71,38 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 • [DuckDuckGo](https://duckduckgo.com/about) è un motore di ricerca privato che non traccia i suoi utenti
 
 • [StartPage](https://www.startpage.com/) è un motore di ricerca privato che non registra il tuo indirizzo IP né traccia le tue ricerche online
+
+## **Navigazione in incognito**
+
+La modalità di navigazione in incognito impedisce al tuo browser di salvare nella tua cronologia i siti che visiti e le cose che scarichi, così da non lasciare nessuna traccia a cui qualcuno potrebbe avere accesso. Qui di seguito come navigare in incognito.
+
+### ** Navigazione in incognito con Chrome**
+
+• Apri Google Chrome
+
+•Fai clic sul pulsante del menu ![](https://lh6.googleusercontent.com/Rd3dyh7JOq6S9I0NlQzMu_7bEe2Lv9XSdNkqInQxq3V8tBAMfipzUnGqDuk3DAjhjGxb6-X_-Iua-IX2d9OpDhrPcVTtYiEmheyRJ6EYl9xIMudNB8O662uK5WqY0GfSMXTcy33W2XQlUURNdA "ew Fx Menu") e seleziona **Nuova finestra di navigazione in incognito **OPPURE premi insieme Ctrl + Shift + N \(oppure Command + Shift + N se hai un Mac\) e ti si aprirà la finestra di navigazione in incognito.
+
+![](/it/assets/Pic 7 chrome incognito.jpg)
+
+### **Navigazione in incognito con Firefox**
+
+• Apri Firefox
+
+• Fai clic sul pulsante del menu ![](https://lh6.googleusercontent.com/Rd3dyh7JOq6S9I0NlQzMu_7bEe2Lv9XSdNkqInQxq3V8tBAMfipzUnGqDuk3DAjhjGxb6-X_-Iua-IX2d9OpDhrPcVTtYiEmheyRJ6EYl9xIMudNB8O662uK5WqY0GfSMXTcy33W2XQlUURNdA "ew Fx Menu") e seleziona **Finestra anonima** OPPURE premi insieme Ctrl + Shift + P \(oppure Command + Shift + P se hai un Mac\) e ti si aprirà la finestra di navigazione in incognito.
+
+![](/it/assets/Pic 8 Firefox incognito.png)
+
+### **Navigazione in incognito con Safari**
+
+• Apri Safari
+
+• Clicca su **File** in alto a sinistra e seleziona **Nuova finestra privata **OPPURE premi insieme Command + Shift + N e ti si aprirà la finestra di navigazione in incognito.
+
+![](/it/assets/Pic 9 Safari incognito.png)
+
+### **Navigazione in incognito con InPrivate di Explorer**
+
+• Apri Internet Explorer
+
+• Fai click su Sicurezza e seleziona Inprivate Browsing OPPURE premi insieme Ctrl + Shift + P![](/it/assets/Pic 10 InPrivate.png)
 
