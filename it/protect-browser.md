@@ -144,11 +144,17 @@ Le estensioni del browser \(che possono essere Add-ons o Plugins\), sono program
 
 ### **Estensioni consigliate:**
 
-[HTTPS Everywhere](https://www.eff.org/https-everywhere) rende più sicura e cripta i dati relativi alla tua navigazione ed è disponibile per Chrome, Firefox e Opera ([qui informazioni su come funziona](http://thestroker.altervista.org/https-everywhere/))
+[• HTTPS Everywhere](https://www.eff.org/https-everywhere) 
 
-[Privacy Badger](https://www.eff.org/privacybadger) che blocca il traffico dei [cookies](https://it.wikipedia.org/wiki/Cookie)
+Rende più sicura e cripta i dati relativi alla tua navigazione ed è disponibile per Chrome, Firefox e Opera [(qui informazioni su come funziona)](http://thestroker.altervista.org/https-everywhere/)
 
-[uBlock Origin](https://www.ublock.org/) che blocca le pubblicità
+[• Privacy Badger](https://www.eff.org/privacybadger) 
+
+Blocca il traffico dei [cookies](https://it.wikipedia.org/wiki/Cookie)
+
+[• uBlock Origin](https://www.ublock.org/) 
+
+Blocca le pubblicità
 
 ### **Come cancellare la cronologia del tuo browser**
 
@@ -172,7 +178,11 @@ Le estensioni del browser \(che possono essere Add-ons o Plugins\), sono program
 
 ### **Estensioni consigliate per fare pulizia nel tuo computer**
 
-[CCleaner](http://www.piriform.com/ccleaner\) \([Leggi qui]\(https://articoli.it.softonic.com/come-pulire-il-pc-con-ccleaner-senza-aprire-il-programma\) per avere istruzioni su come installarlo e usarlo\)
+[•CCleaner](http://www.piriform.com/ccleaner\)
 
-[BleachBit](http://www.bleachbit.org/\) \([Leggi qui]\(http://verytech.smartworld.it/come-usare-bleachbit-60253.html#steps_0\) per avere istruzioni su come installarlo e usarlo\)
+Per avere istruzioni su come installarlo e usarlo [leggi qui](https://articoli.it.softonic.com/come-pulire-il-pc-con-ccleaner-senza-aprire-il-programma\) \)
+
+[• BleachBit](http://www.bleachbit.org/\) 
+
+Per avere istruzioni su come installarlo e usarlo [leggi qui](http://verytech.smartworld.it/come-usare-bleachbit-60253.html#steps_0\)
 
