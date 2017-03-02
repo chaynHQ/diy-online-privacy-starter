@@ -55,17 +55,17 @@ Ricorda: attiva questi servizi di geo-localizzazione solo quando ti servono. È 
 
 Leggi anche (in italiano):
 
-[https://www.poliziadistato.it/articolo/40277](https://www.poliziadistato.it/articolo/40277)  
+[Consigli per usare i social network – Polizia di Stato](https://www.poliziadistato.it/articolo/40277)  
 
-[http://www.donnamoderna.com/news/tendenze/sicurezza-online-social-network-facebook-cellulare](http://www.donnamoderna.com/news/tendenze/sicurezza-online-social-network-facebook-cellulare)
+[Consigli per usare i social network in sicurezza – Donna Moderna](http://www.donnamoderna.com/news/tendenze/sicurezza-online-social-network-facebook-cellulare)
 
 
 
 ### **Altri suggerimenti importanti**
 
-• Importante: Fai il [Test sulla privacy online](https://drive.google.com/open?id=1ncJSuYvbiTFA9bxaruaMXwupwPSljJ-iEq0C3ydGEi8)
+• Importante: fai il [Test sulla privacy online](https://drive.google.com/open?id=1ncJSuYvbiTFA9bxaruaMXwupwPSljJ-iEq0C3ydGEi8)
 
-• Crea un **Google Alert** per il tuo nome e/o il tuo indirizzo email. In questo modo verrai avvertita ogni volta che qualcuno metterà online il tuo nome o la tua email. [Qui le istruzioni per come fare](https://drive.google.com/open?id=1ncJSuYvbiTFA9bxaruaMXwupwPSljJ-iEq0C3ydGEi8)
+• Crea un **Google Alert** per il tuo nome e/o il tuo indirizzo email. In questo modo verrai avvertita ogni volta che qualcuno metterà online il tuo nome o la tua email. [Qui le istruzioni per come fare.](https://drive.google.com/open?id=1ncJSuYvbiTFA9bxaruaMXwupwPSljJ-iEq0C3ydGEi8)
 
 
 
