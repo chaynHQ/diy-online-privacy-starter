@@ -1,6 +1,8 @@
 # **Social media e apparecchi elettronici**
 
-## ![](/assets/sad%20cat.png)**Facebook**
+![](/assets/sad%20cat.png)
+
+**Facebook**
 
 ### **Cosa puoi vedere di me?**
 
