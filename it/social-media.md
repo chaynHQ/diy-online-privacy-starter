@@ -1,6 +1,6 @@
 # **Social media e apparecchi elettronici**
 
-![](/en/assets/sad%20cat.png)
+![](https://drive.google.com/open?id=0B5x_HWwnrl5IY1A5eU5Db1k3NlE)
 
 ## **Facebook**
 
