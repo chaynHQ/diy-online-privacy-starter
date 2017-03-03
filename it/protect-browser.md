@@ -4,7 +4,7 @@
 
 Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo browser con [Panopticlick](https://panopticlick.eff.org/) e poi... copri la tua webcam!
 
-![](/en/assets/cover_laptop_cam.gif)
+![](assets/cover_laptop_cam.gif)
 
 ## **Come non essere tracciabili**
 
@@ -20,9 +20,9 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 5. Seleziona l’opzione** Invia una richiesta "Non tenere traccia" con il tuo traffico di navigazione **cliccandoci sopra \(**Send “Do Not Track” request with your browser traffic** se in inglese\)
 
-![](/it/assets/Chrome impostazioni privacy.png)
+![](assets/Chrome impostazioni privacy.png)
 
-![](/it/assets/Pic 2. Chrome impostazioni privacy.png)
+![](assets/Pic 2. Chrome impostazioni privacy.png)
 
 ### **Se usi Firefox**
 
@@ -38,7 +38,7 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 6. Fai clic su **OK**
 
-7. Chiudi la pagina **about: preferences**. Le eventuali modifiche apportate verranno salvate automaticamente.![](/it/assets/Pic 3. Firefox.png)
+7. Chiudi la pagina **about: preferences**. Le eventuali modifiche apportate verranno salvate automaticamente.![](assets/Pic 3. Firefox.png)
 
 ### **Se usi Safari**
 
@@ -48,7 +48,7 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 3. Nella sezione **Limita accesso dei siti web a servizi di localizzazione** seleziona l’opzione **Rifiuta senza chiedere**
 
-![](/it/assets/Pic 4 Safari.jpg)
+![](assets/Pic 4 Safari.jpg)
 
 ### **Se usi Explorer**
 
@@ -60,7 +60,7 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 4. Seleziona **Elenco personalizzato** e poi fai click su **Attiva**
 
-![](/it/assets/Pic 5 Explorer.png)
+![](assets/Pic 5 Explorer.png)
 
 ## **Browser e motori di ricerca alternativi**
 
@@ -82,7 +82,7 @@ La modalità di navigazione in incognito impedisce al tuo browser di salvare nel
 
 •Fai clic sul pulsante del menu ![](https://lh6.googleusercontent.com/Rd3dyh7JOq6S9I0NlQzMu_7bEe2Lv9XSdNkqInQxq3V8tBAMfipzUnGqDuk3DAjhjGxb6-X_-Iua-IX2d9OpDhrPcVTtYiEmheyRJ6EYl9xIMudNB8O662uK5WqY0GfSMXTcy33W2XQlUURNdA "ew Fx Menu") e seleziona **Nuova finestra di navigazione in incognito **OPPURE premi insieme Ctrl + Shift + N \(oppure Command + Shift + N se hai un Mac\) e ti si aprirà la finestra di navigazione in incognito.
 
-![](/it/assets/Pic 7 chrome incognito.jpg)
+![](assets/Pic 7 chrome incognito.jpg)
 
 ### **Navigazione in incognito con Firefox**
 
@@ -90,7 +90,7 @@ La modalità di navigazione in incognito impedisce al tuo browser di salvare nel
 
 • Fai clic sul pulsante del menu ![](https://lh6.googleusercontent.com/Rd3dyh7JOq6S9I0NlQzMu_7bEe2Lv9XSdNkqInQxq3V8tBAMfipzUnGqDuk3DAjhjGxb6-X_-Iua-IX2d9OpDhrPcVTtYiEmheyRJ6EYl9xIMudNB8O662uK5WqY0GfSMXTcy33W2XQlUURNdA "ew Fx Menu") e seleziona **Finestra anonima** OPPURE premi insieme Ctrl + Shift + P \(oppure Command + Shift + P se hai un Mac\) e ti si aprirà la finestra di navigazione in incognito.
 
-![](/it/assets/Pic 8 Firefox incognito.png)
+![](assets/Pic 8 Firefox incognito.png)
 
 ### **Navigazione in incognito con Safari**
 
@@ -98,13 +98,13 @@ La modalità di navigazione in incognito impedisce al tuo browser di salvare nel
 
 • Clicca su **File** in alto a sinistra e seleziona **Nuova finestra privata **OPPURE premi insieme Command + Shift + N e ti si aprirà la finestra di navigazione in incognito.
 
-![](/it/assets/Pic 9 Safari incognito.png)
+![](assets/Pic 9 Safari incognito.png)
 
 ### **Navigazione in incognito con InPrivate di Explorer**
 
 • Apri Internet Explorer
 
-• Fai click su Sicurezza e seleziona Inprivate Browsing OPPURE premi insieme Ctrl + Shift + P![](/it/assets/Pic 10 InPrivate.png)
+• Fai click su Sicurezza e seleziona Inprivate Browsing OPPURE premi insieme Ctrl + Shift + P![](assets/Pic 10 InPrivate.png)
 
 ## **Navigazione in anonimo**
 
@@ -127,7 +127,7 @@ Entrambe queste reti VPN vanno scaricate e poi installate.
 [Qui come usare TunnelBear](https://youtu.be/hNgZMlgRYzQ) 
 In linea di massima, una volta installata la rete VPN, ogni volta che si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
 
-### ![](/it/assets/Pic 11. tunnelbear.jpg)
+### ![](assets/Pic 11. tunnelbear.jpg)
 
 ### **Usa Tor**
 
@@ -136,7 +136,7 @@ Puoi scaricare Tor Browser [qui](https://www.torproject.org/projects/torbrowser.
 
 Trovi una guida per come installarlo e usarlo.[qui](http://www.aranzulla.it/come-proxarsi-con-tor-36233.html\) 
 
-![](/it/assets/Surfing the internet with TOR.gif)
+![](assets/Surfing the internet with TOR.gif)
 
 ## **Estensioni del browser**
 
