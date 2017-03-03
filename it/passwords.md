@@ -2,7 +2,7 @@
 
 Cinque passaggi per combattere una delle cause principali della vulnerabilità online
 
-![](/it/assets/password_sicura.gif)
+![](assets/password_sicura.gif)
 
 Ecco alcune facili mosse per combattere le cause più comuni della vulnerabilità online
 
