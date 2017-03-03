@@ -1,29 +1,29 @@
 # **Social media e apparecchi elettronici**
 
-![](/it/assets/sad cat.png)
+![](assets/sad cat.png)
 
 ## **Facebook**
 
 ### **Cosa puoi vedere di me?**
 
-![](/assets/FAcebook 1 bis.gif)
+![](assets/FAcebook 1 bis.gif)
 
 
-### ![](/it/assets/Facebook 2.gif)
+### ![](assets/Facebook 2.gif)
 
 ### **Chi mi può contattare?**
 
-### ![](/it/assets/Facebook 3.gif)
+### ![](assets/Facebook 3.gif)
 
 ### **Come faccio a bloccare qualcuno che mi importuna?**
 
-### ![](/it/assets/Facebook 4.gif)
+### ![](assets/Facebook 4.gif)
 
 ## **Twitter**
 
 ### **Sicurezza & Privacy**
 
-![](/it/assets/Twitter - Security  and privacy.gif)
+![](assets/Twitter - Security  and privacy.gif)
 
 ## **Apparecchi elettronici: disabilita la geo-localizzazione**
 
