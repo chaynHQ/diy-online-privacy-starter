@@ -1,4 +1,4 @@
-# **Fai tutto il necessario per sentirti completamente al sicuro**
+## **Fai tutto il necessario per sentirti completamente al sicuro**
 
 Speriamo che questa guida ti sia piaciuta e soprattutto ti sia stata utile.
 
