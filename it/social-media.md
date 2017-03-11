@@ -43,7 +43,7 @@ Per maggiori informazioni su come disattivare il GPS [leggi qui](http://it.wikih
 
 • disattiva la Wi-Fi \(Impostazioni &gt; Wi-Fi &gt; disattiva\)
 
-• disattiva il GPS \(Impostazioni &gt; Privacy &gt; Localizzazione. A questo punto avrai una lista di applicazioni da poter scegliere fra cui Facebook e Trova il mio iPhone; per disattivare il tracciamento della posizione puoi selezionare le applicazioni che vuoi disabilitare o anche tutte. Se vuoi disattivare la localizzazione interamente spegni proprio l’impostazione Localizzazione invece che selezionare le applicazioni una per una.
+• disattiva il GPS \(Impostazioni &gt; Privacy &gt; Localizzazione). A questo punto avrai una lista di applicazioni da poter scegliere fra cui Facebook e Trova il mio iPhone; per disattivare il tracciamento della posizione puoi selezionare le applicazioni che vuoi disabilitare o anche tutte. Se vuoi disattivare la localizzazione interamente spegni proprio l’impostazione Localizzazione invece che selezionare le applicazioni una per una.
 
 ## **Applicazioni di messaggistica**
 
