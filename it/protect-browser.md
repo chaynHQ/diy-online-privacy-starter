@@ -80,7 +80,7 @@ La modalità di navigazione in incognito impedisce al tuo browser di salvare nel
 
 • Apri Google Chrome
 
-•Fai clic sul pulsante del menu ![](https://lh6.googleusercontent.com/Rd3dyh7JOq6S9I0NlQzMu_7bEe2Lv9XSdNkqInQxq3V8tBAMfipzUnGqDuk3DAjhjGxb6-X_-Iua-IX2d9OpDhrPcVTtYiEmheyRJ6EYl9xIMudNB8O662uK5WqY0GfSMXTcy33W2XQlUURNdA "ew Fx Menu") e seleziona **Nuova finestra di navigazione in incognito **OPPURE premi insieme Ctrl + Shift + N \(oppure Command + Shift + N se hai un Mac\) e ti si aprirà la finestra di navigazione in incognito.
+• Fai clic sul pulsante del menu ![](https://lh6.googleusercontent.com/Rd3dyh7JOq6S9I0NlQzMu_7bEe2Lv9XSdNkqInQxq3V8tBAMfipzUnGqDuk3DAjhjGxb6-X_-Iua-IX2d9OpDhrPcVTtYiEmheyRJ6EYl9xIMudNB8O662uK5WqY0GfSMXTcy33W2XQlUURNdA "ew Fx Menu") e seleziona **Nuova finestra di navigazione in incognito **OPPURE premi insieme Ctrl + Shift + N \(oppure Command + Shift + N se hai un Mac\) e ti si aprirà la finestra di navigazione in incognito.
 
 ![](assets/Pic 7 chrome incognito.jpg)
 
