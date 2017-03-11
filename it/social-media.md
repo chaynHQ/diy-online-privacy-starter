@@ -37,7 +37,7 @@
 
 Ricorda: attiva questi servizi di geo-localizzazione solo quando ti servono. È importante che di norma rimangano spenti, perché questo riduce molto sia il rischio che venga rintracciata la tua posizione, sia il flusso di dati indesiderato trasmesso dalle applicazioni del tuo telefono o in remoto dal tuo operatore telefonico. In più, tenerli spenti ti fa durare la batteria molto più a lungo. \(Informazioni prese da [questo sito](https://securityinabox.org/en/guide/basic-security/android/)).
 
-[Leggi anche qui](http://it.wikihow.com/Disattivare-il-GPS-su-un-Dispositivo-Android) per maggiori informazioni su come disattivare il GPS.
+Per maggiori informazioni su come disattivare il GPS [leggi qui](http://it.wikihow.com/Disattivare-il-GPS-su-un-Dispositivo-Android).
 
 #### ** Come mettere in sicurezza un telefono iPhone:**
 
@@ -65,7 +65,7 @@ Leggi anche (in italiano):
 
 • Importante: fai il [Test sulla privacy online](https://drive.google.com/open?id=1ncJSuYvbiTFA9bxaruaMXwupwPSljJ-iEq0C3ydGEi8)
 
-• Crea un **Google Alert** per il tuo nome e/o il tuo indirizzo email. In questo modo verrai avvertita ogni volta che qualcuno metterà online il tuo nome o la tua email. [Qui le istruzioni per come fare.](https://drive.google.com/open?id=1ncJSuYvbiTFA9bxaruaMXwupwPSljJ-iEq0C3ydGEi8)
+• Crea un **Google Alert** per il tuo nome e/o il tuo indirizzo email. In questo modo verrai avvertita ogni volta che qualcuno metterà online il tuo nome o la tua email. [Qui](https://drive.google.com/open?id=1ncJSuYvbiTFA9bxaruaMXwupwPSljJ-iEq0C3ydGEi8)  istruzioni per come fare.
 
 
 
