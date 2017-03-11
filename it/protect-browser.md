@@ -66,7 +66,7 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 • [Brave](https://www.brave.com/) è un browser che blocca automaticamente le pubblicità e chiunque provi a tracciarti
 
-• [Tor](https://it.wikipedia.org/wiki/Tor_\(software\)) è un software di browsing che permette di navigare su internet in completo anonimato
+• [Tor](https://it.wikipedia.org/wiki/Tor_\(software\) è un software di browsing che permette di navigare su internet in completo anonimato
 
 • [DuckDuckGo](https://duckduckgo.com/about) è un motore di ricerca privato che non traccia i suoi utenti
 
