@@ -18,7 +18,7 @@ Chiediti:
 
 [Fai questo test](https://docs.google.com/document/d/1ncJSuYvbiTFA9bxaruaMXwupwPSljJ-iEq0C3ydGEi8/edit?usp=drive_web) per capire qual è il tuo livello di sicurezza online.
 
-Soltanto tu puoi sapere quali apparecchi elettronici usi, quali applicazioni e servizi utilizzi, come li usi e per quali scopi. Tieni a mente tutto questo nel momento in cui decidi quale strategia utilizzare per essere sicura online e ricorda che potrebbero essere necessari dei cambiamenti per quel che riguarda le tue abitudini. Questo potrebbe causare delle complicazioni o limitazioni, quindi scegli la strategia e i consigli che fanno meglio al caso tuo.
+Soltanto tu puoi sapere quali dispositivi elettronici usi, quali applicazioni e servizi utilizzi, come li usi e per quali scopi. Tieni a mente tutto questo nel momento in cui decidi quale strategia utilizzare per essere sicura online e ricorda che potrebbero essere necessari dei cambiamenti per quel che riguarda le tue abitudini. Questo potrebbe causare delle complicazioni o limitazioni, quindi scegli la strategia e i consigli che fanno meglio al caso tuo.
 
 ### **Dispositivi elettronici e applicazioni**
 
