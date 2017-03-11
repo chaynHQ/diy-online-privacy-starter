@@ -162,7 +162,7 @@ Le estensioni del browser \(che possono essere Add-ons o Plugins\) sono programm
 
 ### **Estensioni consigliate per fare pulizia nel tuo computer**
 
-[•CCleaner](http://www.piriform.com/ccleaner\) per avere istruzioni su come installarlo e usarlo [leggi qui](https://articoli.it.softonic.com/come-pulire-il-pc-con-ccleaner-senza-aprire-il-programma\) \)
+[• CCleaner](http://www.piriform.com/ccleaner\) per avere istruzioni su come installarlo e usarlo [leggi qui](https://articoli.it.softonic.com/come-pulire-il-pc-con-ccleaner-senza-aprire-il-programma\)
 
 [• BleachBit](http://www.bleachbit.org/\) per avere istruzioni su come installarlo e usarlo [leggi qui](http://verytech.smartworld.it/come-usare-bleachbit-60253.html#steps_0\)
 
