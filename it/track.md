@@ -16,7 +16,7 @@ Se leggendo ti sei accorta ora di aver divulgato senza saperlo informazioni sul 
 
 • Fai "log out" dai social media dopo ogni visita: chi cerca di tracciarti non riuscirà a trovare te né nessuno dei tuoi contatti quando non sei loggata \(di solito l’opzione Esci da cliccare è in alto a sinistra\)
 
-• Installa un’estensione del browser che blocchi chi cerca di rintracciarti e migliori la tua privacy \(per come fare, vedi la sezione della guida **Proteggi il tuo browser**\)
+• Installa un’estensione del browser che blocchi chi cerca di rintracciarti e che migliori la tua privacy \(per come fare, vedi la sezione della guida **Proteggi il tuo browser**\)
 
 • Rifletti bene prima di decidere di pubblicare qualcosa sui social media \(per come fare, vedi la sezione **Social media e dispositivi elettronici**\)
 
