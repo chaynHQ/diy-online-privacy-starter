@@ -108,7 +108,7 @@ La modalità di navigazione in incognito impedisce al tuo browser di salvare nel
 
 ## **Navigazione in anonimo**
 
-La navigazione in anonimo è una cosa diversa dalla navigazione in incognito e fornisce una sicurezza molto maggiore. Quando navighiin incognitofai in modo di non lasciare tracce delle tue attività onlinesul tuo computer: questo significa che chiunque usi il tuo computer – o il tuo cellulare, o il tuo tablet – non avrà modo di ricostruire le tue mosse. Quando navighiin anonimofai in modo che il tuo computer non lasci traccenella rete: ogni connessione internet ha un indirizzo IP che ha una localizzazione geografica facilmente rintracciabile da una persona che ne sappia un po’ di tecnologie, anche senza essere un esperto. Per esempio, anche se scrivi su un blog anonimamente, è possibile attraverso il tuo post risalire al tuo IP e quindi al luogo da cui il post è partito. La navigazione in anonimo nasconde il tuo IP e ti permette di non essere tracciatanon solo sul tuo computer ma anche nella rete.
+La navigazione in anonimo è una cosa diversa dalla navigazione in incognito e fornisce una sicurezza molto maggiore. Quando navighi in incognito fai in modo di non lasciare tracce delle tue attività online sul tuo computer: questo significa che chiunque usi il tuo computer – o il tuo cellulare, o il tuo tablet – non avrà modo di ricostruire le tue mosse. Quando navighi in anonimo fai in modo che il tuo computer non lasci tracce nella rete: ogni connessione internet ha un indirizzo IP che ha una localizzazione geografica facilmente rintracciabile da una persona che ne sappia un po’ di tecnologie, anche senza essere un esperto. Per esempio, anche se scrivi su un blog anonimamente, è possibile attraverso il tuo post risalire al tuo IP e quindi al luogo da cui il post è partito. La navigazione in anonimo nasconde il tuo IP e ti permette di non essere tracciatanon solo sul tuo computer ma anche nella rete.
 
 Qui di seguito come navigare in anonimo.
 
@@ -116,15 +116,8 @@ Qui di seguito come navigare in anonimo.
 
 • Usare una VPN, ossia Virtual Private Network, è un modo per camuffare il tuo IP e criptare tutto il tuo traffico su internet, così che nessuno possa sapere che cosa stai guardando online.
 
-• Reti VPN che puoi usare gratuitamente sono 
-[OkayFreedom](http://www.okfreedom.com/en/) 
-
-[TunnelBear](https://www.tunnelbear.com/)
-
-Entrambe queste reti VPN vanno scaricate e poi installate. 
-[Qui come installare OkayFreedom](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php\) 
-
-[Qui come usare TunnelBear](https://youtu.be/hNgZMlgRYzQ) 
+• Reti VPN che puoi usare gratuitamente sono [OkayFreedom](http://www.okfreedom.com/en/) e [TunnelBear](https://www.tunnelbear.com/). Entrambe queste reti VPN vanno scaricate e poi installate. 
+[Qui come installare OkayFreedom](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php\).[Qui come usare TunnelBear](https://youtu.be/hNgZMlgRYzQ).
 In linea di massima, una volta installata la rete VPN, ogni volta che si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
 
 ### ![](assets/Pic 11. tunnelbear.jpg)
@@ -140,21 +133,15 @@ Trovi una guida per come installarlo e usarlo.[qui](http://www.aranzulla.it/come
 
 ## **Estensioni del browser**
 
-Le estensioni del browser \(che possono essere Add-ons o Plugins\), sono programmi che personalizzano o aggiungono nuove prestazioni al tuo browser. Le estensioni possono servire a proteggere la tua privacy, per esempio bloccando chiunque voglia tracciarti mentre sei online. ATTENZIONE: alcune estensioni possono invece danneggiare la privacy e rendere più facile rintracciarti come, ad esempio, Marauders Map, Hover Zoom, o Hola Unbloker [(leggi qui)](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims) 
+Le estensioni del browser \(che possono essere Add-ons o Plugins\), sono programmi che personalizzano o aggiungono nuove prestazioni al tuo browser. Le estensioni possono servire a proteggere la tua privacy, per esempio bloccando chiunque voglia tracciarti mentre sei online. ATTENZIONE: alcune estensioni possono invece danneggiare la privacy e rendere più facile rintracciarti come, ad esempio, Marauders Map, Hover Zoom, o Hola Unbloker ([leggi qui](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims)) 
 
 ### **Estensioni consigliate:**
 
-[• HTTPS Everywhere](https://www.eff.org/https-everywhere) 
+[• HTTPS Everywhere](https://www.eff.org/https-everywhere) rende più sicura e cripta i dati relativi alla tua navigazione ed è disponibile per Chrome, Firefox e Opera ([qui informazioni su come funziona](http://thestroker.altervista.org/https-everywhere/))
 
-Rende più sicura e cripta i dati relativi alla tua navigazione ed è disponibile per Chrome, Firefox e Opera [(qui informazioni su come funziona)](http://thestroker.altervista.org/https-everywhere/)
+[• Privacy Badger](https://www.eff.org/privacybadger) blocca il traffico dei [cookies](https://it.wikipedia.org/wiki/Cookie)
 
-[• Privacy Badger](https://www.eff.org/privacybadger) 
-
-Blocca il traffico dei [cookies](https://it.wikipedia.org/wiki/Cookie)
-
-[• uBlock Origin](https://www.ublock.org/) 
-
-Blocca le pubblicità
+[• uBlock Origin](https://www.ublock.org/) blocca le pubblicità
 
 ### **Come cancellare la cronologia del tuo browser**
 
@@ -178,11 +165,7 @@ Blocca le pubblicità
 
 ### **Estensioni consigliate per fare pulizia nel tuo computer**
 
-[•CCleaner](http://www.piriform.com/ccleaner\)
+[•CCleaner](http://www.piriform.com/ccleaner\) per avere istruzioni su come installarlo e usarlo [leggi qui](https://articoli.it.softonic.com/come-pulire-il-pc-con-ccleaner-senza-aprire-il-programma\) \)
 
-Per avere istruzioni su come installarlo e usarlo [leggi qui](https://articoli.it.softonic.com/come-pulire-il-pc-con-ccleaner-senza-aprire-il-programma\) \)
-
-[• BleachBit](http://www.bleachbit.org/\) 
-
-Per avere istruzioni su come installarlo e usarlo [leggi qui](http://verytech.smartworld.it/come-usare-bleachbit-60253.html#steps_0\)
+[• BleachBit](http://www.bleachbit.org/\) per avere istruzioni su come installarlo e usarlo [leggi qui](http://verytech.smartworld.it/come-usare-bleachbit-60253.html#steps_0\)
 
