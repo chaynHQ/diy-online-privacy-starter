@@ -49,14 +49,12 @@ Per maggiori informazioni su come disattivare il GPS [leggi qui](http://it.wikih
 
 **WhatsApp**: i messaggi sono criptati \(cioè il contenuto dei messaggi che mandi può essere visto solo da te e dalla persona che li riceve\), ma i metadati che riguardano con chi chatti e per quanto tempo sono raccolti e salvati dall’applicazione.
 
-**Signal**: è un’applicazione di messaggistica libera e open-source che cripta le tue chiamate vocali e i messaggi per Android, iOS e Desktop. Utilizza la tecnologia end-to-end encryption che permette di mantenere al sicuro le comunicazioni con tutti gli altri utenti Signal. Signal può essere usato per mandare e ricevere messaggi istantanei, messaggi di gruppo, allegati, foto e audio tutti criptati. [Qui maggiori informazioni](http://www.informaticapertutti.com/signal-private-messenger-lapp-di-messaggistica-piu-sicura/) su come funziona Signal.
+**Signal**: è un’applicazione di messaggistica libera e open-source che cripta le tue chiamate vocali e i messaggi per Android, iOS e Desktop. Utilizza la tecnologia end-to-end encryption che permette di mantenere al sicuro le comunicazioni con tutti gli altri utenti Signal. Signal può essere usato per mandare e ricevere messaggi istantanei, messaggi di gruppo, allegati, foto e audio tutti criptati. [Qui](http://www.informaticapertutti.com/signal-private-messenger-lapp-di-messaggistica-piu-sicura/) maggiori informazioni su come funziona Signal.
 
 #### [Consigli di sicurezza che tutti dovrebbero seguire](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/)
 
 Leggi anche (in italiano):
-
 [Consigli per usare i social network – Polizia di Stato](https://www.poliziadistato.it/articolo/40277)  
-
 [Consigli per usare i social network in sicurezza – Donna Moderna](http://www.donnamoderna.com/news/tendenze/sicurezza-online-social-network-facebook-cellulare)
 
 
