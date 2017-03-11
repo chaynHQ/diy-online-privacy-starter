@@ -17,7 +17,7 @@ Qualcuno ha una tua foto e non sai perché o come l’ha ottenuta? Qualcuno cont
 
 ## ** Di cosa si parla in questa guida**
 
-Le moderne tecnologie – come internet, cellulari, ecc. – hanno reso sempre più facile per partner violenti – o anche ex-partner o aspiranti tali – pedinare, intimidire e minacciare le donne prese di mira, sia online che di persona. Ma c’è una buona notizia: esistono precauzioni che puoi prendere per difenderti. Valuta il pericolo in cui ti trovi o potresti trovarti e riprendi il controllo della situazione seguendo i consigli pratici offerti da questa guida.
+Le moderne tecnologie – come internet, cellulari, ecc. – hanno reso sempre più facile per partner violenti – o anche ex-partner o aspiranti tali – pedinare, intimidire e minacciare le donne prese di mira, sia online che di persona. Ma c’è una buona notizia: esistono precauzioni che puoi prendere per difenderti. Valuta il pericolo che corri o che potresti correre e riprendi il controllo della situazione seguendo i consigli pratici offerti da questa guida.
 
 ## ** Come usare questa guida**
 
