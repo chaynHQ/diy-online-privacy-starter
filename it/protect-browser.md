@@ -116,9 +116,7 @@ Qui di seguito come navigare in anonimo.
 
 • Usare una VPN, ossia Virtual Private Network, è un modo per camuffare il tuo IP e criptare tutto il tuo traffico su internet, così che nessuno possa sapere che cosa stai guardando online.
 
-• Reti VPN che puoi usare gratuitamente sono [OkayFreedom](http://www.okfreedom.com/en/) e [TunnelBear](https://www.tunnelbear.com/). Entrambe queste reti VPN vanno scaricate e poi installate. 
-[Qui](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php\) come installare OkayFreedom.[Qui](https://youtu.be/hNgZMlgRYzQ) come usare TunnelBear.
-In linea di massima, una volta installata la rete VPN, ogni volta che si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
+• Reti VPN che puoi usare gratuitamente sono [OkayFreedom](http://www.okfreedom.com/en/) ([qui](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php) come installare OkayFreedom) e [TunnelBear](https://www.tunnelbear.com/) ([qui](https://youtu.be/hNgZMlgRYzQ) come usare TunnelBear). Entrambe queste reti VPN vanno scaricate e poi installate. In linea di massima, una volta installata la rete VPN, quando si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
 
 ### ![](assets/Pic 11. tunnelbear.jpg)
 
