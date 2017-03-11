@@ -8,7 +8,7 @@ Dovresti prenderti cura della tua sicurezza online allo stesso modo in cui ti pr
 
 Chiediti:
 
-• **CHI** è la persona che ti pedina o abusa di te? Conosci questa persona? Questa persona è connessa in qualche modo a te e come? Quali sono le risorse economiche di questa persona? È una persona socialmente o politicamente influente? Quali competenze tecnologiche ha questa persona?
+• **CHI** è la persona che ti pedina o potrebbe pedinarti online? Conosci questa persona? Questa persona è connessa in qualche modo a te e come? Quali sono le risorse economiche di questa persona? È una persona socialmente o politicamente influente? Quali competenze tecnologiche ha questa persona?
 
 • **DOVE?** L’ambiente o la situazione in cui vivi rendono più facile minacciarti? Quali sono le leggi che possono essere applicate per proteggerti? Quali sono le norme sociali e di comportamento che regolano la comunità o la famiglia della persona che abusa di te e della tua propria? Se non hai risposte a queste domande, chiedi aiuto a persone di cui ti fidi. È spesso difficile ottenere informazioni sulle leggi che regolano la sicurezza e la privacy, perché o non esistono o non vengono applicate e questo rende più facile minacciarti impunemente.
 
