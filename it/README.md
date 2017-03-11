@@ -9,7 +9,7 @@ _«Questa è davvero la prima volta che qualcuno è in grado di darmi una mano a
 ![](assets/spanishcover.png)  
 
 
-## **A chi è diretta questa guida**
+## **A chi si rivolge questa guida**
 
 A chiunque. Sebbene scritta con l’intento di aiutare le donne che si trovano in una situazione di violenza domestica o che subiscono stalking, questa guida e i suoi consigli sono validi per chiunque, indipendentemente da genere, luogo o situazione.
 

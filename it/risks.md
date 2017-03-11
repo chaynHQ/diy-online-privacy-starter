@@ -20,9 +20,9 @@ Chiediti:
 
 Soltanto tu puoi sapere quali apparecchi elettronici usi, quali applicazioni e servizi utilizzi, come li usi e per quali scopi. Tieni a mente tutto questo nel momento in cui decidi quale strategia utilizzare per essere sicura online e ricorda che potrebbero essere necessari dei cambiamenti per quel che riguarda le tue abitudini. Questo potrebbe causare delle complicazioni o limitazioni, quindi scegli la strategia e i consigli che fanno meglio al caso tuo.
 
-### **Apparecchi elettronici e applicazioni**
+### **Dispositivi elettronici e applicazioni**
 
-Scegli con attenzione a quale apparecchio elettronico, applicazione o rete affidare le tue informazioni. Ricorda che il tuo cellulare e il tuo portatile di norma raccolgono dati su di te che vengono poi condivisi con il provider della tua connessione internet \(es: Tiscali, Telecom Italia, Infostrada, Fastweb, ecc.\). Inoltre, potrebbero anche rischiare di essere hackerati. La tua connessione, le tue applicazioni e i servizi che usi potrebbero non essere sicuri o essere compromessi e utilizzati per monitorare le tue attività.
+Scegli con attenzione a quale dispositivo elettronico, applicazione o rete affidare le tue informazioni. Ricorda che il tuo cellulare e il tuo portatile di norma raccolgono dati su di te che vengono poi condivisi con il provider della tua connessione internet \(es: Tiscali, Telecom Italia, Infostrada, Fastweb, ecc.\). Inoltre, potrebbero anche rischiare di essere hackerati. La tua connessione, le tue applicazioni e i servizi che usi potrebbero non essere sicuri o essere compromessi e utilizzati per monitorare le tue attività.
 
 ### **Account di posta elettronica**
 
