@@ -134,7 +134,7 @@ Le estensioni del browser \(che possono essere Add-ons o Plugins\), sono program
 
 ### **Estensioni consigliate:**
 
-[• HTTPS Everywhere](https://www.eff.org/https-everywhere) rende più sicura e cripta i dati relativi alla tua navigazione ed è disponibile per Chrome, Firefox e Opera ([qui informazioni su come funziona](http://thestroker.altervista.org/https-everywhere/))
+[• HTTPS Everywhere](https://www.eff.org/https-everywhere) rende più sicura e cripta i dati relativi alla tua navigazione ed è disponibile per Chrome, Firefox e Opera ([qui](http://thestroker.altervista.org/https-everywhere/) informazioni su come funziona)
 
 [• Privacy Badger](https://www.eff.org/privacybadger) blocca il traffico dei [cookies](https://it.wikipedia.org/wiki/Cookie)
 
