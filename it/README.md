@@ -6,7 +6,7 @@ _«Incredibile, questa guida mi ha davvero aperto gli occhi!»_
 
 _«Questa è davvero la prima volta che qualcuno è in grado di darmi una mano a orientarmi in tutto questo: di solito le autorità non hanno nessuna idea…»_
 
-![](assets/spanishcover.png)  
+![](es/assets/spanishcover.png)  
 
 
 ## **A chi è diretta questa guida**

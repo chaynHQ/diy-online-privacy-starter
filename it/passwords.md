@@ -23,6 +23,7 @@ Ecco alcune facili mosse per combattere le cause più comuni della vulnerabilit�
 ## **2. Usa un password manager**
 
 Un password manager—o gestore di password—è un software che memorizza tutte le versioni criptate \(cioè che solo tu conosci e nessun altro, nemmeno il software\) delle tue password. In questo modo puoi usare delle password complicate e sempre diverse per ogni sito o account senza dovertele ricordare, perché il password manager le ricorda e inserisce di volta in volta al posto tuo. Fondamentalmente funziona come l’applicazione ‘portachiavi’ del tuo computer, ma è sicuro perché salva solo le versioni criptate delle tue password. Ci sono vari software dipassword managerche puoi scaricare gratuitamente, come
+
 [• KeePass](http://keepass.info/)
 
 [(qui come installarlo)](https://youtu.be/Jf9uV9L9DPg) 
