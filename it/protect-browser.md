@@ -4,7 +4,7 @@
 
 Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo browser con [Panopticlick](https://panopticlick.eff.org/) e poi... copri la tua webcam!
 
-![](assets/cover_laptop_cam.gif)
+
 
 ## **Come non essere tracciabili**
 
@@ -117,7 +117,7 @@ Qui di seguito come navigare in anonimo.
 • Usare una VPN, ossia Virtual Private Network, è un modo per camuffare il tuo IP e criptare tutto il tuo traffico su internet, così che nessuno possa sapere che cosa stai guardando online.
 
 • Reti VPN che puoi usare gratuitamente sono [OkayFreedom](http://www.okfreedom.com/en/) e [TunnelBear](https://www.tunnelbear.com/). Entrambe queste reti VPN vanno scaricate e poi installate. 
-[Qui come installare OkayFreedom](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php\).[Qui come usare TunnelBear](https://youtu.be/hNgZMlgRYzQ).
+[Qui](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php\) come installare OkayFreedom.[Qui](https://youtu.be/hNgZMlgRYzQ) come usare TunnelBear.
 In linea di massima, una volta installata la rete VPN, ogni volta che si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
 
 ### ![](assets/Pic 11. tunnelbear.jpg)
@@ -125,9 +125,8 @@ In linea di massima, una volta installata la rete VPN, ogni volta che si vuole n
 ### **Usa Tor**
 
 Tor Browser è creato per mantenerti sempre in modalità navigazione anonima. È un modo semplice ed efficace di navigare su internet senza rivelare la tua identità. 
-Puoi scaricare Tor Browser [qui](https://www.torproject.org/projects/torbrowser.html\) dove trovi la versione in italiano per Mac, Windows e Linux. 
-
-Trovi una guida per come installarlo e usarlo.[qui](http://www.aranzulla.it/come-proxarsi-con-tor-36233.html\) 
+[Qui](https://www.torproject.org/projects/torbrowser.html\) puoi scaricare Tor Browser nella versione in italiano per Mac, Windows e Linux. 
+[Qui](http://www.aranzulla.it/come-proxarsi-con-tor-36233.html\) trovi una guida per come installarlo e usarlo.
 
 ![](assets/Surfing the internet with TOR.gif)
 
