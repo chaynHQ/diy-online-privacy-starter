@@ -4,7 +4,7 @@ Speriamo che questa guida ti sia piaciuta e soprattutto ti sia stata utile.
 
 Se vuoi leggere la versione più estesa \(per ora purtroppo solo in inglese\) clicca [qui](https://chayn.gitbooks.io/advanced-diy-privacy-for-every-woman/content/).
 
-## ** Ringraziamenti**
+## **Ringraziamenti**
 
 Questa guida è stata realizzata da [CHAYN](http://chayn.co/), un progetto open-source che si serve di tecnologie per fornire alle donne strumenti attivi contro la violenza e ogni altra forma di oppressione affinché tutte possiamo vivere esistenze più piene e felici. CHAYN ha creato questa guida sulla privacy sulla base degli scambi e contributi avuti con donne che sono uscite da situazioni di abuso domestico, basandosi sui dati emergenti da articoli dedicati alla questione del doxxing– ossia la pubblicazione online di dati privati senza consenso e a fini di abuso – riguardante le donne, e prendendo in considerazione le nostre stesse esperienze come donne utenti di internet. È vero che internet e in generale le nuove tecnologie aprono nuovi orizzonti e ci garantiscono di accedere a una moltitudine di informazioni con un solo clic, ma è anche vero che possono mettere a rischio la nostra sicurezza.
 
