@@ -4,10 +4,9 @@
 
 ## **Facebook**
 
-### **Cosa puoi vedere di me?**
+### **Chi può vedere i miei post?**
 
 ![](assets/Facebook bis.gif)
-
 
 ### ![](assets/Facebook 2.gif)
 
@@ -25,7 +24,7 @@
 
 ![](assets/Twitter - Security  and privacy.gif)
 
-## **Apparecchi elettronici: disabilita la geo-localizzazione**
+## Dispositivi** elettronici: disabilita la geo-localizzazione**
 
 #### **Come mettere in sicurezza un telefono Android:**
 
@@ -35,11 +34,11 @@
 
 • disattiva la Connessione dati \(Impostazioni &gt; Reti mobili &gt; Connessioni dati &gt; disattiva\)
 
-Ricorda: attiva questi servizi di geo-localizzazione solo quando ti servono. È importante che di norma rimangano spenti, perché questo riduce molto sia il rischio che venga rintracciata la tua posizione, sia il flusso di dati indesiderato trasmesso dalle applicazioni del tuo telefono o in remoto dal tuo operatore telefonico. In più, tenerli spenti ti fa durare la batteria molto più a lungo. \(Informazioni prese da [questo sito.)](https://securityinabox.org/en/guide/basic-security/android/)
+Ricorda: attiva questi servizi di geo-localizzazione solo quando ti servono. È importante che di norma rimangano spenti, perché questo riduce molto sia il rischio che venga rintracciata la tua posizione, sia il flusso di dati indesiderato trasmesso dalle applicazioni del tuo telefono o in remoto dal tuo operatore telefonico. In più, tenerli spenti ti fa durare la batteria molto più a lungo. \(Informazioni prese da [questo sito](https://securityinabox.org/en/guide/basic-security/android/)\).
 
 [Leggi anche qui](http://it.wikihow.com/Disattivare-il-GPS-su-un-Dispositivo-Android) per maggiori informazioni su come disattivare il GPS.
 
-#### ** Come mettere in sicurezza un telefono iPhone:**
+#### **Come mettere in sicurezza un telefono iPhone:**
 
 • disattiva la Wi-Fi \(Impostazioni &gt; Wi-Fi &gt; disattiva\)
 
@@ -53,19 +52,15 @@ Ricorda: attiva questi servizi di geo-localizzazione solo quando ti servono. È 
 
 #### [Consigli di sicurezza che tutti dovrebbero seguire](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/)
 
-Leggi anche (in italiano):
+Leggi anche \(in italiano\):
 
-[Consigli per usare i social network – Polizia di Stato](https://www.poliziadistato.it/articolo/40277)  
+[Consigli per usare i social network – Polizia di Stato](https://www.poliziadistato.it/articolo/40277)
 
 [Consigli per usare i social network in sicurezza – Donna Moderna](http://www.donnamoderna.com/news/tendenze/sicurezza-online-social-network-facebook-cellulare)
-
-
 
 ### **Altri suggerimenti importanti**
 
 • Importante: fai il [Test sulla privacy online](https://drive.google.com/open?id=1ncJSuYvbiTFA9bxaruaMXwupwPSljJ-iEq0C3ydGEi8)
 
-• Crea un **Google Alert** per il tuo nome e/o il tuo indirizzo email. In questo modo verrai avvertita ogni volta che qualcuno metterà online il tuo nome o la tua email. [Qui le istruzioni per come fare.](https://drive.google.com/open?id=1ncJSuYvbiTFA9bxaruaMXwupwPSljJ-iEq0C3ydGEi8)
-
-
+• Crea un **Google Alert** per il tuo nome e/o il tuo indirizzo email. In questo modo verrai avvertita ogni volta che qualcuno metterà online il tuo nome o la tua email. [Qui le istruzioni per come fare](https://drive.google.com/open?id=1ncJSuYvbiTFA9bxaruaMXwupwPSljJ-iEq0C3ydGEi8).
 
