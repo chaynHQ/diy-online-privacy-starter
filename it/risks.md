@@ -8,9 +8,9 @@ Dovresti prenderti cura della tua sicurezza online allo stesso modo in cui ti pr
 
 Chiediti:
 
-• **CHI** è la persona che ti pedina o minaccia online? Conosci questa persona? Questa persona è connessa in qualche modo a te e come? Quali sono le risorse economiche di questa persona? È una persona socialmente o politicamente influente? Quali competenze tecnologiche ha questa persona?
+• **CHI** è la persona che ti pedina o minaccia online? Conosci questa persona? Questa persona è connessa in qualche modo a te e, nel caso, come? Quali sono le risorse economiche di questa persona? È una persona socialmente o politicamente influente? Quali competenze tecnologiche ha questa persona?
 
-• **DOVE?** L’ambiente o la situazione in cui vivi rendono più facile minacciarti? Quali sono le leggi che possono essere applicate per proteggerti? Quali sono le norme sociali e di comportamento che regolano la comunità o la famiglia della persona che abusa di te e della tua propria? Se non hai risposte a queste domande, chiedi aiuto a persone di cui ti fidi. È spesso difficile ottenere informazioni sulle leggi che regolano la sicurezza e la privacy, perché o non esistono o non vengono applicate e questo rende più facile minacciarti impunemente.
+• **DOVE?** L’ambiente o la situazione in cui vivi rendono più facile minacciarti? Quali sono le leggi che possono essere applicate per proteggerti? Quali sono le norme sociali e di comportamento che regolano la comunità o la famiglia in cui tu e la persona che ti controlla o pedina vivete? Se non hai risposte a queste domande, chiedi aiuto a persone di cui ti fidi. È spesso difficile ottenere informazioni sulle leggi che regolano la sicurezza e la privacy, perché o non esistono o non vengono applicate e questo rende più facile minacciarti impunemente.
 
 • **COME? **Quanto è facile corrompere qualcuno vicino a te? La persona che esercita violenze su di te può usare la sua influenza o la sua posizione per ottenere informazioni su di te? Questa persona ha potere sui tuoi famigliari?
 
@@ -22,11 +22,11 @@ Soltanto tu puoi sapere quali dispositivi elettronici usi, quali applicazioni e 
 
 ### Dispositivi** elettronici e applicazioni**
 
-Scegli con attenzione a quale dispositivo elettronico, applicazione o rete affidare le tue informazioni. Ricorda che il tuo cellulare e il tuo portatile di norma raccolgono dati su di te che vengono poi condivisi con il provider della tua connessione internet \(es. Tiscali, Telecom Italia, Infostrada, Fastweb, ecc.\). Inoltre, potrebbero anche rischiare di essere hackerati. La tua connessione, le tue applicazioni e i servizi che usi potrebbero non essere sicuri o essere compromessi e utilizzati per monitorare le tue attività.
+Scegli con attenzione a quale dispositivo elettronico, applicazione o rete affidare le tue informazioni. Ricorda che il tuo cellulare e il tuo portatile, di norma, raccolgono dati su di te che vengono poi condivisi con il provider della tua connessione internet \(es. Tiscali, Telecom Italia, Infostrada, Fastweb, ecc.\). Inoltre, potrebbero anche rischiare di essere hackerati. La tua connessione, le tue applicazioni e i servizi che usi potrebbero non essere sicuri o essere compromessi e utilizzati per monitorare le tue attività.
 
 ### **Account di posta elettronica**
 
-È di solito al centro di tutto quello che fai online, perché lo usi per creare altri account su diversi siti, sulle varie piattaforme di social media, ecc. Se la tua email non è sicura, questo mette a rischio anche i dati che si trovano su tutti gli altri account connessi a questa.
+È di solito al centro di tutto quello che fai online, perché lo usi per creare altri account su siti diversi, sulle varie piattaforme di social media, ecc. Se la tua email non è sicura, questo mette a rischio anche i dati che si trovano su tutti gli altri account connessi a questa.
 
 ### **Spyware**
 
