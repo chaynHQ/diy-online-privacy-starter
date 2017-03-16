@@ -18,11 +18,11 @@ Chiediti:
 
 [Fai questo test](https://docs.google.com/document/d/1ncJSuYvbiTFA9bxaruaMXwupwPSljJ-iEq0C3ydGEi8/edit?usp=drive_web) per capire qual è il tuo livello di sicurezza online.
 
-Soltanto tu puoi sapere quali apparecchi elettronici usi, quali applicazioni e servizi utilizzi, come li usi e per quali scopi. Tieni a mente tutto questo nel momento in cui decidi quale strategia utilizzare per essere sicura online e ricorda che potrebbero essere necessari dei cambiamenti per quel che riguarda le tue abitudini. Questo potrebbe causare delle complicazioni o limitazioni, quindi scegli la strategia e i consigli che fanno meglio al caso tuo.
+Soltanto tu puoi sapere quali dispositivi elettronici usi, quali applicazioni e servizi utilizzi, come li usi e per quali scopi. Tieni a mente tutto questo nel momento in cui decidi quale strategia utilizzare per essere sicura online e ricorda che potrebbero essere necessari dei cambiamenti per quel che riguarda le tue abitudini. Questo potrebbe causare delle complicazioni o limitazioni, quindi scegli la strategia e i consigli che fanno meglio al caso tuo.
 
-### **Apparecchi elettronici e applicazioni**
+### Dispositivi** elettronici e applicazioni**
 
-Scegli con attenzione a quale apparecchio elettronico, applicazione o rete affidare le tue informazioni. Ricorda che il tuo cellulare e il tuo portatile di norma raccolgono dati su di te che vengono poi condivisi con il provider della tua connessione internet \(es: Tiscali, Telecom Italia, Infostrada, Fastweb, ecc.\). Inoltre, potrebbero anche rischiare di essere hackerati. La tua connessione, le tue applicazioni e i servizi che usi potrebbero non essere sicuri o essere compromessi e utilizzati per monitorare le tue attività.
+Scegli con attenzione a quale dispositivo elettronico, applicazione o rete affidare le tue informazioni. Ricorda che il tuo cellulare e il tuo portatile di norma raccolgono dati su di te che vengono poi condivisi con il provider della tua connessione internet \(es. Tiscali, Telecom Italia, Infostrada, Fastweb, ecc.\). Inoltre, potrebbero anche rischiare di essere hackerati. La tua connessione, le tue applicazioni e i servizi che usi potrebbero non essere sicuri o essere compromessi e utilizzati per monitorare le tue attività.
 
 ### **Account di posta elettronica**
 
@@ -31,7 +31,4 @@ Scegli con attenzione a quale apparecchio elettronico, applicazione o rete affid
 ### **Spyware**
 
 Spyware è un tipo di software presente sul tuo cellulare che raccoglie informazioni sulla tua presenza online e che registra ogni suono che viene captato dal microfono del tuo telefono. Queste informazioni e registrazioni vengono mandate, senza che ti venga chiesto il consenso, ad organizzazioni che le utilizzano per mandarti delle pubblicità mirate in modo da aumentare i profitti. In alcuni telefoni è possibile attivare lo spyware in remoto e quindi registrare le informazioni, anche se il telefono a vederlo sembra spento. Se vuoi maggiori informazioni so come funziona lo spyware e come rimuoverlo, [leggi qui](http://www.spyware.it/).
-
-  
-
 
