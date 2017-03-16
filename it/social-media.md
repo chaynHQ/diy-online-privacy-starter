@@ -18,6 +18,34 @@
 
 ### ![](assets/Facebook 4.gif)
 
+### Attenzione: ci potrebbero essere più foto di te su Facebook di quello che immagini
+
+Per controllare quali foto sono su Facebook in cui sei taggata, scrivi nella barra di ricerca in alto a sinistra "Foto + il tuo nome su Facebook" e ti apparirà l'elenco di tutte le foto.
+
+**Ma purtroppo non è tutto**: ce ne potrebbero essere altre che appaiono solo quando imposti come lingua English \(US\). Per esempio, tutte le fotografie per cui non hai accettato il tag, e che quindi non appaiono sulla tua bacheca, rimangono lo stesso connesse a te finché non cancelli il tag o riporti la foto.
+
+Ecco come fare per rimediare: 
+
+– Clicca sulla freccina a destra della barra blu in alto e quando ti si apre il menù a tendina clicca **Impostazioni**
+
+– Dalla colonna che ti appare a sinistra della pagina clicca **Lingua**
+
+– Nella riga **Che lingua vuoi usare su Facebook?** clicca sopra la lingua che attualmente hai impostato e, dal menù a tendina, scegli **English \(US\)**
+
+– Clicca su **Salva modifiche**
+
+– A questo punto fai di nuovo la ricerca delle tue foto. Nella barra di ricerca in alto a destra scrivi "Photos + il tuo nome su Facebook"
+
+– Se vedi delle foto che non desideri siano connesse a te puoi o cancellare il tag \(le foto rimangono su Facebook, ma non verranno trovate quando qualcuno cerca il tuo nome\), oppure riportarle a Facebook come inappropriate per farle eliminare.
+
+– Clicca sulla foto, sposta il cursore sopra la foto e in basso ti appariranno varie opzioni. Clicca su **Options**, poi clicca su **Remove tag**. Se vuoi anche segnalare la foto a Facebook, seleziona anche **I also want to report this post**. Poi clicca su **OK**.
+
+– Ripeti la procedura per ciascuna foto di cui vuoi eliminare il tag o che vuoi segnalare a Facebook.
+
+– Quando hai finito, puoi tornare su **Impostazioni** \(che ora si chiamerà **Options**\) e rimettere la lingua che preferisci.
+
+
+
 ## **Twitter**
 
 ### **Sicurezza & Privacy**
