@@ -20,11 +20,11 @@
 
 ### Attenzione: ci potrebbero essere più foto di te su Facebook di quello che immagini
 
-Per controllare quali foto sono su Facebook in cui sei taggata, scrivi nella barra di ricerca in alto a sinistra "Foto + il tuo nome su Facebook" e ti apparirà l'elenco di tutte le foto.
+Per controllare quali foto di te sono su Facebook, scrivi nella barra di ricerca in alto a sinistra "Foto + il tuo nome su Facebook" e ti apparirà l'elenco di tutte le foto.
 
 **Ma purtroppo non è tutto**: ce ne potrebbero essere altre che appaiono solo quando imposti come lingua English \(US\). Per esempio, tutte le fotografie per cui non hai accettato il tag, e che quindi non appaiono sulla tua bacheca, rimangono lo stesso connesse a te finché non cancelli il tag o riporti la foto.
 
-Ecco come fare per rimediare: 
+Ecco come fare per rimediare:
 
 – Clicca sulla freccina a destra della barra blu in alto e quando ti si apre il menù a tendina clicca **Impostazioni**
 
@@ -44,9 +44,7 @@ Ecco come fare per rimediare: 
 
 – Quando hai finito, puoi tornare su **Impostazioni** \(che ora si chiamerà **Options**\) e rimettere la lingua che preferisci.
 
-
-
-## **Twitter**
+**Twitter**
 
 ### **Sicurezza & Privacy**
 
