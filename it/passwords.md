@@ -22,11 +22,11 @@ Ecco alcune facili mosse per combattere le cause più comuni della vulnerabilit�
 
 ## **2. Usa un password manager**
 
-Un password manager—o gestore di password—è un software che memorizza tutte le versioni criptate \(cioè che solo tu conosci e nessun altro, nemmeno il software\) delle tue password. In questo modo puoi usare delle password complicate e sempre diverse per ogni sito o account senza dovertele ricordare, perché il password manager le ricorda e inserisce di volta in volta al posto tuo. Fondamentalmente funziona come l’applicazione ‘portachiavi’ del tuo computer, ma è sicuro perché salva solo le versioni criptate delle tue password. Ci sono vari software dipassword managerche puoi scaricare gratuitamente, come
+Un password manager—o gestore di password—è un software che memorizza tutte le versioni criptate \(cioè che solo tu conosci e nessun altro, nemmeno il software\) delle tue password. In questo modo puoi usare delle password complicate e sempre diverse per ogni sito o account senza dovertele ricordare, perché il password manager le ricorda e inserisce di volta in volta al posto tuo. Fondamentalmente funziona come l’applicazione ‘portachiavi’ del tuo computer, ma è sicuro perché salva solo le versioni criptate delle tue password. Ci sono vari software di password manager che puoi scaricare gratuitamente, come
 
-[• KeePass](http://keepass.info/) [(qui come installarlo)](https://youtu.be/Jf9uV9L9DPg) 
+[• KeePass](http://keepass.info/) [\(qui come installarlo\)](https://youtu.be/Jf9uV9L9DPg)
 
-[• LastPass](https://www.lastpass.com/) [(qui come installarlo)](https://youtu.be/Ml8QriHsPZI) 
+[• LastPass](https://www.lastpass.com/) [\(qui come installarlo\)](https://youtu.be/Ml8QriHsPZI)
 
 [• Padlock](https://padlock.io/)
 
@@ -37,9 +37,4 @@ Un password manager—o gestore di password—è un software che memorizza tutte
 ## **4. Autenticazione a due fattori \(2FA\)**
 
 L’autenticazione a due fattori—Two-Factor Authentication in inglese—fa sì che sia più difficile hackerare il tuo account. Invece di loggarti nei tuoi account attraverso un solo passaggio—per esempio inserendo la tua password—puoi fare sì che sia necessario inserire anche un altro tipo di informazione oltre la password, per esempio un codice che ti viene inviato di volta in volta per email o per messaggio, oppure che viene generato da un’applicazione sul tuo telefono. Facebook, Google+, LinkedIn, Medium, Snapchat, Tumblr, Twitter e Wordpress permettono l’autenticazione a due fattori. Instagram, Meetup, Pinterest, invece non lo permettono. Per un elenco dei siti che ti permettono o meno di loggarti tramite l’autenticazione a due fattori, leggi [qui](https://twofactorauth.org/).
-
-  
-
-
-
 
