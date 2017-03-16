@@ -44,7 +44,7 @@ Ecco come fare per rimediare:
 
 – Quando hai finito, puoi tornare su **Impostazioni** \(che ora si chiamerà **Options**\) e rimettere la lingua che preferisci.
 
-**Twitter**
+## **Twitter**
 
 ### **Sicurezza & Privacy**
 
