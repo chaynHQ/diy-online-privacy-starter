@@ -26,5 +26,5 @@ Grazie mille a chi ha collaborato con noi. Il vostro lavoro può fare davvero la
 
 **Il team di CHAYN**
 
-[http://chayn.co](http://chayn.co/) \| @ChaynHQ \| team@chayn.co
+[Chaynitalia.org](http://chaynitalia.org) \|  [Chayn.co](http://chayn.co/) \| @ChaynHQ \| team@chayn.co
 
