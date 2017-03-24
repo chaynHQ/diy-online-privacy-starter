@@ -4,7 +4,7 @@
 
 Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo browser con [Panopticlick](https://panopticlick.eff.org/) e poi... copri la tua webcam!
 
-![](/assets/cover_laptop_cam.gif)
+
 
 ## **Come non essere tracciabili**
 
@@ -66,7 +66,7 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 • [Brave](https://www.brave.com/) è un browser che blocca automaticamente le pubblicità e chiunque provi a tracciarti
 
-• [Tor](https://it.wikipedia.org/wiki/Tor_%28software%29) è un software di browsing che permette di navigare su internet in completo anonimato
+• [Tor](https://it.wikipedia.org/wiki/Tor_\(software\) è un software di browsing che permette di navigare su internet in completo anonimato
 
 • [DuckDuckGo](https://duckduckgo.com/about) è un motore di ricerca privato che non traccia i suoi utenti
 
@@ -76,11 +76,11 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 La modalità di navigazione in incognito impedisce al tuo browser di salvare nella tua cronologia i siti che visiti e le cose che scarichi, così da non lasciare nessuna traccia a cui qualcuno potrebbe avere accesso. Qui di seguito come navigare in incognito.
 
-### **Navigazione in incognito con Chrome**
+### ** Navigazione in incognito con Chrome**
 
 • Apri Google Chrome
 
-•Fai clic sul pulsante del menu ![](https://lh6.googleusercontent.com/Rd3dyh7JOq6S9I0NlQzMu_7bEe2Lv9XSdNkqInQxq3V8tBAMfipzUnGqDuk3DAjhjGxb6-X_-Iua-IX2d9OpDhrPcVTtYiEmheyRJ6EYl9xIMudNB8O662uK5WqY0GfSMXTcy33W2XQlUURNdA "ew Fx Menu") e seleziona **Nuova finestra di navigazione in incognito **OPPURE premi insieme Ctrl + Shift + N \(oppure Command + Shift + N se hai un Mac\) e ti si aprirà la finestra di navigazione in incognito.
+• Fai clic sul pulsante del menu ![](https://lh6.googleusercontent.com/Rd3dyh7JOq6S9I0NlQzMu_7bEe2Lv9XSdNkqInQxq3V8tBAMfipzUnGqDuk3DAjhjGxb6-X_-Iua-IX2d9OpDhrPcVTtYiEmheyRJ6EYl9xIMudNB8O662uK5WqY0GfSMXTcy33W2XQlUURNdA "ew Fx Menu") e seleziona **Nuova finestra di navigazione in incognito **OPPURE premi insieme Ctrl + Shift + N \(oppure Command + Shift + N se hai un Mac\) e ti si aprirà la finestra di navigazione in incognito.
 
 ![](assets/Pic 7 chrome incognito.jpg)
 
@@ -104,11 +104,11 @@ La modalità di navigazione in incognito impedisce al tuo browser di salvare nel
 
 • Apri Internet Explorer
 
-• Fai click su **Sicurezza** e seleziona **Inprivate Browsing** OPPURE premi insieme Ctrl + Shift + P![](assets/Pic 10 InPrivate.png)
+• Fai click su Sicurezza e seleziona Inprivate Browsing OPPURE premi insieme Ctrl + Shift + P![](assets/Pic 10 InPrivate.png)
 
 ## **Navigazione in anonimo**
 
-La navigazione in anonimo è una cosa diversa dalla navigazione in incognito e fornisce una sicurezza molto maggiore. Quando navighi in incognito fai in modo di non lasciare tracce delle tue attività online sul tuo computer: questo significa che chiunque usi il tuo computer – o il tuo cellulare, o il tuo tablet – non avrà modo di ricostruire le tue mosse. Quando navighi in anonimo fai in modo che il tuo computer non lasci tracce nella rete: ogni connessione internet ha un indirizzo IP che ha una localizzazione geografica facilmente rintracciabile da una persona che ne sappia un po’ di tecnologie, anche senza essere un esperto. Per esempio, anche se scrivi su un blog anonimamente, è possibile attraverso il tuo post risalire al tuo IP e quindi al luogo da cui il post è partito. La navigazione in anonimo nasconde il tuo IP e ti permette di non essere tracciata non solo sul tuo computer, ma anche nella rete.
+La navigazione in anonimo è una cosa diversa dalla navigazione in incognito e fornisce una sicurezza molto maggiore. Quando navighi in incognito fai in modo di non lasciare tracce delle tue attività online sul tuo computer: questo significa che chiunque usi il tuo computer – o il tuo cellulare, o il tuo tablet – non avrà modo di ricostruire le tue mosse. Quando navighi in anonimo fai in modo che il tuo computer non lasci tracce nella rete: ogni connessione internet ha un indirizzo IP che ha una localizzazione geografica facilmente rintracciabile da una persona che ne sappia un po’ di tecnologie, anche senza essere un esperto. Per esempio, anche se scrivi su un blog anonimamente, è possibile attraverso il tuo post risalire al tuo IP e quindi al luogo da cui il post è partito. La navigazione in anonimo nasconde il tuo IP e ti permette di non essere tracciatanon solo sul tuo computer ma anche nella rete.
 
 Qui di seguito come navigare in anonimo.
 
@@ -116,30 +116,27 @@ Qui di seguito come navigare in anonimo.
 
 • Usare una VPN, ossia Virtual Private Network, è un modo per camuffare il tuo IP e criptare tutto il tuo traffico su internet, così che nessuno possa sapere che cosa stai guardando online.
 
-• Reti VPN che puoi usare gratuitamente sono [OkayFreedom](http://www.okfreedom.com/en/) e [TunnelBear](https://www.tunnelbear.com/). Entrambe queste reti VPN vanno scaricate e poi installate.  
-[Qui come installare OkayFreedom](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php\)
-
-[Qui come usare TunnelBear](https://youtu.be/hNgZMlgRYzQ)  
-In linea di massima, una volta installata la rete VPN, ogni volta che si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
+• Reti VPN che puoi usare gratuitamente sono [OkayFreedom](http://www.okfreedom.com/en/) ([qui](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php) come installare OkayFreedom) e [TunnelBear](https://www.tunnelbear.com/) ([qui](https://youtu.be/hNgZMlgRYzQ) come usare TunnelBear). Entrambe queste reti VPN vanno scaricate e poi installate. In linea di massima, una volta installata la rete VPN, quando si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
 
 ### ![](assets/Pic 11. tunnelbear.jpg)
 
 ### **Usa Tor**
 
-Tor Browser è creato per mantenerti sempre in modalità navigazione anonima. È un modo semplice ed efficace di navigare su internet senza rivelare la tua identità.  
-Puoi scaricare Tor Browser [qui](https://www.torproject.org/projects/torbrowser.html\), dove trovi la versione in italiano per Mac, Windows e Linux e [qui](http://www.aranzulla.it/come-proxarsi-con-tor-36233.html\) trovi invece una guida per come installarlo e usarlo.
+Tor Browser è creato per mantenerti sempre in modalità navigazione anonima. È un modo semplice ed efficace di navigare su internet senza rivelare la tua identità. 
+[Qui](https://www.torproject.org/projects/torbrowser.html\) puoi scaricare Tor Browser nella versione in italiano per Mac, Windows e Linux. 
+[Qui](http://www.aranzulla.it/come-proxarsi-con-tor-36233.html\) trovi una guida per come installarlo e usarlo.
 
 ![](assets/Surfing the internet with TOR.gif)
 
 ## **Estensioni del browser**
 
-Le estensioni del browser \(che possono essere Add-ons o Plugins\), sono programmi che personalizzano o aggiungono nuove prestazioni al tuo browser. Le estensioni possono servire a proteggere la tua privacy, per esempio bloccando chiunque voglia tracciarti mentre sei online. ATTENZIONE: alcune estensioni possono invece danneggiare la privacy e rendere più facile rintracciarti come, ad esempio, Marauders Map, Hover Zoom, o Hola Unbloker \([leggi qui](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims)\)
+Le estensioni del browser \(che possono essere Add-ons o Plugins\) sono programmi che personalizzano o aggiungono nuove prestazioni al tuo browser. Le estensioni possono servire a proteggere la tua privacy, per esempio bloccando chiunque voglia tracciarti mentre sei online. ATTENZIONE: alcune estensioni possono invece danneggiare la privacy e rendere più facile rintracciarti come, ad esempio, Marauders Map, Hover Zoom, o Hola Unbloker ([leggi qui](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims)) 
 
 ### **Estensioni consigliate:**
 
-[• HTTPS Everywhere](https://www.eff.org/https-everywhere) rende più sicura e cripta i dati relativi alla tua navigazione ed è disponibile per Chrome, Firefox e Opera \([qui informazioni su come funziona](http://thestroker.altervista.org/https-everywhere/)\)
+[• HTTPS Everywhere](https://www.eff.org/https-everywhere) rende più sicura e cripta i dati relativi alla tua navigazione ed è disponibile per Chrome, Firefox e Opera ([qui](http://thestroker.altervista.org/https-everywhere/) informazioni su come funziona)
 
-[• Privacy Badger](https://www.eff.org/privacybadger) blocca il traffico dei [cookies](https://it.wikipedia.org/wiki/Cookie)
+[• Privacy Badger](https://www.eff.org/privacybadger) blocca il traffico dei [cookies](https://it.wikipedia.org/wiki/Cookie)
 
 [• uBlock Origin](https://www.ublock.org/) blocca le pubblicità
 
@@ -165,7 +162,7 @@ Le estensioni del browser \(che possono essere Add-ons o Plugins\), sono program
 
 ### **Estensioni consigliate per fare pulizia nel tuo computer**
 
-[•CCleaner](http://www.piriform.com/ccleaner\) per avere istruzioni su come installarlo e usarlo [leggi qui](https://articoli.it.softonic.com/come-pulire-il-pc-con-ccleaner-senza-aprire-il-programma%29 \)
+[• CCleaner](http://www.piriform.com/ccleaner\) per avere istruzioni su come installarlo e usarlo [leggi qui](https://articoli.it.softonic.com/come-pulire-il-pc-con-ccleaner-senza-aprire-il-programma\)
 
 [• BleachBit](http://www.bleachbit.org/\) per avere istruzioni su come installarlo e usarlo [leggi qui](http://verytech.smartworld.it/come-usare-bleachbit-60253.html#steps_0\)
 
