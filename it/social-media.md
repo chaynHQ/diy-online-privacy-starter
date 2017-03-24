@@ -78,11 +78,7 @@ Ricorda: attiva questi servizi di geo-localizzazione solo quando ti servono. È 
 
 #### [Consigli di sicurezza che tutti dovrebbero seguire](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/)
 
-Leggi anche \(in italiano\):
 
-[Consigli per usare i social network – Polizia di Stato](https://www.poliziadistato.it/articolo/40277)
-
-[Consigli per usare i social network in sicurezza – Donna Moderna](http://www.donnamoderna.com/news/tendenze/sicurezza-online-social-network-facebook-cellulare)
 
 ### **Altri suggerimenti importanti**
 
