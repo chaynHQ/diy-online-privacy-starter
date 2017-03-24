@@ -4,7 +4,7 @@
 
 Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo browser con [Panopticlick](https://panopticlick.eff.org/) e poi... copri la tua webcam!
 
-
+![](assets/cover_laptop_cam.gif)
 
 ## **Come non essere tracciabili**
 
