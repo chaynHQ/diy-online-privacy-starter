@@ -8,17 +8,12 @@ Ecco alcune facili mosse per combattere le cause più comuni della vulnerabilit�
 
 ## **1. Proteggi la tua password**
 
-**•** Vai [su questo sito](https://password.kaspersky.com/it/?utm_medium=rdr&utm_source=redirector&utm_campaign=old_url&utm_medium=smm&utm_source=fb_p_160118&utm_campaign=it_ai_target) e fai il test per vedere quanto è sicura la tua password
-
-• Non usare mai una password che hai già usato in passato
-
-• Non usare la stessa password per più siti, ma creane ogni volta una diversa
-
-• Non permettere al tuo browser di salvare le tue password \(o al tuo computer nel Portachiavi\)
-
-• Quando crei una password, usa una frase invece che una o più parole staccate
-
-• Usa lettere maiuscole e minuscole, numeri e simboli. Se vuoi una password che sia sicura, puoi crearne una [su questo sito](https://identitysafe.norton.com/it/password-generator)
+*  Vai [su questo sito](https://password.kaspersky.com/it/?utm_medium=rdr&utm_source=redirector&utm_campaign=old_url&utm_medium=smm&utm_source=fb_p_160118&utm_campaign=it_ai_target) e fai il test per vedere quanto è sicura la tua password
+* Non usare mai una password che hai già usato in passato
+* Non usare la stessa password per più siti, ma creane ogni volta una diversa
+* Non permettere al tuo browser di salvare le tue password \(o al tuo computer nel Portachiavi\)
+* Quando crei una password, usa una frase invece che una o più parole staccate
+* Usa lettere maiuscole e minuscole, numeri e simboli. Se vuoi una password che sia sicura, puoi crearne una [su questo sito](https://identitysafe.norton.com/it/password-generator)
 
 ## **2. Usa un password manager**
 
