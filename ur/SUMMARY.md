@@ -1,5 +1,5 @@
 # Summary
-* [سلام](README.md)
+* [اسلام علیکم](README.md)
 * [آپکا پیچھا کیسے کیا جا رہا ہے](track.md)
 * [خطرات](risks.md)
 * [عمدہ پاسورڈ](passwords.md)
