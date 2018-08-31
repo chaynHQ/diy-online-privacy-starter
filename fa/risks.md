@@ -1,6 +1,6 @@
 # خطرات
 
-![](assets/Not the best looking cat copy.png)
+![](assets/Not%20the%20best%20looking%20cat%20copy.png)
 
 
 ### 1. خطرات امنیتی تان را شناسایی کنید
@@ -61,5 +61,5 @@
 
 ---
 
-![](/fa/assets/chayn icon.jpg)
+![](/fa/assets/chayn%20icon.jpg)
 
