@@ -14,12 +14,12 @@
 
 
 ### څنګه کولای شم د هغه چا مخنیوي وکړم  چې مې ځوروي؟ 
-![](assets/Facebook%20-%20Who%20can%20contact me.gif)
+![](assets/Facebook%20-%20Who%20can%20contact%20me.gif)
 
 
 
 ### چگونه از آزار و اذیت دیگران جلوگیری نمایم؟
-![](assets/Facebook - Blocking.gif)
+![](assets/Facebook%20-%20Blocking.gif)
 
 
 
