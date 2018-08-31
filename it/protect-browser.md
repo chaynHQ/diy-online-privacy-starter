@@ -20,9 +20,9 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 5. Seleziona l’opzione** Invia una richiesta "Non tenere traccia" con il tuo traffico di navigazione **cliccandoci sopra \(**Send “Do Not Track” request with your browser traffic** se in inglese\)
 
-![](assets/Chrome impostazioni privacy.png)
+![](assets/Pic%201.%20Chrome%20impostazioni%20privacy.png)
 
-![](assets/Pic 2. Chrome impostazioni privacy.png)
+![](assets/Pic%202.%20Chrome%20impostazioni%20privacy.png)
 
 ### **Se usi Firefox**
 
@@ -48,7 +48,7 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 3. Nella sezione **Limita accesso dei siti web a servizi di localizzazione** seleziona l’opzione **Rifiuta senza chiedere**
 
-![](assets/Pic 4 Safari.jpg)
+![](assets/Pic%204%20Safari.jpg)
 
 ### **Se usi Explorer**
 
@@ -60,13 +60,13 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 4. Seleziona **Elenco personalizzato** e poi fai click su **Attiva**
 
-![](assets/Pic 5 Explorer.png)
+![](assets/Pic%205%20Explorer.png)
 
 ## **Browser e motori di ricerca alternativi**
 
 • [Brave](https://www.brave.com/) è un browser che blocca automaticamente le pubblicità e chiunque provi a tracciarti
 
-• [Tor](https://it.wikipedia.org/wiki/Tor_\(software\) è un software di browsing che permette di navigare su internet in completo anonimato
+• [Tor](https://it.wikipedia.org/wiki/Tor_(software) ) è un software di browsing che permette di navigare su internet in completo anonimato
 
 • [DuckDuckGo](https://duckduckgo.com/about) è un motore di ricerca privato che non traccia i suoi utenti
 
@@ -76,13 +76,13 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 La modalità di navigazione in incognito impedisce al tuo browser di salvare nella tua cronologia i siti che visiti e le cose che scarichi, così da non lasciare nessuna traccia a cui qualcuno potrebbe avere accesso. Qui di seguito come navigare in incognito.
 
-### ** Navigazione in incognito con Chrome**
+### **Navigazione in incognito con Chrome**
 
 • Apri Google Chrome
 
 • Fai clic sul pulsante del menu ![](https://lh6.googleusercontent.com/Rd3dyh7JOq6S9I0NlQzMu_7bEe2Lv9XSdNkqInQxq3V8tBAMfipzUnGqDuk3DAjhjGxb6-X_-Iua-IX2d9OpDhrPcVTtYiEmheyRJ6EYl9xIMudNB8O662uK5WqY0GfSMXTcy33W2XQlUURNdA "ew Fx Menu") e seleziona **Nuova finestra di navigazione in incognito **OPPURE premi insieme Ctrl + Shift + N \(oppure Command + Shift + N se hai un Mac\) e ti si aprirà la finestra di navigazione in incognito.
 
-![](assets/Pic 7 chrome incognito.jpg)
+![](assets/Pic%207%20chrome%20incognito.jpg)
 
 ### **Navigazione in incognito con Firefox**
 
@@ -90,7 +90,7 @@ La modalità di navigazione in incognito impedisce al tuo browser di salvare nel
 
 • Fai clic sul pulsante del menu ![](https://lh6.googleusercontent.com/Rd3dyh7JOq6S9I0NlQzMu_7bEe2Lv9XSdNkqInQxq3V8tBAMfipzUnGqDuk3DAjhjGxb6-X_-Iua-IX2d9OpDhrPcVTtYiEmheyRJ6EYl9xIMudNB8O662uK5WqY0GfSMXTcy33W2XQlUURNdA "ew Fx Menu") e seleziona **Finestra anonima** OPPURE premi insieme Ctrl + Shift + P \(oppure Command + Shift + P se hai un Mac\) e ti si aprirà la finestra di navigazione in incognito.
 
-![](assets/Pic 8 Firefox incognito.png)
+![](assets/Pic%208%20Firefox%20incognito.png)
 
 ### **Navigazione in incognito con Safari**
 
@@ -98,13 +98,13 @@ La modalità di navigazione in incognito impedisce al tuo browser di salvare nel
 
 • Clicca su **File** in alto a sinistra e seleziona **Nuova finestra privata **OPPURE premi insieme Command + Shift + N e ti si aprirà la finestra di navigazione in incognito.
 
-![](assets/Pic 9 Safari incognito.png)
+![](assets/Pic%209%20Safari%20incognito.png)
 
 ### **Navigazione in incognito con InPrivate di Explorer**
 
 • Apri Internet Explorer
 
-• Fai click su Sicurezza e seleziona Inprivate Browsing OPPURE premi insieme Ctrl + Shift + P![](assets/Pic 10 InPrivate.png)
+• Fai click su Sicurezza e seleziona Inprivate Browsing OPPURE premi insieme Ctrl + Shift + P![](assets/Pic%2010%20InPrivate.png)
 
 ## **Navigazione in anonimo**
 
@@ -116,21 +116,21 @@ Qui di seguito come navigare in anonimo.
 
 • Usare una VPN, ossia Virtual Private Network, è un modo per camuffare il tuo IP e criptare tutto il tuo traffico su internet, così che nessuno possa sapere che cosa stai guardando online.
 
-• Reti VPN che puoi usare gratuitamente sono [OkayFreedom](http://www.okfreedom.com/en/) ([qui](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php) come installare OkayFreedom) e [TunnelBear](https://www.tunnelbear.com/) ([qui](https://youtu.be/hNgZMlgRYzQ) come usare TunnelBear). Entrambe queste reti VPN vanno scaricate e poi installate. In linea di massima, una volta installata la rete VPN, quando si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
+• Reti VPN che puoi usare gratuitamente sono [OkayFreedom](http://www.okfreedom.com/en/) [qui](http://scaricare.k77.eu/programmi/download/okayfreedom-vpn.php) come installare OkayFreedom) e [TunnelBear](https://www.tunnelbear.com/)  [qui](https://youtu.be/hNgZMlgRYzQ) come usare TunnelBear). Entrambe queste reti VPN vanno scaricate e poi installate. In linea di massima, una volta installata la rete VPN, quando si vuole navigare in anonimo bisogna cliccare sull’icona che si trova in alto a destra della pagina di navigazione, a destra della barra degli indirizzi, qui→
 
-### ![](assets/Pic 11. tunnelbear.jpg)
+### ![](assets/Pic%2011.%20tunnelbear.jpg)
 
 ### **Usa Tor**
 
 Tor Browser è creato per mantenerti sempre in modalità navigazione anonima. È un modo semplice ed efficace di navigare su internet senza rivelare la tua identità. 
-[Qui](https://www.torproject.org/projects/torbrowser.html\) puoi scaricare Tor Browser nella versione in italiano per Mac, Windows e Linux. 
-[Qui](http://www.aranzulla.it/come-proxarsi-con-tor-36233.html\) trovi una guida per come installarlo e usarlo.
+[Qui](https://www.torproject.org/projects/torbrowser.html) puoi scaricare Tor Browser nella versione in italiano per Mac, Windows e Linux. 
+[Qui](http://www.aranzulla.it/come-proxarsi-con-tor-36233.html) trovi una guida per come installarlo e usarlo.
 
-![](assets/Surfing the internet with TOR.gif)
+![](assets/Surfing%20the%20internet%20with%20TOR.gif)
 
 ## **Estensioni del browser**
 
-Le estensioni del browser \(che possono essere Add-ons o Plugins\) sono programmi che personalizzano o aggiungono nuove prestazioni al tuo browser. Le estensioni possono servire a proteggere la tua privacy, per esempio bloccando chiunque voglia tracciarti mentre sei online. ATTENZIONE: alcune estensioni possono invece danneggiare la privacy e rendere più facile rintracciarti come, ad esempio, Marauders Map, Hover Zoom, o Hola Unbloker ([leggi qui](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims)) 
+Le estensioni del browser \(che possono essere Add-ons o Plugins\) sono programmi che personalizzano o aggiungono nuove prestazioni al tuo browser. Le estensioni possono servire a proteggere la tua privacy, per esempio bloccando chiunque voglia tracciarti mentre sei online. ATTENZIONE: alcune estensioni possono invece danneggiare la privacy e rendere più facile rintracciarti come, ad esempio, Marauders Map, Hover Zoom, o Hola Unbloker [leggi qui](http://www.makeuseof.com/tag/x-malicious-browser-extensions-help-hackers-target-victims) 
 
 ### **Estensioni consigliate:**
 
@@ -162,7 +162,7 @@ Le estensioni del browser \(che possono essere Add-ons o Plugins\) sono programm
 
 ### **Estensioni consigliate per fare pulizia nel tuo computer**
 
-[• CCleaner](http://www.piriform.com/ccleaner\) per avere istruzioni su come installarlo e usarlo [leggi qui](https://articoli.it.softonic.com/come-pulire-il-pc-con-ccleaner-senza-aprire-il-programma\)
+• [CCleaner](http://www.piriform.com/ccleaner\) per avere istruzioni su come installarlo e usarlo [leggi qui](https://articoli.it.softonic.com/come-pulire-il-pc-con-ccleaner-senza-aprire-il-programma\)
 
-[• BleachBit](http://www.bleachbit.org/\) per avere istruzioni su come installarlo e usarlo [leggi qui](http://verytech.smartworld.it/come-usare-bleachbit-60253.html#steps_0\)
+• [BleachBit](http://www.bleachbit.org/\) per avere istruzioni su come installarlo e usarlo [leggi qui](http://verytech.smartworld.it/come-usare-bleachbit-60253.html#steps_0\)
 
