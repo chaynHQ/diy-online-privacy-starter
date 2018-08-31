@@ -21,4 +21,4 @@ La autenticación de dos factores (2FA) hace que sea más difícil para cualquie
 
 ---
 
-![](assets/chayn icon.jpg)
+![](assets/chayn%20icon.jpg)
