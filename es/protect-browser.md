@@ -6,8 +6,7 @@
 
 Primero, prueba qué tan seguro es tu actual navegador con [Panopticlick](https://panopticlick.eff.org/)
 
-**y esto:
-**
+**y esto:**
 ![](assets/cover_laptop_cam.gif)
 
 
@@ -17,13 +16,13 @@ Primero, prueba qué tan seguro es tu actual navegador con [Panopticlick](https:
 
 **Chrome** > Configuración > Mostrar Configuración Avanzada > > Privacidad > Enviar solicitud de “No Seguimiento” con tu tráfico de navegación
 
-![](assets/chrome - do not track.gif)
+![](assets/chrome%20-%20do%20not%20track.gif)
 
 
 
 **Firefox** > Opciones > Privacidad> Administrar tu configuración de “No Seguimiento”
 
-![](assets/Firefox - do not track.gif)
+![](assets/Firefox%20-%20do%20not%20track.gif)
 
 
 **Safari** > Menú > Preferencias > Privacidad > Seguimiento de sitios web > Pedir a los sitios web no seguirme
@@ -35,7 +34,7 @@ Primero, prueba qué tan seguro es tu actual navegador con [Panopticlick](https:
 **Internet Explorer** > Herramientas (Alt + X) > Seguridad >Activar la protección de rastreo > Habilitar
 
 
-![](assets/explorer do not track.gif)
+![](assets/explorer%20do%20not%20track.gif)
 
 
 **Navegadores y Motores de Búsqueda Alternativos**
@@ -69,7 +68,7 @@ Primero, prueba qué tan seguro es tu actual navegador con [Panopticlick](https:
 **InPrivate**
 
 * InPrivate ayuda a impedir que Internet Explorer almacene datos sobre tu sesión de navegación
-* Herramientas > Seguridad >Exploración de InPrivate
+* Herramientas > Seguridad > Exploración de InPrivate
 * O mantén oprimido:  Ctrl + Mayús + P
 
 
@@ -84,7 +83,7 @@ Primero, prueba qué tan seguro es tu actual navegador con [Panopticlick](https:
 El navegador Tor está diseñado para ayudarte a mantenerte anónimo y es una simple pero efectiva manera de navegar en internet sin revelar tu identidad a nadie
 Descárgalo [ here](https://www.torproject.org/projects/torbrowser.html).
 
-![](assets/Surfing the internet with TOR.gif)
+![](assets/Surfing%20the%20internet%20with%20TOR.gif)
 
  ## Extensiones para Navegadores
 
@@ -108,11 +107,6 @@ Las extensiones de los navegadores (complementos/programas adicionales), son  pr
 
 
 
-
 ---
 
-![](assets/chayn icon.jpg)
-
-
-
-
+![](assets/chayn%20icon.jpg)
