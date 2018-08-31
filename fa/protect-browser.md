@@ -38,7 +38,7 @@
 * و یا Ctrl + Shift + P را همزمان فشار بدهید.
 
 
-![](assets/Firefox - do not track.gif)
+![](assets/Firefox%20-%20do%20not%20track.gif)
 
 
 **Safari** 
@@ -58,7 +58,7 @@ InPrivate یا به طور خصوصی
 * از منیوی Tools گزینۀ Safety را انتخاب نموده InPrivate
 
 
-![](assets/explorer do not track.gif)
+![](assets/explorer%20do%20not%20track.gif)
 
 
 **را فعال نمایید**
@@ -66,8 +66,7 @@ InPrivate یا به طور خصوصی
 * [Brave](https://www.brave.com/) is a browser which automatically blocks ads and trackers
 * [Tor](https://www.torproject.org) is a browsing software that enables you to surf the web anonymously
 * [DuckDuckGo](https://duckduckgo.com/about) is a private search engine that does not track its users
-* [StartPage](https://www.startpage.com/) is a private search engine that does not record your IP address or
-* track your searches
+* [StartPage](https://www.startpage.com/) is a private search engine that does not record your IP address or track your searches
 
 **Incognito Mode**
 
@@ -103,7 +102,7 @@ InPrivate یا به طور خصوصی
 TORیک براوسری است که شما به عنوان یک ناشناس وارد آن می شوید و یک راه ساده و موثر بازکردن صفحات است که هویت شما تشخیص داده نمی شود.
 Download [here](https://www.torproject.org/projects/torbrowser.html).
 
-![](assets/Surfing the internet with TOR.gif)
+![](assets/Surfing%20the%20internet%20with%20TOR.gif)
 
  ## Browser Extensions
 
@@ -129,7 +128,7 @@ Extensions می توانید آسیب نیز برساند. (نمونه های آ
 * [BleachBit](http://www.bleachbit.org)
 
 ---
-![](assets/chayn icon.jpg)
+![](assets/chayn%20icon.jpg)
 
 
 
