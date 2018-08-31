@@ -1,22 +1,24 @@
 # **Social media e apparecchi elettronici**
 
-![](assets/sad cat.png)
+![](assets/sad%20cat.png)
 
 ## **Facebook**
 
 ### **Chi può vedere i miei post?**
 
-![](assets/Facebook bis.gif)
+![](assets/Facebook%20bis.gif)
 
-### ![](assets/Facebook 2.gif)
+###
+
+![](assets/Facebook%202.gif)
 
 ### **Chi mi può contattare?**
 
-### ![](assets/Facebook 3.gif)
+### ![](assets/Facebook%203.gif)
 
 ### **Come faccio a bloccare qualcuno che mi importuna?**
 
-### ![](assets/Facebook 4.gif)
+### ![](assets/Facebook%204.gif)
 
 ### Attenzione: ci potrebbero essere più foto di te su Facebook di quello che immagini
 
@@ -48,7 +50,7 @@ Ecco come fare per rimediare:
 
 ### **Sicurezza & Privacy**
 
-![](assets/Twitter - Security  and privacy.gif)
+![](assets/Twitter%20-%20Security%20%20and%20privacy.gif)
 
 ## Dispositivi** elettronici: disabilita la geo-localizzazione**
 
