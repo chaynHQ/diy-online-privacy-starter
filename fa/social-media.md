@@ -1,22 +1,22 @@
 # تنظیمات حریم خصوصی رسانه های اجتماعی
 
-![](assets/sad cat.png)
+![](assets/sad%20cat.png)
 
 ## Facebook فیسبوک
 
 ### چه کسانی پست های مرا می بینند؟
 
-![](assets/Facebook - Who can see my stuff.gif)
+![](assets/Facebook%20-%20Who%20can%20see%20my%20stuff.gif)
 
 
 
-![](assets/FB view as.gif)
+![](assets/FB%20view%20as.gif)
 
 
 
 
 ### چی کسانی می توانند با من ارتباط برقرار نمایند؟
-![](assets/Facebook - Who can contact me.gif)
+![](assets/Facebook%20-%20Who%20can%20contact%20me.gif)
 
 
 
