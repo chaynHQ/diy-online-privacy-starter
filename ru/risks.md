@@ -1,5 +1,5 @@
 # Риски
-![](assets/Not the best looking cat copy.png)# Риски
+![](assets/Not%20the%20best%20looking%20cat%20copy.png)
 
 
 
@@ -73,4 +73,4 @@ _
 
 ---
 
-![](assets/chayn icon.png)
+![](assets/chayn%20icon.jpg)
