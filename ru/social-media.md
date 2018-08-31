@@ -1,33 +1,33 @@
 # Настройки Приватности в Социальных Сетях
 
-![](assets/sad cat.png)
+![](assets/sad%20cat.png)
 
 ## Facebook
 
 ### Кто может видеть мои материалы?
 
-![](assets/Facebook - Who can see my stuff.gif)
+![](assets/Facebook%20-%20Who%20can%20see%20my%20stuff.gif)
 
 
 
-![](assets/FB view as.gif)
+![](assets/FB%20view%20as.gif)
 
 
 
 
 ### Кто может связаться со мной?
 
-![](assets/Facebook - Who can contact me.gif)
+![](assets/Facebook%20-%20Who%20can%20contact%20me.gif)
 
 ### Как Мне Прекратить Назойливое Общение?
 
-![](assets/Facebook - Blocking.gif)
+![](assets/Facebook%20-%20Blocking.gif)
 
 ## Twitter
 
 ### Безопасность и конфиденциальность
 
-![](assets/Twitter - Security  and privacy.gif)
+![](assets/Twitter%20-%20Security%20and%20privacy.gif)
 
 ## Устройства
 
