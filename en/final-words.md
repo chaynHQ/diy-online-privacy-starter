@@ -7,7 +7,7 @@ To read the full, Advanced guide in English click [here](https://chayn.gitbooks.
 
 ### Thank Yous!
 
-[](assets/Fox Cat Thing v small.png)
+[](assets/Fox%20Cat%20Thing%20v%20small.png)
 
 This guide is a project by [CHAYN](http://chayn.co), an open-source project that uses technology to empower women against violence and oppression so they can live happier and healthier lives. CHAYN created a set of privacy guides after several interactions with real-life domestic abuse survivors, reading scores of articles on doxxing of women online, and from our very own experiences as women who use the internet. Technology and the internet opens us up to new worlds and provides us information at the touch of a button, but it can also open us up to security risks.  
 
