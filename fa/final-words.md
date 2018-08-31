@@ -11,5 +11,5 @@ Hope you enjoyed our guide!
 Translation by Muhibullah Shadan.
 
 ---
-![](assets/chayn icon.jpg)
+![](assets/chayn%20icon.jpg)
 
