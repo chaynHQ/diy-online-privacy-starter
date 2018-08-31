@@ -21,7 +21,7 @@
 
 
 ### چگونه از آزار و اذیت دیگران جلوگیری نمایم؟
-![](assets/Facebook - Blocking.gif)
+![](assets/Facebook%20-%20Blocking.gif)
 
 
 
@@ -30,7 +30,7 @@
 
 ### امنیت و حریم خصوصی
 
-![](assets/Twitter - Security  and privacy.gif)
+![](assets/Twitter%20-%20Security%20and%20privacy.gif)
 
 
 
