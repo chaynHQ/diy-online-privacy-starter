@@ -18,7 +18,7 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 4. Modifica le impostazioni nella sezione **Privacy**
 
-5. Seleziona l’opzione** Invia una richiesta "Non tenere traccia" con il tuo traffico di navigazione **cliccandoci sopra \(**Send “Do Not Track” request with your browser traffic** se in inglese\)
+5. **Seleziona l’opzione** Invia una richiesta "Non tenere traccia" con il tuo traffico di navigazione **cliccandoci sopra \(Send “Do Not Track” request with your browser traffic** se in inglese\)
 
 ![](assets/Pic%201.%20Chrome%20impostazioni%20privacy.png)
 
@@ -38,7 +38,7 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 6. Fai clic su **OK**
 
-7. Chiudi la pagina **about: preferences**. Le eventuali modifiche apportate verranno salvate automaticamente.![](assets/Pic 3. Firefox.png)
+7. Chiudi la pagina **about: preferences**. Le eventuali modifiche apportate verranno salvate automaticamente.![](assets/Pic%203.%20Firefox.png)
 
 ### **Se usi Safari**
 
@@ -66,7 +66,7 @@ Prima di tutto, fai un test per vedere qual è il livello di sicurezza del tuo b
 
 • [Brave](https://www.brave.com/) è un browser che blocca automaticamente le pubblicità e chiunque provi a tracciarti
 
-• [Tor](https://it.wikipedia.org/wiki/Tor_(software) ) è un software di browsing che permette di navigare su internet in completo anonimato
+• [Tor](https://it.wikipedia.org/wiki/Tor_(software) è un software di browsing che permette di navigare su internet in completo anonimato
 
 • [DuckDuckGo](https://duckduckgo.com/about) è un motore di ricerca privato che non traccia i suoi utenti
 
@@ -80,7 +80,7 @@ La modalità di navigazione in incognito impedisce al tuo browser di salvare nel
 
 • Apri Google Chrome
 
-• Fai clic sul pulsante del menu ![](https://lh6.googleusercontent.com/Rd3dyh7JOq6S9I0NlQzMu_7bEe2Lv9XSdNkqInQxq3V8tBAMfipzUnGqDuk3DAjhjGxb6-X_-Iua-IX2d9OpDhrPcVTtYiEmheyRJ6EYl9xIMudNB8O662uK5WqY0GfSMXTcy33W2XQlUURNdA "ew Fx Menu") e seleziona **Nuova finestra di navigazione in incognito **OPPURE premi insieme Ctrl + Shift + N \(oppure Command + Shift + N se hai un Mac\) e ti si aprirà la finestra di navigazione in incognito.
+• Fai clic sul pulsante del menu ![](https://lh6.googleusercontent.com/Rd3dyh7JOq6S9I0NlQzMu_7bEe2Lv9XSdNkqInQxq3V8tBAMfipzUnGqDuk3DAjhjGxb6-X_-Iua-IX2d9OpDhrPcVTtYiEmheyRJ6EYl9xIMudNB8O662uK5WqY0GfSMXTcy33W2XQlUURNdA "ew Fx Menu") e seleziona **Nuova finestra di navigazione in incognito OPPURE premi insieme Ctrl + Shift + N \(oppure Command + Shift + N se hai un Mac\) e ti si aprirà la finestra di navigazione in incognito.**
 
 ![](assets/Pic%207%20chrome%20incognito.jpg)
 
@@ -146,7 +146,7 @@ Le estensioni del browser \(che possono essere Add-ons o Plugins\) sono programm
 
 • Apri Chrome sul computer e fai clic su **Altro** ![](https://lh3.googleusercontent.com/IQacfCiJLdJCWS6nQ8lKu9JBq7HpB4DuhPngLtOQI0zLzsD519uCfuTOMIZ1yCFEzXITVN1Z4iILT_y7pH5uaQxFS5cbODpMpruUSPx6Jtk4lNzgaAAL-IDZJpd7iz-vn9UQoeWdhDXGFXmLmA "ltro") in alto a destra.
 
-• Fai clic su **Cronologia **![](https://lh3.googleusercontent.com/vVEFoOq9ugXrC1aHv6BdVqErVFdXlPAZPG1aG4-BnVNMfvBlsSR55ZF3WisukWnKoukIRCoPuDrF8hM9A09P3YqyrNaFIKdAwdi5t_mitzPlEhfiInaYYY6rtBM7F2ErW63SUQ4tmPem_TT9Vg " poi")
+• Fai clic su **Cronologia ** ![](https://lh3.googleusercontent.com/vVEFoOq9ugXrC1aHv6BdVqErVFdXlPAZPG1aG4-BnVNMfvBlsSR55ZF3WisukWnKoukIRCoPuDrF8hM9A09P3YqyrNaFIKdAwdi5t_mitzPlEhfiInaYYY6rtBM7F2ErW63SUQ4tmPem_TT9Vg " poi")
 
 • A sinistra, fai clic su **Cancella dati di navigazione**. Verrà visualizzata una finestra.
 
@@ -162,7 +162,7 @@ Le estensioni del browser \(che possono essere Add-ons o Plugins\) sono programm
 
 ### **Estensioni consigliate per fare pulizia nel tuo computer**
 
-• [CCleaner](http://www.piriform.com/ccleaner\) per avere istruzioni su come installarlo e usarlo [leggi qui](https://articoli.it.softonic.com/come-pulire-il-pc-con-ccleaner-senza-aprire-il-programma\)
+• [CCleaner](http://www.piriform.com/ccleaner) per avere istruzioni su come installarlo e usarlo [leggi qui](https://articoli.it.softonic.com/come-pulire-il-pc-con-ccleaner-senza-aprire-il-programma\)
 
-• [BleachBit](http://www.bleachbit.org/\) per avere istruzioni su come installarlo e usarlo [leggi qui](http://verytech.smartworld.it/come-usare-bleachbit-60253.html#steps_0\)
+• [BleachBit](http://www.bleachbit.org/) per avere istruzioni su come installarlo e usarlo [leggi qui](http://verytech.smartworld.it/come-usare-bleachbit-60253.html#steps_0\)
 
