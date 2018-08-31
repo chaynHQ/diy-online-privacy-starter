@@ -19,11 +19,11 @@
 
 **Chrome**&gt;Настройки-Показать Дополнительные Настройки--Личные Данные-Отправлять запрет отслеживания с исходящим трафиком
 
-![](assets/chrome - do not track.gif)
+![](assets/chrome%20-%20do%20not%20track.gif)
 
 **Firefox** &gt; Опции &gt; Приватность &gt; управлять параметрами “Не отслеживать”
 
-![](assets/Firefox - do not track.gif)
+![](assets/Firefox%20-%20do%20not%20track.gif)
 
 **Safari** &gt; Safari &gt;Меню &gt; Настройки &gt;Конфиденциальность&gt; Отслеживание на веб-сайтах &gt; Попросить веб-сайты не отслеживать мои действия
 
@@ -31,7 +31,7 @@
 
 **Explorer** &gt; Explorer &gt; Инструменты \(Alt + X\) &gt;Безопасность &gt; Включить защиту от слежения &gt;Включить
 
-![](assets/explorer do not track.gif)
+![](assets/explorer%20do%20not%20track.gif)
 
 **Альтернативные браузеры и поисковые системы**
 
@@ -78,7 +78,7 @@
 
 Загрузить можно [здесь](https://www.torproject.org/projects/torbrowser.html).
 
-![](assets/Surfing the internet with TOR.gif)
+![](assets/Surfing%20the%20internet%20with%20TOR.gif)
 
 ## Расширения браузера
 
@@ -103,5 +103,5 @@
 
 ---
 
-![](assets/chayn icon.png)
+![](assets/chayn%20icon.png)
 
