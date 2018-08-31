@@ -1,15 +1,15 @@
 # Configuración de Seguridad en Redes Sociales
 
-![](assets/sad cat.png)
+![](assets/sad%20cat.png)
 
 ## Facebook
 
 ### ¿Quién Puede Ver mis Cosas?
 
-![](assets/Facebook - Who can see my stuff.gif)
+![](assets/Facebook%20-%20Who%20can%20see%20my%20stuff.gif)
 
 
-![](/assets/FB view as.gif)
+![](/assets/FB%20view%20as.gif)
 
 
 
@@ -17,13 +17,13 @@
 
 ### ¿Quién puede ponerse en contacto conmigo?
 
-![](assets/Facebook - Who can contact me.gif)
+![](assets/Facebook%20-%20Who%20can%20contact%20me.gif)
 
 
 
 ### ¿Cómo evito que me moleste?
 
-![](assets/Facebook - Blocking.gif)
+![](assets/Facebook%20-%20Blocking.gif)
 
 
 
@@ -32,7 +32,7 @@
 
 ### Seguridad y Privacidad
 
-![](assets/Twitter - Security  and privacy.gif)
+![](assets/Twitter%20-%20Security%20and%20privacy.gif)
 
 
 
@@ -128,4 +128,4 @@ Consejo Adicional IMPORTANTE:
 *  Crea una [Alerta de Google](https://www.google.com/alerts) para tu nombre
 ---
 
-![](assets/chayn icon.jpg)
+![](assets/chayn%20icon.jpg)
