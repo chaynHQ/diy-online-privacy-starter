@@ -35,5 +35,5 @@
 
 
 ---
-![](/fa/assets/chayn icon.jpg)
+![](/fa/assets/chayn%20icon.jpg)
 
