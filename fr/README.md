@@ -22,4 +22,4 @@ La bonne nouvelle : tu peux prendre des précautions pour t’en protéger ! Fai
 Il existe plusieurs façons de surveiller quelqu’un en ligne. La probabilité que cela t’arrive, et les conséquences que cela pourra avoir, dépendront beaucoup de ta situation personnelle et de celle de ton agresseur. Ce guide n’a pas réponse à tout. Il ne liste pas toutes les façons pour un agresseur/harceleur de surveiller quelqu’un, mais recueille nos meilleurs conseils et ressources. A toi de jouer !
 
 --
-![](assets/chayn icon.jpg)
+![](assets/chayn%20icon.jpg)
