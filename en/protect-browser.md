@@ -1,4 +1,4 @@
-# How to pawtect\(fine.. protect\) your browser
+# How to pawtect (fine.. protect) your browser
 
 ![](assets/HypuuurLynx.gif)
 
@@ -17,14 +17,14 @@ Cover your camera!
 
 **Chrome** &gt; Settings &gt; Show Advanced Settings &gt; &gt; Privacy &gt; Send “Do Not Track” request with your browser traffic
 
-![](assets/chrome - do not track.gif)
+![](assets/chrome%20-%20do%20not%20track.gif)
 
 
 
 **Firefox** &gt; Options &gt; Privacy &gt; manage your Do Not Track settings
 
 
-![](assets/Firefox - do not track.gif)
+![](assets/Firefox%20-%20do%20not%20track.gif)
 
 
 **Safari** &gt; Menu &gt; Preferences &gt; Privacy &gt; Website tracking &gt; Ask websites not to track me
@@ -36,7 +36,7 @@ Cover your camera!
 **Explorer** &gt; Tools \(Alt + X\) &gt; Safety &gt; Turn on tracking protection &gt; Enable
 
 
-![](assets/explorer do not track.gif)
+![](assets/explorer%20do%20not%20track.gif)
 
 
 **Alternative Browsers and Search Engines**
@@ -81,7 +81,7 @@ The Tor Browser is designed to help keep you anonymous and is a simple yet effec
 
 Download it[ here](https://www.torproject.org/projects/torbrowser.html).
 
-![](assets/Surfing the internet with TOR.gif)
+![](assets/Surfing%20the%20internet%20with%20TOR.gif)
 
  ## Browser Extensions
 
