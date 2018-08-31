@@ -52,5 +52,5 @@
 
 
 ---
-![](/assets/chayn icon.png)
+![](/assets/chayn%20icon.jpg)
 
