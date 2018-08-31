@@ -1,6 +1,6 @@
 # Riesgos
 
-![](assets/Fox Cat Thing v small.png)
+![](assets/Fox%20Cat%20Thing%20v%20small.png)
 
 ## 1. Identifica tus riesgos de seguridad
 Debes cuidar tu presencia en línea tanto como cuidas tu presencia física.  Asegurar tu presencia en línea  es crucial para tu salud y tu felicidad; si alguien se entromete en tu espacio en línea,  es fácil sentirse violado. 
@@ -42,4 +42,4 @@ Tu teléfono puede ser intervenido para grabar y transmitir cualquier sonido den
 
 ---
 
-![](assets/chayn icon.jpg)
+![](assets/chayn%20icon.jpg)
