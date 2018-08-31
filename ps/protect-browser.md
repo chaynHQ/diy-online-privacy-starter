@@ -18,7 +18,7 @@
 **Chrome** 
 Chrome > Settings > Show Advanced Settings > > Privacy > Send “Do Not Track” request with your browser traffic
 
-![](assets/chrome - do not track.gif)
+![](assets/chrome%20-%20do%20not%20track.gif)
 
 
 
@@ -31,7 +31,7 @@ Firefox > Options > Privacy > manage your Do Not Track settings
 * و یا Ctrl + Shift + P را همزمان فشار بدهید.
 
 
-![](assets/Firefox - do not track.gif)
+![](assets/Firefox%20-%20do%20not%20track.gif)
 
 
 **Safari** 
@@ -45,7 +45,7 @@ Safari > Menu > Preferences > Privacy > Website tracking > Ask websites not to t
 
 Explorer > Tools (Alt + X) > Safety > Turn on tracking protection > Enable
 
-![](assets/explorer do not track.gif)
+![](assets/explorer%20do%20not%20track.gif)
 
 
 
@@ -115,4 +115,6 @@ Explorer > Tools (Alt + X) > Safety > Turn on tracking protection > Enable
 
 
 ---
-که چیرې تاسو په پاکستان کې ژوند کوئ او په انګلیسي /اردو ژبو خبرې کوئ، کولای شئ د ډیجیټل حقوقي بنسټونو انلاین ځورونې مرستندویه لاین سره د دوشنبې – جمعې ورځ د سهار ۹ بجو تر مازدیګر ۵ بجو پورې په لاندې ټیلفوني شمیره او بریښنالیک اړیکه ونیسئ.ټیلفون شمیره: +92 0800-39393بریښنالیک: helpdesk@digitalrightsfoundation.pk
+که چیرې تاسو په پاکستان کې ژوند کوئ او په انګلیسي /اردو ژبو خبرې کوئ، کولای شئ د ډیجیټل حقوقي بنسټونو انلاین ځورونې مرستندویه لاین سره د دوشنبې – جمعې ورځ د سهار ۹ بجو تر مازدیګر ۵ بجو پورې په لاندې ټیلفوني شمیره او بریښنالیک اړیکه ونیسئ.
+ټیلفون شمیره: +92 0800-39393
+بریښنالیک: helpdesk@digitalrightsfoundation.pk
