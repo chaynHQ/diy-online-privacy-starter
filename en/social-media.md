@@ -1,6 +1,6 @@
 # Social Media & Devices
 
-![](assets/sad cat.png)
+![](assets/sad%20cat.png)
 
 ## Facebook
 
