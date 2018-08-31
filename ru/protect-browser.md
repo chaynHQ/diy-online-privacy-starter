@@ -103,5 +103,5 @@
 
 ---
 
-![](assets/chayn%20icon.png)
+![](assets/chayn%20icon.jpg)
 
