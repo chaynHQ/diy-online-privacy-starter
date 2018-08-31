@@ -1,20 +1,20 @@
 # د ټولنیزو رسینو محرمیت تنظیمات
 
-![](assets/sad cat.png)
+![](assets/sad%20cat.png)
 
 ## Facebook فیسبوک
 
 ### څوک له ما سره اړیکه نیولی شي؟
 
-![](assets/Facebook - Who can see my stuff.gif)
+![](assets/Facebook%20-%20Who%20can%20see%20my%20stuff.gif)
 
 
-![](assets/FB view as.gif)
+![](assets/FB%20view%20as.gif)
 
 
 
 ### څنګه کولای شم د هغه چا مخنیوي وکړم  چې مې ځوروي؟ 
-![](assets/Facebook - Who can contact me.gif)
+![](assets/Facebook%20-%20Who%20can%20contact me.gif)
 
 
 
@@ -27,7 +27,7 @@
 ## Twitter توییتر
 
 ### امنیت او محرمیت
-![](assets/Twitter - Security  and privacy.gif)
+![](assets/Twitter%20-%20Security%20and%20privacy.gif)
 
 
 
@@ -95,4 +95,6 @@
 
 
 ---
-که چیرې تاسو په پاکستان کې ژوند کوئ او په انګلیسي /اردو ژبو خبرې کوئ، کولای شئ د ډیجیټل حقوقي بنسټونو انلاین ځورونې مرستندویه لاین سره د دوشنبې – جمعې ورځ د سهار ۹ بجو تر مازدیګر ۵ بجو پورې په لاندې ټیلفوني شمیره او بریښنالیک اړیکه ونیسئ.ټیلفون شمیره: +92 0800-39393بریښنالیک: helpdesk@digitalrightsfoundation.pk
+که چیرې تاسو په پاکستان کې ژوند کوئ او په انګلیسي /اردو ژبو خبرې کوئ، کولای شئ د ډیجیټل حقوقي بنسټونو انلاین ځورونې مرستندویه لاین سره د دوشنبې – جمعې ورځ د سهار ۹ بجو تر مازدیګر ۵ بجو پورې په لاندې ټیلفوني شمیره او بریښنالیک اړیکه ونیسئ.
+ټیلفون شمیره: +92 0800-39393
+بریښنالیک: helpdesk@digitalrightsfoundation.pk
