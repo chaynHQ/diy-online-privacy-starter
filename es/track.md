@@ -1,7 +1,7 @@
 # ¿Cómo te pueden estar siguiendo el rastro?
 ## Seguimiento de tus hábitos en línea
 
-![](assets/Not the best looking cat copy.png)
+![](assets/Not%20the%20best%20looking%20cat%20copy.png)
 
 Mientras navegas la web, una tecnología sofisticada está recopilando datos sobre ti a través de proveedores de correo electrónico, aplicaciones de teléfonos móviles (apps), motores de búsqueda,  navegadores y  mensajería (chats) de redes sociales. En las manos de tu agresor, esta información podría poner en peligro tu privacidad personal, el control sobre tu identidad en línea y tu acceso a información gratuita. 
 
@@ -25,4 +25,4 @@ Ten en cuenta que tu acosador puede monitorear los dispositivos electrónicos de
 
 ---
 
-![](assets/chayn icon.jpg)
+![](assets/chayn%20icon.jpg)
