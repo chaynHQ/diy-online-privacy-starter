@@ -6,22 +6,22 @@
 
 ### Who Can See My Stuff?
 
-![](assets/Facebook - Who can see my stuff.gif)
+![](assets/Facebook%20-%20Who%20can%20see%20my%20stuff.gif)
 
 
 
-![](/assets/FB view as.gif) 
+![](/assets/FB%20view%20as.gif) 
 
 
 ### Who Can Contact Me?
 
-![](assets/Facebook - Who can contact me.gif)
+![](assets/Facebook%20-%20Who%20can%20contact%20me.gif)
 
 
 
 ### How Do I Stop Someone From Bothering Me?
 
-![](assets/Facebook - Blocking.gif)
+![](assets/Facebook%20-%20Blocking.gif)
 
 
 
@@ -30,7 +30,7 @@
 
 ### Security and Privacy
 
-![](assets/Twitter - Security  and privacy.gif)
+![](assets/Twitter%20-%20Security%20%20and%20privacy.gif)
 
 
 
@@ -54,7 +54,7 @@ See [How to Turn Off Location Services on iOS](http://www.tomsguide.com/us/turn-
 
 ### Signal
 
-[Signal by Open Whisper Systems](https://whispersystems.org/) is a[ ](https://en.wikipedia.org/wiki/Free_and_open-source_software)[free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software) encrypted [ voice calling](
+[Signal by Open Whisper Systems](https://whispersystems.org/) is a[ ](https://en.wikipedia.org/wiki/Free_and_open-source_software)[free and open-source](https://en.wikipedia.org/wiki/Free_and_open-source_software) encrypted [voice calling](
 https://en.wikipedia.org/wiki/Voice_calling) and instant messaging application for Android, iOS and [desktop](https://whispersystems.org/blog/signal-desktop). It uses [end-to-end encryption](https://en.wikipedia.org/wiki/End-to-end_encryption) to secure all communications to other Signal users. Signal can be used to send and receive encrypted instant messages, group messages, attachments and media messages.
 
 [Security Tips Every Signal User Should Know](https://theintercept.com/2016/07/02/security-tips-every-signal-user-should-know/)
