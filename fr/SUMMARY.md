@@ -1,6 +1,6 @@
 # Summary
 
-* [Salut](README.md)
+* [Salut!](README.md)
 * [Comment es-tu surveillée ?](track.md)
 * [Faire le bilan des risques](risks.md)
 * [Configurer un mot de passe qui dé-chat-re](passwords.md)
